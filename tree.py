@@ -30,6 +30,17 @@ class Tree(object):
             node.parent = self.root
             # print node.id
 
+        # merge 1 level nodes if they are the child of this node
+        for child_id, child_node in self.root.get_children().items():
+            if child_id in node.get_children().keys():
+                id_to_del = child_id
+                node.get_children()[id_to_del] = child_node
+                del self.root.get_children()[id_to_del]
+                child_node.set_level(node.get_level() + 1)
+
+
+
+
 
 
 

@@ -45,8 +45,7 @@ for idx,row in df.iterrows():
 for id,tree in courses.items():
 	# tree.print_tree()
 	tree.get_root().print_weird()
-
-	tree.get_root().find_node("odDUXQbmYQGcdApIJQrK58kiwHmgSuNq").print_parents()
+	tree.get_root().find_node("bY7CWrpNV7Z0RnytOGVKqWcKp7rlWVd0").print_parents()
 
 
 

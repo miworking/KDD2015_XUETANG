@@ -86,8 +86,6 @@ class Node(object):
 
     def print_node(self):
         print "|",
-        if self.id == "bY7CWrpNV7Z0RnytOGVKqWcKp7rlWVd0":
-            print "level = " + str(self.level)
         for i in range(self.level):
             print "----",
         print "[" + self.id + "]"
