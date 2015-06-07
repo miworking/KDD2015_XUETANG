@@ -1,15 +1,14 @@
-from node import *
+from course_tree_node import *
 
-class Tree(object):
-    def __init__(self,course_id,root):
-        self.course_id = course_id
-        self.root = root
+class CourseTree(object):
 
     def __init__(self,course_id):
         self.course_id = course_id
-        self.root = Node(0)
+        self.root = CourseTreeNode("0")
         self.root.level = 0
         self.root.parent = None
+
+
 
     def get_courseid(self):
         return self.course_id
@@ -31,12 +30,14 @@ class Tree(object):
             # print node.id
 
         # merge 1 level nodes if they are the child of this node
-        for child_id, child_node in self.root.get_children().items():
+        for child_id, root_child in self.root.get_children().items():
             if child_id in node.get_children().keys():
                 id_to_del = child_id
-                node.get_children()[id_to_del] = child_node
+                node.get_children()[id_to_del] = root_child
                 del self.root.get_children()[id_to_del]
-                child_node.set_level(node.get_level() + 1)
+                root_child.set_level(node.get_level() + 1)
+                root_child.parent = node
+
 
 
 
@@ -45,18 +46,23 @@ class Tree(object):
 
 
     def print_tree(self):
-        print "----TREE--" + self.course_id + "------"
+        print "----TREE---------" + self.course_id + "------"
         for id,child in self.root.get_children().items():
             if child is None:
                 print "(" + id + ")"
             else:
-                child.print_node()
+                child.print_node_and_children()
 
 
     def print_node_path(self,id):
-        if self.root.find_node(id):
+        if self.root.find_node_parent(id):
             print id + "/",
-            self.root.find_node(id).print_parents()
+            self.root.find_node_parent(id).print_parents()
+
+
+    def find(self,id):
+        return self.root.find_node(id)
+
 
 
 

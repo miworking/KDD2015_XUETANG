@@ -1,22 +1,29 @@
-from tree import *
+from course_tree import *
+from enrollment_tree_node import *
+from full_tree_node import *
+import time,datetime
 
-class Node(object):
-    def __init__ (self,id,parent,children,level,category) :
-        self.id = id
-        self.parent = parent
-        self.children = children
-        self.level = level
-        self.category = category
 
-    def __init__ (self, id) :
+class CourseTreeNode(object):
+    def __init__(self,id):
         self.id = id
         self.parent = None
         self.children = {}
         self.level = 0
         self.category = None
+        self.start = None
 
 
 
+
+
+
+
+    def set_category(self,category):
+        self.category = category
+
+    def set_start(self,start):
+        self.start = start
 
     def get_parent(self):
         return self.parent
@@ -27,6 +34,8 @@ class Node(object):
     def get_level(self):
         return self.level
 
+    def get_category(self):
+        return self.category
     def set_level(self,level):
         self.level = level
         for child in self.get_children().values():
@@ -53,8 +62,9 @@ class Node(object):
 
 
 
+    # this will return the parent to this node
 
-    def find_node(self,id):
+    def find_node_parent(self,id):
         if self.id == id:
             return self.parent
         else:
@@ -66,6 +76,22 @@ class Node(object):
                         if child.find_node(id) is not None:
                             return child.find_node(id)
         return None
+
+
+    def find_node(self,id):
+        if self.id == id:
+            return self
+        else:
+            for child_id,child in self.children.items():
+                if child is not None:
+                    if child.find_node(id) is not None:
+                        return child.find_node(id)
+        return None
+
+
+
+
+
 
 
 
@@ -84,15 +110,24 @@ class Node(object):
                         return True
         return False
 
-    def print_node(self):
+    def print_node_and_children(self):
         print "|",
         for i in range(self.level):
-            print "----",
-        print "[" + self.id + "]"
+            print "--",
+        print "[" + self.id + "]" + ":" + str(self.category) +":" + str(self.start)
 
         for child in self.children.values():
             if child is not None:
-                child.print_node()
+                child.print_node_and_children()
+
+
+
+    def print_node(self):
+        print "|",
+        for i in range(self.level):
+            print "--",
+        print "[" + self.id + "]"
+
 
 
     def get_first_level(self):
@@ -120,4 +155,38 @@ class Node(object):
                     child.print_weird()
 
 
+
+    def copy_to_ETNode(self):
+        node = Enrollment_Tree_Node(self.id)
+        node.category = self.category
+        node.level = self.level
+        if node.start is not None:
+            node.start = datetime.datetime.strptime(self.start,"%Y-%m-%dT%H:%M:%S")
+        else:
+            node.start = None
+
+        for child_id,child in self.children.items():
+            if child is not None:
+                node.children[child_id] = child.copy_to_ETNode()
+
+        return node
+
+    def copy_to_FullNode(self):
+        node = FullTreeNode(self.id)
+        node.category = self.category
+        node.level = self.level
+        if self.start == 'null' :
+            node.start = None
+        else:
+            if self.start == None:
+                node.start = None
+            else:
+                node.start = datetime.datetime.strptime(self.start,"%Y-%m-%dT%H:%M:%S")
+
+
+        for child_id,child in self.children.items():
+            if child is not None:
+                node.children[child_id] = child.copy_to_FullNode()
+
+        return node
 
