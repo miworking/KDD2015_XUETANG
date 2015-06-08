@@ -26,6 +26,20 @@ class FullTreeNode(object):
     def set_level(self,level):
         self.level = level
 
+    def get_level(self):
+        return self.level
+    def get_children(self):
+        return self.children
+
+    def get_category(self):
+        return self.category
+
+    def get_start(self):
+        return self.start
+
+    def get_id(self):
+        return self.id
+
     def find_node(self,id):
         if self is None:
             return None
@@ -87,8 +101,6 @@ class FullTreeNode(object):
         self.earliest = possible_earliest
 
     def rectify_time(self,time):
-        print "start:" + str(self.start)
-        print "earliest:" + str(self.earliest)
         if (self.start is None) & (self.earliest is None):
             self.start = time
         else:
@@ -99,4 +111,26 @@ class FullTreeNode(object):
 
         for child in self.children.values():
             child.rectify_time(self.start)
+
+
+    def find_seq(self,seq):
+        if (self.level == 3) & (self.category == 'sequential'):
+            seq[self.get_start()] = self
+        if self.get_children():
+            for child in self.get_children().values():
+                child.find_seq(seq)
+
+    def adjust_category(self):
+        type = 'unknown'
+        changed = False
+        for accesslong in self.access_log.values():
+            if type == 'unknown':
+                type = accesslong.get_event()
+            else:
+                if type != accesslong.get_event():
+                    changed = True
+                    break
+
+        if changed == False:
+            self.category = type
 

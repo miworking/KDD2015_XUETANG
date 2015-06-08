@@ -50,9 +50,15 @@ for course_id,tree in courses.items():
 	for idx,row in log.iterrows():
 		full_tree.add_access_log(AccessLog(row.object,row.time,row.source,row.event,row.enrollment_id))
 	# full_tree.print_tree()
+	f = open('./train/courseDump/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt','w')
+
 	full_tree.rectify_time()
+	full_tree.add_insula_to_sequentials()
+	pickle.dump(full_tree,f,0)
+
+
 	full_tree.print_tree_to_file(output)
-	output.close
+	output.close()
 	# pickle.dump(course_enrollment_trees,output,-1)
 	# output.close()
 

@@ -1,13 +1,15 @@
-import datetime
-import time
-expire_time = "2013-05-21T09:50:35"
-d = datetime.datetime.strptime(expire_time,"%Y-%m-%dT%H:%M:%S")
-print d.date()
-print d.time()
+import pandas as pd
+import pickle
+import numpy as np
+import os
+from course_tree import *
+from full_tree import *
+from full_tree_node import *
 
-a = 1
-b = 2
-if a < 3 & b < 3:
-    print "yes"
+f = open('./train/courseDump/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt','r')
+full_tree = pickle.load(f)
+full_tree.test_print()
+full_tree.get_root().test_print()
 
 
+f.close()

@@ -1,0 +1,985 @@
+/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 /Users/mizhou/Documents/python/kdd/build_course_tree.py
+----TREE---------5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2------
+| -- [rZTurLOnmDYegq2uMtGJvLj7xsvIpVXN]:vertical:null
+| -- -- [ZWA1qkTDtyTjYuzEt5oBSaSKItTXVSH8]:problem:null
+| -- [OJOUvkIzo8uJaz5CIFUdyYjTTJkijCrz]:sequential:null
+| -- [5SYMfopKB6PPdwqqJS6KySnhvvTEUycH]:vertical:null
+| -- -- [uREe2MhnydJ1IEcrrrcyOE41h4D4iipl]:problem:null
+| -- [OGOSsamaykaGiSTYKWyAbNBSIPgelHE6]:vertical:null
+| -- -- [tlFTw9Da83lQB6Pm1QrsM66PEUBrhOcD]:problem:null
+| -- [f9P2fxnCx1eYUyndL7xQoVeLqvjEo2L2]:vertical:null
+| -- -- [SL9d9cqqJq6FJPb6GtGLTKZkxzE2jien]:video:null
+| -- [2FfllIXar6deQIO7vdb2P4k2hWOD2zNJ]:vertical:null
+| -- -- [ofETRa6qlenQ8aYJJ1Bd8QO70Zpp92GG]:problem:null
+| -- [fsGIzGLP5Tcu1QCU89vV0L81s8NK9HYg]:problem:null
+| -- [nVxELe8a32aq10ZGjzTzmir89bgkcSH2]:vertical:null
+| -- -- [y0yV2PjrtsWvC3bL4VEmVcFplGEbMHHF]:problem:null
+| -- [vLjaE19m0SD45dnPKedLrNCHiRh5mHmq]:vertical:null
+| -- -- [zh53rsjDn8lPxtCcJpx8W0eOoqlTy1yv]:problem:null
+| -- [GYrGYdTdTD0iXepNPVeQBvZ7CuT8CODK]:vertical:null
+| -- -- [uTHtQx9x54XetRalzOGZVlpqXTEqS4Tk]:problem:null
+| -- [kyhs47yPyHsBckr1Z2QHOshPQr3ppRAD]:vertical:null
+| -- -- [Yaf9xh5TT4Oizb1jMOMtIYwTqTZiQgO0]:problem:null
+| -- [RYjpLFSVOSxvz8S7QhDgvQNgQaMENJO6]:vertical:null
+| -- -- [N10f8fDT71TuEGgA95bRhliN3cASI2bo]:problem:null
+| -- [7IGCupnB67BozbBxv1KUHxp8LAcWuPHC]:vertical:null
+| -- -- [D1biIOpaCRHDXDPgUh4Z9tIBrsaS24HD]:problem:null
+| -- [uQnnkPdNBIB3FaapKh1IQFVqbveOpgDO]:vertical:null
+| -- -- [TRbeLJHsr10rrAiWPgUfxQ6XmfmSNxtF]:problem:null
+| -- [GlhlOkUkG4S8iSaqTgz2ftRyStlLFRcB]:static_tab:null
+| -- [Gmu6XpIheq88jGQ54turGPpu4j1Ipc6x]:vertical:null
+| -- -- [NmfU0mmXAKLV6Q403qcjAAMVTjbpGMLo]:problem:null
+| -- [1GLohLu8pNTSJYbFHLtJZpEf83G8nlcd]:vertical:null
+| -- -- [GOxz5vuwjXX0WMIozqSzfsJp8ekTj56V]:problem:null
+| -- [Gg94FzUgSpSxOYbqh0g99HNH1v0mUywY]:course:2014-06-09T01:00:00
+| -- -- [iVSavJ4039P05hpPhLptsAaGOypDogfH]:chapter:2014-08-11T01:00:00
+| -- -- -- [ENFWGupIfaqmHlYmmUvZC6ETRTO1ic0S]:sequential:2014-08-11T01:00:00
+| -- -- -- -- [0OrbNLfiAeQc4lbvwtJKYcHzJyTCPsec]:vertical:null
+| -- -- -- -- -- [5vLV6RqWPDaIXnIXjhZHn0X7oLoS1bZs]:problem:null
+| -- -- -- -- [O1iTVIKWq83QdZqfhYDaSRijaAUiU3za]:vertical:null
+| -- -- -- -- -- [NMrJNP74QWYGKbKZFdrhPmv7IoqjMt9b]:video:null
+| -- -- -- -- [0FMpqpjh1Ypyo0Pt9lD3jidQ8hjkjnqV]:vertical:null
+| -- -- -- -- -- [jKnGnhgGJr6XwT2s7oMnwWbx7xbnae5G]:video:null
+| -- -- -- -- [OdblPMa3hhJbxoAwLxg4yTGxHEi7q8gl]:vertical:null
+| -- -- -- -- -- [24lw221FXRPWmsaE4G2RRIjMYgL0l7Dk]:video:null
+| -- -- -- -- [oaWP1IqOWze3VXd5sYRvyEZD6lUqzPRa]:vertical:null
+| -- -- -- -- -- [QBRHgZD7KcLpTdKXvSqwMaycdLY7wzaF]:problem:null
+| -- -- -- -- [Uy6ux3pW1lB4mYAoQQuqe5EO87BvkZ7c]:vertical:null
+| -- -- -- -- -- [5DSWYvQdZBRUwEH6rEGBvej6NHZ6B0l8]:video:null
+| -- -- -- -- [ehLjxyWjIGzAUS9OsDw1dzEMlwNVAv8q]:vertical:null
+| -- -- -- -- -- [68bnQPxEC0UmOspSXqf2Sptexlo9pGcE]:problem:null
+| -- -- -- -- -- [ydd19EIEfo9sziz60fAZsFZadtdi88rj]:problem:null
+| -- -- -- -- [bKGG27Oi3IJ6np9tJ3sqPUR5Swin2vWA]:vertical:null
+| -- -- -- -- -- [u60oYJBXSBQnBzHZT70m3nv2CKSwrUpQ]:video:null
+| -- -- -- [S3sF2odTzEKSQEuVmOEZzlE04HPeRyuT]:sequential:2014-08-11T01:00:00
+| -- -- -- -- [X9hVjpUIUrqRPjfDHNqeQK30SuxIWguN]:vertical:null
+| -- -- -- -- -- [ofUQw7YlmBjkmHSN6CXeVadXT8PQUVmK]:video:null
+| -- -- -- -- [9cOpZEzEGZ5C2JavdGxwKtrdtArrrnkR]:vertical:null
+| -- -- -- -- -- [A9QUcITgcPSrTLRo5eK1lQrp6b1h91B2]:video:null
+| -- -- -- -- [oToJ8VukbtF1bX113R4ghVzr7Lb7ylvE]:vertical:null
+| -- -- -- -- -- [Wz1q9QH8twXZPkH5zSIpHuAxC3p7KaJW]:problem:null
+| -- -- -- -- -- [k5eO1Uhkt2jpZfRCbYdniefCsQdNOJF4]:problem:null
+| -- -- -- -- -- [YMif1KsxnNLAcqLm1yrhSc3D0UYDz43g]:problem:null
+| -- -- -- [s0FLhztv49u4OmslldjAcHeeto616mUW]:sequential:2014-08-11T01:00:00
+| -- -- -- -- [jTXy0NIGFTWB6rP6SIEuF3TjbB44p2wh]:vertical:null
+| -- -- -- -- -- [jTkbkTjqDRu0hOE9Ce02GymlKrC8XvYI]:problem:null
+| -- -- -- -- -- [xuuWzWuljScGPmyZHyHJ9mVkAexHKJlX]:problem:null
+| -- -- -- -- [6fCYYEH0HjHBQsiLgZ8vyDmUkTsLTa4o]:vertical:null
+| -- -- -- -- -- [Xy10xea2o3FC0Lr4JkRPHvBu8PPPcuFO]:video:null
+| -- -- -- -- [60E7xUE0WKwkbabXyzDfujKjFq3x7eyf]:vertical:null
+| -- -- -- -- -- [oaO3LebDsmkoXx4gyJ4TcILoAvGpNc0M]:problem:null
+| -- -- -- -- -- [7vspxCwLL3dBmmg0Ud8SdGtqtigBSDjj]:problem:null
+| -- -- -- -- -- [Jmk55P1X24JMz9urWmQ7ZtORJGv9VBHK]:problem:null
+| -- -- -- -- [sm8GTjiLAaThm9Sv31I6f3uWDDgvhRXb]:vertical:null
+| -- -- -- -- -- [dGxhPbOp7J6gYIeLPX4UQp72JXU8Sexk]:video:null
+| -- -- -- -- [M4YpNY0LDZrfYDjrPAYgT8zBlwkuHKld]:vertical:null
+| -- -- -- -- -- [wFOhlRZy3hmCnGw4LBWLxelex0w1MSRh]:video:null
+| -- -- -- [rGtX5BpHvz0AIKN463hOl7tOrFS7h3XE]:sequential:2014-08-11T01:00:00
+| -- -- -- -- [0JKMUoBzX12BUjqCSiJ42aBMiYmZRPl0]:vertical:null
+| -- -- -- -- -- [OA2OyfaFRL4rKKJ9wJxbixaEbjjLA39t]:video:null
+| -- -- -- -- [aggpSXx4HwNqMSEAabzNo68jw9cqwrg4]:vertical:null
+| -- -- -- -- -- [wFSs0Sf50rJprHCSkBvaLjYpSRCoB03O]:video:null
+| -- -- -- -- [aRBfpbNwP3QSW2ktEz2AOojYvG1ibBBk]:vertical:null
+| -- -- -- -- -- [n42XayWC5Po3zOipuwIzlLws0jHGMpQG]:problem:null
+| -- -- -- -- [g9KTZaO6HCaBkvQvJY3HBAFIUt6ozwHP]:vertical:null
+| -- -- -- -- -- [gGHbLRea5vyrM5eCBGO2eoUTxBUStnLU]:problem:null
+| -- -- -- -- [wp705Jn7Z7m13ROK7mCweb1akVmlUlwz]:vertical:null
+| -- -- -- -- -- [o5dZeRXux1pVvgLal2bCLXVru6qfaF8l]:video:null
+| -- -- -- -- [aVEWjVj7CzGXcZPA3GihUsb38cWDyM3r]:vertical:null
+| -- -- -- -- -- [HCHa4ALXoBlUV3aMY1r3YzKAr2OtWPWy]:problem:null
+| -- -- -- -- -- [CKd7AIffYOT49yoEn3Sh4Uz2wqUQfyBi]:problem:null
+| -- -- -- -- -- [U9WaM65A3zPkBeGMmOQr3JFt1sbpuzjG]:problem:null
+| -- -- -- [nE2hoRAyu2DDt3mhgGl4p2VgISX0jiUG]:sequential:2014-08-11T01:00:00
+| -- -- -- -- [XaWCsPku93zUfdtxAouhcUZg6AtBRQcy]:vertical:null
+| -- -- -- -- -- [RfLhElsmJa79At3gQCRGGidXJG9TiWSf]:problem:null
+| -- -- -- -- [lZNUwsn6fwEmUhNajFG6T7g4KHYgFKEW]:vertical:null
+| -- -- -- -- -- [GXGAL3fzCdmZwOnuPSDCBHScJrmNDQaP]:problem:null
+| -- -- -- -- [tFNTG2oBMAxyK0qOsoiSKeUfiHKhBJ5b]:vertical:null
+| -- -- -- -- -- [ewJg9aHQAY36LiHmkLjruibVy0Uj48UG]:problem:null
+| -- -- -- -- [n8UCaeaeN3wscEgtKBrOeTTW3z0qvg27]:vertical:null
+| -- -- -- -- -- [Fz997pc6JJyGDTUPqXS7Z7LmlqJHGy29]:problem:null
+| -- -- -- -- [PRIcjjtnUdlW4YLB5zwVaOcfC84ufygq]:vertical:null
+| -- -- -- -- -- [Hxc4vHVYwnjklkndz5yq1AIddOBXkQZV]:problem:null
+| -- -- -- -- [3vtWBYI4NO6GTNthHQ3uWMj5L4Q0p8Rl]:vertical:null
+| -- -- -- -- -- [bZFWL1fuuPN8FNWjLTqNWMRxbx7L4it1]:problem:null
+| -- -- -- -- [1vZDhLEEIznhBMCZ62Y2xhgSh3uVLgA9]:vertical:null
+| -- -- -- -- -- [AOt08k1qmyhotnW0XVcoPDIFfRbFasvh]:problem:null
+| -- -- -- -- [T773gHBPHUpbo1hydIaFVBUYv4cSIBNX]:vertical:null
+| -- -- -- -- -- [dEQ0FgN4LhYomji24bHIva2VTakWpX2u]:problem:null
+| -- -- -- -- [hotCJKqtrF650QddIGukxJZxwtnP1PX8]:vertical:null
+| -- -- -- -- -- [fHQTim3G9whgyIHTbLyavt4bs9XuImrc]:problem:null
+| -- -- [sa1YjghlPrLqsJl1JQZOnL1eoN9eYC26]:chapter:2014-07-28T01:00:00
+| -- -- -- [lJgVp9peKfOSUVcHQ5YCoHW1MhNvO0Wj]:sequential:2014-07-28T01:00:00
+| -- -- -- -- [RTgMNjE14R9z7KJit2OWIk90xhFIMyvp]:vertical:null
+| -- -- -- -- -- [HDs38e4hlZqQ2KjsjB97YYXgr7NWd7Hn]:video:null
+| -- -- -- [SU34AwkKCUhNWPtOmtvBSOylrSY3WwsU]:sequential:2014-07-28T01:00:00
+| -- -- -- -- [REYahKBHsKdZL68mFuOlqBzBPScpcF09]:vertical:null
+| -- -- -- -- -- [Zapu5wdsJugemJ2bWI6UJsZ5yu6xVGQu]:video:null
+| -- -- -- -- [7YsVQbhKTsUgIWItMbuyjDDL677wMeO8]:vertical:null
+| -- -- -- -- -- [NuuJZODs6E1bZ0mjCRnFE3b7XkaKOjLD]:problem:null
+| -- -- -- -- -- [3y1W6fA3grDX2eLnwXlEZf7tV2d2UxV5]:problem:null
+| -- -- -- [Q11KY9ojP3oMFlGVdrcyw5Az9mII8OaM]:sequential:2014-07-28T01:00:00
+| -- -- -- -- [reGoJzCg6sPjOQxkOzi5JxmXFRCBWa9n]:vertical:null
+| -- -- -- -- -- [biSBRwMwtKpli0ls7bGXgb3ejR2YAqUH]:video:null
+| -- -- -- -- [mywSJuQCI1yFZq5cc9A6aoXrVqiwYPIx]:vertical:null
+| -- -- -- -- -- [hLtZq7cdvE7InyBECFhkOIMrFDMnmJoJ]:problem:null
+| -- -- -- -- [WSG7pCNPE7skedd5T0XRohOTvBrmKJWo]:vertical:null
+| -- -- -- -- -- [TC9wkqwSr4G25jS1MmY2X459kNL9HDpL]:video:null
+| -- -- -- -- [S1tUgd8tCcRCx9EN3GP07D3C0dxWhNhX]:vertical:null
+| -- -- -- -- -- [x6VQ5XmbroypeJJokueyRDEGgj01jxPQ]:problem:null
+| -- -- -- -- [BdaooerPfgYiQTtIaGk7VA9cb4s0ogtH]:vertical:null
+| -- -- -- -- -- [eqRyDBCauCEuUUnWVgLycLUmVXgppS4l]:video:null
+| -- -- -- -- [1jLTEwiyEYEYtnFYM1EJgvRMsK1zdDad]:vertical:null
+| -- -- -- -- -- [Jc9hJZQ56Dn5rsJBNXyN0qIpPNrNdWDa]:problem:null
+| -- -- -- -- -- [InzdVzrS4hLpear2dqIqjr0d3pPtDWxg]:problem:null
+| -- -- -- [FD6d8Qd97an0mvD6282FPpjEArNqyNjs]:sequential:2014-07-28T01:00:00
+| -- -- -- -- [OG3ZJrvjxeZxayp8sVvKpnO1dilYAuAQ]:vertical:null
+| -- -- -- -- -- [Y8a0dKpTaVBmBrwL37GvlJp46ZULpFhj]:problem:null
+| -- -- -- -- [oF8TSOgkvQOA5VXH9Gzh5ojlOYYcoVMr]:vertical:null
+| -- -- -- -- -- [tcIDvCmWVqUhzWDXS9Q7Nj04WDFRQ7qs]:problem:null
+| -- -- -- -- [Cb6TK9kk76u70WY3TNF3x2IZLHV60usR]:vertical:null
+| -- -- -- -- -- [IrrXWKTNXg36445xtIvfqBwA7ZKZ2Bkt]:problem:null
+| -- -- -- -- [M2B0LT6CQ6G7B53TEW5Tc2bhDr47WVwc]:vertical:null
+| -- -- -- -- -- [KdFoha3UCRIKZzyNKJARiiVZfGA4xT7j]:problem:null
+| -- -- -- -- [ZKbpverzIS2iz18thwtnPeUmrYOs03D2]:vertical:null
+| -- -- -- -- -- [UspAJEEU35Yy7wER0XKG9uqW0tVAYYzF]:problem:null
+| -- -- -- -- [Wb2EBfOwHiCXPMZRLMWq0I33GnmjXiQR]:vertical:null
+| -- -- -- -- -- [IyyaM6QtQBCWTN0iTjz0Vbt3cUe3kruO]:problem:null
+| -- -- -- -- [Y1aFIb1YL4K2wlMrWk7MGS95753VMmvF]:vertical:null
+| -- -- -- -- -- [KIhiMdsyHawS9Zp4OK02U6dpUeu6iM6U]:problem:null
+| -- -- -- -- [qT27tLJjwlo97Je1gkewKAVAhyi0ldgA]:vertical:null
+| -- -- -- -- -- [M9XkiOgqiC0VLJ085UYfZ9go2hYpQJDb]:problem:null
+| -- -- -- -- [GjJFqle8h51TVSdtckaOvaIpQ9UNQMSa]:vertical:null
+| -- -- -- -- -- [ZeZ1GDPEnaCRgp9U6xIFE16npwAnE8af]:problem:null
+| -- -- -- [5faOLw8f5tFKGkzjkGOhQmyDHaxKxZfU]:sequential:2014-07-28T01:00:00
+| -- -- -- -- [qDvsUmVMBq1oqvhi0gqxLyww1VzYNxAL]:vertical:null
+| -- -- -- -- -- [xLHFTVb7bllW319cQIyjCZuXgq5bgEZS]:video:null
+| -- -- -- -- [D2564I6ulEexWflHdHrNRx9MvPWRprNB]:vertical:null
+| -- -- -- -- -- [Sd0yuetVemHLVY0qfx5c0enbZs3ebhFD]:video:null
+| -- -- -- -- [5QyVQDg6j16EMOo8NysDyWbN8CV5cNKy]:vertical:null
+| -- -- -- -- -- [9k0i6YNod8o3F79E4y4qGcEPUeye8za4]:problem:null
+| -- -- -- [bxESN6hBybU7vfdNJQIwHeLKvSSxDWKF]:sequential:2014-07-28T01:00:00
+| -- -- -- -- [osO7FaDlLk6tpgxZK6TFxZpgjLG3Id8L]:vertical:null
+| -- -- -- -- -- [x6nwPgpd3dP8XcHDu3pnThCdFR4eYHxS]:problem:null
+| -- -- -- -- [udBVnt4dZUSXGq8Mx7NuNxUXuPALHQr6]:vertical:null
+| -- -- -- -- -- [EH4ggrW127jMsnPkBTzWIe2MwM7sLlTd]:video:null
+| -- -- -- -- [tBh32cZO7EePL6fckqlJYuXwOoRvMtyo]:vertical:null
+| -- -- -- -- -- [ZkRteS0xSgP0PbigEkcIF5ABad0VXFfY]:video:null
+| -- -- -- -- [KyTGTCotR5OUN8rqhfWryk150B9halMK]:vertical:null
+| -- -- -- -- -- [mwXgm8YhgUt8gnT1URdwU7EYudllOErG]:problem:null
+| -- -- -- -- [ZKoEZXishaWJolRJsCth8LX7zn6Eun0p]:vertical:null
+| -- -- -- -- -- [AAyy46OLSsNuA4t2J9ceudvpYOCh52dq]:video:null
+| -- -- [SmuCMMgofjxsFHxHWb3w47EFEmZB3YHL]:chapter:null
+| -- -- -- [BCFYemSlfYwC4nvWOEkZPVLuSoCWAwhF]:sequential:2014-06-09T01:00:00
+| -- -- -- -- [gCnWJvPKGoJ4oasjiRo2PNmkJ6QjBunw]:vertical:null
+| -- -- -- -- -- [vC7oowTGzLyH7urJ3ENHpzWsTisKIeNW]:video:null
+| -- -- -- -- [cTyE1XdE95l0KzGPaFdWTNHqO4l8akB1]:vertical:null
+| -- -- -- -- -- [94hDIxSOXLg6ziJXYCIJZGWqQWJz1LD9]:video:null
+| -- -- -- -- [x62LNz7jGQFWMl07D4mqMuxOL23Ss4tQ]:vertical:null
+| -- -- -- -- -- [YZF4jvRXfzZGMjFt43KjVs0kqKw06qeC]:video:null
+| -- -- -- -- [RBc1YTWmzBL4WXc4n4QczBCZio8kRkra]:vertical:null
+| -- -- -- -- -- [Sqj2sV8i5d0wS6UhXQpVRKT9G0mDf4Pv]:problem:null
+| -- -- -- -- -- [SYdlnxddzbbqOz02TQ2LBPmPXtJrmg3p]:problem:null
+| -- -- -- -- [z627rWWiVLZZwyEPnpUIDHfuvrVcgeB3]:vertical:null
+| -- -- -- -- -- [YNlkaoZeWauw3nO1XXRyZZFEsanQq5kP]:problem:null
+| -- -- -- -- [3ERehA7E6iMSl4bYSDmZ1IvuULFHyawd]:vertical:null
+| -- -- -- -- -- [Sc7gkUCERs3VbjAV75KFSuUhWDAbKGPP]:video:null
+| -- -- -- -- [bnFI8DStQFCKm6i70pbxGHO49iuzKmaa]:vertical:null
+| -- -- -- -- -- [HyXd3DsfvwIeUGqyD7yInt8YlSQgs6v6]:video:null
+| -- -- -- [88656Wr7d846YYNQVy6F0cgDA1Sb38hp]:sequential:2014-06-09T01:00:00
+| -- -- -- -- [0iPmlOf6IpsVlxWqD6oebjg8W2yprEKt]:vertical:null
+| -- -- -- -- -- [eVK64qmH304uMiS9THKIkv0t1uEYaKci]:problem:null
+| -- -- -- -- -- [jUsCrIojV7FfqIpQrMPvF7wLwRo6Id9m]:problem:null
+| -- -- -- -- -- [ktxNno0xDBHmaPmyP08vzvzTklicgBfw]:problem:null
+| -- -- -- -- -- [Oq2h1QF9FWtA4HtVSWdENNczVOI0LWxx]:problem:null
+| -- -- -- -- -- [IXH3DAeLEfLAAZYzQ0k2lAXWieA5EKtO]:problem:null
+| -- -- -- -- -- [3WXjCNtHDO6ThRNiPvtQHDRIPrC6o2Je]:problem:null
+| -- -- -- -- -- [tcNKZsK1uskcRXbIvQU3FT2uijUG5etR]:problem:null
+| -- -- -- -- -- [tEpmp5v64b0h4ErP6wI4RLHKzMR8iIVd]:problem:null
+| -- -- -- [PrUUwyoG589YMJ4cTkvxAZGu1ItqIo4k]:sequential:2014-06-09T01:00:00
+| -- -- -- -- [WjURCFUpqA7gYGfu8exnJJZclMBpbzcl]:vertical:null
+| -- -- -- -- -- [pNqIKAv81j2gZg3VSVt78KxWAZ40ssS6]:video:null
+| -- -- -- -- [9w8Jsi9cR9CNOzEPRPZQHVfiZXSSFhnv]:vertical:null
+| -- -- -- -- -- [WVqrEnWlrluj8XRD0snMvDgLRnpWScp9]:video:null
+| -- -- -- -- [cW74c0VHENGq3tv4WB1ZLSUZQMloT8Ce]:vertical:null
+| -- -- -- -- -- [7eH1MYO6ThinxsHZzDaX0ibtOBgV010u]:problem:null
+| -- -- -- -- [Drgzv7G5A3qKpg7wvQjZ9at0fRxxiJRP]:vertical:null
+| -- -- -- -- -- [0EAXinIhZzRcXInqlswD4X42tESmpoxe]:video:null
+| -- -- -- -- [vnzUwTtkGsJsQRffWJBzSsUEeukQVn5d]:vertical:null
+| -- -- -- -- -- [FwtCz40HdGWlAjdOWzW87EXjOGyUay94]:problem:null
+| -- -- -- -- -- [K34jSgcyIqpggcPBw5lqpUcUEpWo16ZB]:problem:null
+| -- -- -- -- [a4wcXeSE3d07w0ERp63KZuRrq6WCJmEf]:vertical:null
+| -- -- -- -- -- [m5b5muwv6Q2syIkUmzaueJwz81sSbrjb]:problem:null
+| -- -- -- -- -- [jdp2T3NNIiuPMNDOgENKLsf0QNiAWLVV]:problem:null
+| -- -- -- [1UfpaJyzevBFPhXnpkPKbKJFfsOAovPM]:sequential:2014-06-09T01:00:00
+| -- -- -- -- [dK1lMszCvI8rg3USY59vWueTXVYbYebF]:vertical:null
+| -- -- -- -- -- [DTHrW910uWmJ5IVRb4jB0Hk9u4z1n5xf]:problem:null
+| -- -- -- -- [Q6f0jyhfm3ChwZIJUEM6mBSIKy7Jn2UF]:vertical:null
+| -- -- -- -- -- [OVYwU2zlja9cfNpDu1zCEzauBE9xHSFt]:problem:null
+| -- -- -- -- [7hlSCPaB0NwgmzHkzYWupsCvuwl37WIK]:vertical:null
+| -- -- -- -- -- [nQzx9GFewVHULkyqhiiTYwsonqQiP76k]:video:null
+| -- -- -- -- [UleWiFkJBNw9JhroWbrs8lbLqktrPiqP]:vertical:null
+| -- -- -- -- -- [C8usJDp5KunQxv0aEOUmMKeMllA5PnOW]:problem:null
+| -- -- -- -- -- [Ctv8fxGkumuTkLJe25gEwoJqAM4eVrp7]:problem:null
+| -- -- -- -- -- [fiW6O31VMQ8A3UMmjKTCYZCiLTnW08ra]:problem:null
+| -- -- -- -- [ei96bEasfrFn0ZiRaeLhGlfY5DFUo3Qz]:vertical:null
+| -- -- -- -- -- [wRYtMwQvUI2jvK60flKcHoO2tHy0mPx9]:video:null
+| -- -- -- -- [ft91fdOmO6hXnk7vmgkQBW585xH3NwD5]:vertical:null
+| -- -- -- -- -- [vi6PT4uP0gawsMtpPAG2TQ2BsVRBZf7l]:video:null
+| -- -- -- -- [jFe2jn5FEPeNE3F0kLxvjjkIdq3DyY9E]:vertical:null
+| -- -- -- -- -- [XDrQfD5L9WHXpNLKxvJ4hd8k3d8BZsxN]:video:null
+| -- -- -- -- [YBR63LDBuuFjyPKxWGCHZKCQYjpv2g9r]:vertical:null
+| -- -- -- -- -- [CSoIS6OezG6wmdUFOGqt1WMJiXn94tFG]:video:null
+| -- -- -- -- [0yI1XvuLsNcVRT5oda6rzkmPyhJkrtHu]:vertical:null
+| -- -- -- -- -- [5jAa6gtFyZuAfLvWn95h3Qv58HJeCmnE]:video:null
+| -- -- -- -- [98tamEs8zMPXAmvJJQfXSUuxGU23McSH]:vertical:null
+| -- -- -- -- -- [9ADHuNXd9zl1HbCJyZmTi4cpCNG6esZX]:problem:null
+| -- -- [h3ZZkronijlRGw39iNfYmhylIrrq2bRi]:chapter:2014-09-01T01:00:00
+| -- -- -- [I3SxeNd5ZJATwn1G7BJUWQ9zxg3cE1Au]:sequential:2014-09-01T01:00:00
+| -- -- -- -- [jHoDOHtWT3HTN59upMj7IIEY4cxoCb9w]:vertical:null
+| -- -- -- -- -- [Cd95xDjEbcFEF4viQtRpTyWANdfIW7ZL]:problem:null
+| -- -- -- -- -- [fowyGPdZFC3CmaZdoqmKC9MId325ja6v]:problem:null
+| -- -- -- -- -- [U1b4mjFE2cKf64NZGCdFW76pkVyeO1p2]:problem:null
+| -- -- -- -- [p3IuJuHMuNskWBnLC70FRO7Of1UEmpmm]:vertical:null
+| -- -- -- -- -- [Elts45w94iCabSA5ziALIHgNvqRRX9pA]:video:null
+| -- -- -- [SBH7iDDDmqOHdp6WNuF5iN4x6ZzjEJsj]:sequential:2014-09-01T01:00:00
+| -- -- -- -- [Nx6kqttovtilxNDuHnmLhpCYKUXnB2Tt]:vertical:null
+| -- -- -- -- -- [Aoz2s65uM97QZS1VlnZeRevPiWns67d0]:problem:null
+| -- -- -- -- [zGeaNEfbSH3x4oaHICWkUGB1Ptd9CnNQ]:vertical:null
+| -- -- -- -- -- [pnM7NLJSUDPZn9lVkXa5dxKNSW84wQQO]:problem:null
+| -- -- -- -- [aOZAh6PAD4jIfSmxfopWKOfcCEcU6ayi]:vertical:null
+| -- -- -- -- -- [o3V0rqwvc4Ax4Y4LmTdhmARZKwQwu6u9]:problem:null
+| -- -- -- -- [lb5B3OAwDQsMtO7JSuS7QcfrgePlZJV2]:vertical:null
+| -- -- -- -- -- [VBdtMJejoz7JMtvRbBReqoP3OouaDUBF]:problem:null
+| -- -- -- -- [YVx5Iw82u8YiQRorCH9X31kVB5oGy8oJ]:vertical:null
+| -- -- -- -- -- [Pe9K7jWyliHdyfxtsQD7OvAH8dQ0UhlH]:problem:null
+| -- -- -- -- [W88aomWCgqS0gR6UMiT1G9koOCE8OKUO]:vertical:null
+| -- -- -- -- -- [S9z9MKwPLGTEnSiUd80QXw4K8kTAYorW]:video:null
+| -- -- -- -- [1F7wSLUU6AACJdG1f8FjsdiZOOPN675G]:vertical:null
+| -- -- -- -- -- [oz9Vc1a1xDA4mfQnceEvxmJfchPUggvI]:video:null
+| -- -- -- -- [NZapRPWif6GpOC8jBCGEgAl0wEGmLaiY]:vertical:null
+| -- -- -- -- -- [osoT5ix8PfAxxsDUD7OCBOkdrE23ORNh]:problem:null
+| -- -- -- [k0lI3p0RaokK6503Vq4Nk9QPExoec6SB]:sequential:2014-09-01T01:00:00
+| -- -- -- -- [K9ZK0SVJzKQFO8kfvbr8EMFcanMJegI5]:vertical:null
+| -- -- -- -- -- [HwmqAzRU2a0oli3JYa3IhL0Qcx2IUmAZ]:problem:null
+| -- -- -- -- [6Uv6TdRbMsTWakmf7KhhgfxtyJQhrEFb]:vertical:null
+| -- -- -- -- -- [3ykXeGHrv4vcopM9J465TB9YnsTcvwpY]:video:null
+| -- -- -- -- [ocAk8vBPhY54shNKpnE65zCWCTfLVy82]:vertical:null
+| -- -- -- -- -- [kznbpdhU3S4L66AzwAe0EIADdHdOSS2j]:video:null
+| -- -- -- -- [s3zT8TP8KnUh2PwoRuGA0Wv5EE7CbF4f]:vertical:null
+| -- -- -- -- -- [sUqSPkyMjiWGOunqGRD9gxeYPa0N8CkU]:problem:null
+| -- -- -- -- [TzJbiAdM9xCTNktUm51SVQ6QgYpNirzF]:vertical:null
+| -- -- -- -- -- [Jlr1Ea4kspotXIe65ObBj7DOAvgcsoX3]:problem:null
+| -- -- -- -- [4cenUvZC86aPJdW81J0j4lHAUNleDp6L]:vertical:null
+| -- -- -- -- -- [G3HaAJhEz0PyOPThZgH0rh0NoUY4DpZs]:video:null
+| -- -- -- [5JOkEugiDLO3vsOVN9vZQninon8Viz6C]:sequential:2014-09-01T01:00:00
+| -- -- -- -- [L9s70Lf3nU8j4FGCAtRZLWTztSc1wXT7]:vertical:null
+| -- -- -- -- -- [0rJoLI8vSkTpFxZT7heolSIjyghswN1K]:video:null
+| -- -- -- -- [CzD4Qu17DcD0bpQj5UqPnFwhe5tw6TKE]:vertical:null
+| -- -- -- -- -- [yOL2ZE0neS00kUtgmte9ebUKr40yyQ70]:problem:null
+| -- -- -- [MvyAapAKQWNxa31Zhga4226GT82JrkAe]:sequential:2014-09-01T01:00:00
+| -- -- -- -- [9r1PGi7Oy3qS1bYRpvDo8jWEghTxWOBw]:vertical:null
+| -- -- -- -- -- [z7TuWdQiaDKbPRMHBEXaxNeKdqmfLELD]:problem:null
+| -- -- -- -- [CjLw12ocdZ73DQP1d98JR0wvQd3DrI91]:vertical:null
+| -- -- -- -- -- [ga712qUOjWcpAFFG4pjCAt3UVlrGQa2y]:problem:null
+| -- -- -- -- -- [dfjO20zGcNjmmTImGWUSDL4F2e3h97cC]:discussion:null
+| -- -- -- -- [iAxlxmghN2soAKsivQBGzAdNnvLIqxtZ]:vertical:null
+| -- -- -- -- -- [cO8j527dOnrbDdTyk2AseXJUW6s7JIR9]:problem:null
+| -- -- -- -- [eChoH7lG1MO1YoxItgtC7RuENrEZMNY7]:vertical:null
+| -- -- -- -- -- [DI2n1sBtOXBj9RjgIHQk2OBrLhkjAlFF]:problem:null
+| -- -- -- -- [xrbNWBx8qOinrm97MsFlCSQA7pCQAB54]:vertical:null
+| -- -- -- -- -- [qp9XiIDqhzOD1mLpGahbTSiZ5hqYAshx]:video:null
+| -- -- -- -- [vi8zB9TXSQtSxV48bM3DEdkiKO17FXzt]:vertical:null
+| -- -- -- -- -- [A8EvVVa5qfHctnrfCjSYT7EqI6yKJcG8]:problem:null
+| -- -- -- -- [ecFPDrBmN0qZxACRh4nbz6cxrl3n72Si]:vertical:null
+| -- -- -- -- -- [WDoo9OvdS6S3uagSJhjdBODX8qyTbXkU]:video:null
+| -- -- -- -- [w16wD4c5kI3CkgkAiH57kbNmQGKc8y3D]:vertical:null
+| -- -- -- -- -- [Pl9W3rzNniPzCnWZSA18gxWFa37z5jfN]:problem:null
+| -- -- -- -- [KR70RJycfIUjlf4VkZI6JDZ3vOAEhJla]:vertical:null
+| -- -- -- -- -- [gSyY3oFikko2W7JS4kJyaSLxDwZG0EQM]:video:null
+| -- -- -- -- [6K1h09aBYe7GeIxjv3wdi3I3acQOJU8d]:vertical:null
+| -- -- -- -- -- [CzpUya6LEaYHDZ9l06euc59lHRjROtXS]:problem:null
+| -- -- -- -- [Jgn4CLhQbqfXy6W8kGk7DTy3ztkSqHnT]:vertical:null
+| -- -- -- -- -- [etGItIrEicDWMdIcmirqIXKlnciN7giN]:problem:null
+| -- -- -- -- [nTwZZxF6GEKFxDVblajufcWjfHfdyww6]:vertical:null
+| -- -- -- -- -- [IVugQI4ujYvmT4OTx6odjRjNPzJgZJHw]:video:null
+| -- -- -- [vUSugMFdMt7lKvQJD90OUke3vmzfS40y]:sequential:2014-09-01T01:00:00
+| -- -- -- -- [UGlf8fR3VdFF5uTR2eJvtg6qwiJCavdY]:vertical:null
+| -- -- -- -- -- [asbmGnXquUVp0uMP379bP1dizyzdebAt]:video:null
+| -- -- -- -- [h1bGwASxrxLDC3mynYQslhcK7Hzq45Er]:vertical:null
+| -- -- -- -- -- [UE5Be0Zjpz6TaUbUfmltE70rI2a4SgrT]:video:null
+| -- -- -- -- [mmOONy3jqW51t1ArInvvuf6hWcQbzmzr]:vertical:null
+| -- -- -- -- -- [QlJofO7V42EKdQ9r336q41dI6qppW0mR]:problem:null
+| -- -- -- -- [YHdC3sY3bofT44xK8ObEBASqDch1Zc6a]:vertical:null
+| -- -- -- -- -- [zUqRM2Tsk6s3UdXuKltVXMj8ikxuEDs5]:problem:null
+| -- -- -- -- -- [mElLVk2DvMIrfERJJGRUPF3V6w2iLQit]:problem:null
+| -- -- -- [B6Symqca256cKVK4IVFqBGdt5F4SCYtK]:sequential:2014-09-01T01:00:00
+| -- -- -- -- [7ZwFKcusX4sLDNIyXb50qtUo3bo5tjgY]:vertical:null
+| -- -- -- -- -- [5PZddEWykYnAOQY9rizHlB3DgG56vJSS]:problem:null
+| -- -- -- -- [hxnaM9qDtavLhu5OD8Y0YJojd7KwgMZm]:vertical:null
+| -- -- -- -- -- [H9993Ymi04BSPB3vyP9fJI1e65JKeKPU]:problem:null
+| -- -- -- -- [66Ys3dUWvbVXJpnxFeZNEb2WCJM1HyIy]:vertical:null
+| -- -- -- -- -- [j0Dwusp6Enofk2gHKKVkeBzw66PKR8gY]:problem:null
+| -- -- -- -- [2LykNNFvB6HSoUILBLB0TOAJXPDk03tS]:vertical:null
+| -- -- -- -- -- [ahIvz0GQBKGw1jPZQmmwDsRoiESNxlun]:problem:null
+| -- -- -- -- [DS80qUSlYICKLAKfzT55vQgS8Rkl90j9]:vertical:null
+| -- -- -- -- -- [XtYkkZLL4XotygMgLULvsJh3Xpc7Fwkm]:problem:null
+| -- -- -- -- [ilBFCAL5svSLQk3qSZDbnMPG9Rrb17J1]:vertical:null
+| -- -- -- -- -- [yrMXICrMuNAA7fHbt2kTVsNnbGmOWLeH]:problem:null
+| -- -- -- -- [N9lU2mdSVQgInsjM6SJn3RNXiFshB6PF]:vertical:null
+| -- -- -- -- -- [lUiHLTgQmFva6DWOxeBiDe4Fl6kPE79b]:problem:null
+| -- -- [mJ55bYJEYKfccLcXMcuIUnhFeBpbV2pz]:chapter:2014-06-16T01:00:00
+| -- -- -- [BR91hSVtbcAVyiqovv1hMvHpKmRZr7gQ]:sequential:2014-06-16T01:00:00
+| -- -- -- -- [olUIrX006kCYtyEhZXU7xCMfDAAEAW58]:vertical:null
+| -- -- -- -- -- [c5s7wO6X0DNIwK4QABiKtQUpsjjMuugg]:problem:null
+| -- -- -- -- [kY8b7BHMRzDdNEuVwuu0c5hhtfGElRe1]:vertical:null
+| -- -- -- -- -- [xL6OI71vsk1tTF2Ru0Zh7kXxkciGW4ty]:video:null
+| -- -- -- -- [81PeczwO6gAUQ0hxXvhVZMCyfwCqWm93]:vertical:null
+| -- -- -- -- -- [2KAzifPJ0dyQNChhxqE12u9nl27Odwxl]:problem:null
+| -- -- -- -- -- [gRrjajEqkAj7gviGmus4pAgzuBAvp8No]:problem:null
+| -- -- -- -- [Pwu0Hu8Xw5eRqf30MPjhi4jukrk94mJS]:vertical:null
+| -- -- -- -- -- [K99arkJc4dqudustpta8ImHePFZI1SLl]:video:null
+| -- -- -- -- [XT52H5f0sKE14SGyn6G2RWD4EfozTxPI]:vertical:null
+| -- -- -- -- -- [rl7tpb6NAiqbjGpohHFD5r17XJ7jylGI]:video:null
+| -- -- -- -- [t7aUjXG42eXwHF6YKddqvKumyicfXAcY]:vertical:null
+| -- -- -- -- -- [iMGmSovIh6uy6NQQC7KnX0s6iVR9W4xD]:video:null
+| -- -- -- [igNKXSjcVlIZWeFwrx3o5lgFo5tqPA28]:sequential:2014-06-16T01:00:00
+| -- -- -- -- [aYjNXmkBHzBwJvW9F1VCotwnli4BeCkD]:vertical:null
+| -- -- -- -- -- [ov1wXXvgA3QpyPdlX9nErFsqxhnSOImX]:video:null
+| -- -- -- -- [qGao5i9XrBrsNmvOUYxnMbUkZzGMusdO]:vertical:null
+| -- -- -- -- -- [Nj2qtKSDGc27P3fGa8Tru3lXZNQfybFu]:problem:null
+| -- -- -- -- -- [QmuXD2CfiIN0OfStgbfzaMLeJCTM9pjy]:problem:null
+| -- -- -- -- [8ob8eLR37JrIKbLKsCkeOkQOMNspM2xF]:vertical:null
+| -- -- -- -- -- [3ozTrptAmK2FaaRabeiY4wzDPLHt1g7s]:video:null
+| -- -- -- [a94AWedgR5Np180ESgabCap8kewa1Eal]:sequential:2014-06-16T01:00:00
+| -- -- -- -- [EemCu6s06JBXPque84XiuU0EJp1BTDet]:vertical:null
+| -- -- -- -- -- [q4uf0xleLHGUa85xHQx1Co1xXozII04T]:problem:null
+| -- -- -- -- [DmfouN0lWYjKVj87JSZG574RHnRKyvpe]:vertical:null
+| -- -- -- -- -- [rvA2emajOG9vJRCSIecPcJ805m0achHE]:problem:null
+| -- -- -- -- [vo9MWweUbTwqN109qK87HpMEqYuZUV0m]:vertical:null
+| -- -- -- -- -- [k1muF4DYANLdYvpIXwvUKShYY7QIGqB5]:problem:null
+| -- -- -- -- [hA2dtRNXdVMGRWTvbF8439UKF2yUo4bI]:vertical:null
+| -- -- -- -- -- [cbtxsjlLWTsIhapalrNpZrYNnJH3Ic6q]:problem:null
+| -- -- -- -- [gNgCcPIloZP8e7SHiBkGI7Uf1ZoSoKUJ]:vertical:null
+| -- -- -- -- -- [8lOTLFdq3ISbnxLpZRcKrcIUu5wJkWnC]:problem:null
+| -- -- -- -- [uPzTHvUoAdmQLVLKHx2voTqxfYRHC0gA]:vertical:null
+| -- -- -- -- -- [ukhbdkwTr17nj1xBozAumJ1shYQqdPc9]:problem:null
+| -- -- -- -- [9ZzBCHCxnOnoIKi09a2j3hC0QhjvGriN]:vertical:null
+| -- -- -- -- -- [BMFs2pZ58Akky5pemW4bil5rCamu9Cg9]:problem:null
+| -- -- -- [doqGIxfd7aYMC0Oqrj06hNBqd9HRS6hX]:sequential:2014-06-16T01:00:00
+| -- -- -- -- [JAcaHVDJQiK1NVaJXGRHIRwKq4cj3Y3n]:vertical:null
+| -- -- -- -- -- [CosiwYaRo0RBHY9vGsbk04KLd8r6VdCV]:video:null
+| -- -- -- -- [M9xWln6h8zSTdHnh8hjmahB619AQLjgI]:vertical:null
+| -- -- -- -- -- [358wgUyV86h5cB2ut5157bZdKmW0a8kE]:problem:null
+| -- -- -- -- [zuIFVQ74Pf6Ma1VyXXmDZI9qSVPnSSZ5]:vertical:null
+| -- -- -- -- -- [rMJTEY2CHk1IKTNwEBXb1qenilUxajhS]:video:null
+| -- -- -- -- [MY7Fe0kcb762mxEwtC7Z2WKG47AoGj4Q]:vertical:null
+| -- -- -- -- -- [NOcoH6s0fgPCP7M0EM5QdCihJycusX4M]:problem:null
+| -- -- -- -- [R1tDHm6CTqH7qf7R4WXnimsG1p0diX9O]:vertical:null
+| -- -- -- -- -- [Ad0mbgnPKzszo2upF5cOEDcRby8ndbUr]:problem:null
+| -- -- -- -- [B2GaJoxmX2WWtprWuocVbQdlq31XOJ6P]:vertical:null
+| -- -- -- -- -- [mPEwcp8UaI5G7bfVcQPcxReWlsRaITy8]:video:null
+| -- -- -- -- [Vp4vyeGvd6tmok2SEwK18MFvvhUWNeE0]:vertical:null
+| -- -- -- -- -- [07gZpjwgqR3l1wEnmSbszrD4tyN7H6A2]:video:null
+| -- -- -- -- [BYSuO8Vlzk41hz7cXMRNiYCEkqcTasHU]:vertical:null
+| -- -- -- -- -- [58uqxIsyUvzRZDjNlMtji3294Oa6bS87]:video:null
+| -- -- -- -- [dgzyUJlWDLv40zum140pbO5BY0sLncM4]:vertical:null
+| -- -- -- -- -- [0SMst8oHwltFzJkmdu4LaRnuijTvI5gK]:problem:null
+| -- -- -- -- -- [TlZW2sz3u0bJ9qRS50EMMk84gNntbjBa]:problem:null
+| -- -- -- [DnOHEr7M5FD4ZOcl0wtK1Kp06WrgePix]:sequential:2014-06-16T01:00:00
+| -- -- -- -- [HfNFSc67lKQcL05V0xuUncpXNBkq8Kql]:vertical:null
+| -- -- -- -- -- [4wZH73N9qcSRzF2ZHd7IfguN1DVJxPYD]:video:null
+| -- -- -- -- [PE4wyEZSPG19ppIFjJBbkVomcOvg4JaL]:vertical:null
+| -- -- -- -- -- [mUUwEYu7GDcwI4kS7Jm7pvgQGxSwO9kS]:problem:null
+| -- -- -- -- -- [F9rWiHXXInyfduFdbZd7tkVM1okNuSdz]:problem:null
+| -- -- -- -- [TLg1p6vTPk9sY7Sf4PPhxg3J3o5xDkYk]:vertical:null
+| -- -- -- -- -- [S6Ja4QFQ8BR4CH8xux6bwI6KOKR9YYZl]:video:null
+| -- -- -- -- [5g7seqc8zgUZ53AL4EKkJ3mYbsMpoQhN]:vertical:null
+| -- -- -- -- -- [n5V03oBxxSVCFCpMaqzXB31MDSvU98ab]:video:null
+| -- -- [YD9zneXhvLp2f3dKwKC3cIaRHprvfeDN]:chapter:2014-09-16T16:00:00
+| -- -- -- [bdhLGCSZ3zaFq2na2dYCxwOqD2eB9eAw]:sequential:null
+| -- -- -- -- [LigWMf7lMprcf7UTGK9jy5Vkcr1vTUBk]:vertical:null
+| -- -- -- -- -- [4bXgJsDUiuPDSd4kF2tD7e1DMD0Wb3My]:outlink:null
+| -- -- -- [AjrFQC9HHSlF5ed95AMAjhNvf5uiIypO]:sequential:null
+| -- -- -- -- [sEU7F39yw6xGU0GtNSQ1r6hTwc1ZUvJm]:vertical:null
+| -- -- -- -- -- [ucOgP4y1K2n8bFqvO2fIqzF88hSnMbJd]:outlink:null
+| -- -- -- [T8io7pe0CG6VWRCgLAg7Vtkf6xIdBo1j]:sequential:null
+| -- -- -- -- [X3hkAwQ9HEJ5qgChUviJBH4UBT5Qjgxt]:vertical:null
+| -- -- -- -- -- [QIsSGRXK9gvHIwgEVUfNiuWiH4VTSkfF]:html:null
+| -- -- [MkQH8B3OTHRT3PjqEBNfmuSge78czxVX]:chapter:2014-08-18T01:00:00
+| -- -- -- [fhV2nM4CqzKKmmPtEawhTqXaQgwuFPlz]:sequential:2014-08-18T01:00:00
+| -- -- -- -- [DEjRgCQLpjCAOffe4BUxIU0b53h5amLy]:vertical:null
+| -- -- -- -- -- [mysCIqKkwjZyyW1XT6TT6Zo8vefG9F8o]:video:null
+| -- -- -- -- [WbXoBOS7MOSEaawvaf1BdeY25WBD2Ybg]:vertical:null
+| -- -- -- -- -- [S3nGoXttul2dDTS9AY1dMtdLdy3CiKWK]:problem:null
+| -- -- -- -- -- [Nb1EDZrRiCr75I41fs6k3baLAYsZc8Qi]:problem:null
+| -- -- -- -- -- [6qyEmDnDwwBgRNFyqKLCcAGAAKMHepsT]:problem:null
+| -- -- -- [75ljHSsgcddyPPxHheSZbc5frWlgB3Fg]:sequential:2014-08-18T01:00:00
+| -- -- -- -- [QvUYrauNiWqH9ugGI79jMjGZMRS3e5Cp]:vertical:null
+| -- -- -- -- -- [nAtcrSsBOIo950M00h46qln07AK6O0K3]:problem:null
+| -- -- -- -- [LxfyyfZuTCSk6oUeEN8oXtGYYZb4F19X]:vertical:null
+| -- -- -- -- -- [C2gJq7JOoOvTjETwW5v2r0l5yqDlMNBA]:video:null
+| -- -- -- [PPhIfvuAiFAUR6UvLSm7do5ScbKKyf1h]:sequential:2014-08-18T01:00:00
+| -- -- -- -- [UYPgPYc5AIb7pHHx7kiRivf0UuAQQeWo]:vertical:null
+| -- -- -- -- -- [sJj6QNtWPgC7Dpvz5bwbDFxa7LuU3JRD]:problem:null
+| -- -- -- -- -- [pWvTNFxbg30fa3BeAtMT57tDyDGxANRF]:problem:null
+| -- -- -- -- [m7hsxVonH4Mogj9sQwrZWCxeQHVOYYFp]:vertical:null
+| -- -- -- -- -- [AdXHgzRvfwE4nug576jCEaOr4OBuPH8v]:video:null
+| -- -- -- [1G3WQNNCUqRToBEcAGz3dg8Pq6KbMejN]:sequential:2014-08-18T01:00:00
+| -- -- -- -- [X3mh3Ngth0uah2zIWK1m7jsfTUgvZ3WD]:vertical:null
+| -- -- -- -- -- [i0WcpB9xBNp72CCxjwq1HyqS78cTSNs7]:problem:null
+| -- -- -- -- -- [zfIqYnY9uqCIfKitPLTkZw3ejtCKCfAQ]:problem:null
+| -- -- -- -- -- [zgRJ9ZewbPWq0eeVyCrUyaez52Kjwhtj]:problem:null
+| -- -- -- -- [D7KxMGMB3aFghbshTIdCSGDzF4ZdT7rV]:vertical:null
+| -- -- -- -- -- [HgM2FXs8aF5xEtTDgJ4V195OMSkeg6CO]:video:null
+| -- -- -- -- [ICORTxENU4WxXvNkhSiIyl50fpn3xOzQ]:vertical:null
+| -- -- -- -- -- [6xkPshf5NZcA5MgmjYbxFYbJj2jR7YvK]:video:null
+| -- -- -- -- [zxf4TcHHnr0tGXspwAY8PxdXE8tgyIYP]:vertical:null
+| -- -- -- -- -- [afvooFl3yfvUM8PrbBENXzaBDyFgo4fd]:video:null
+| -- -- -- [XmmvBjkZ1UHUQy3XrTzPhF64G8kMSYW2]:sequential:2014-08-18T01:00:00
+| -- -- -- -- [HFQtCTShpNqyM2OCV1kRQqDNpqYVwbrZ]:vertical:null
+| -- -- -- -- -- [Lnd8tw8e4fzUWZfglQ1urMEKcSPY8aiP]:video:null
+| -- -- -- -- [eZQxooPr94qPeavgSxA1FxyiAs17pRgN]:vertical:null
+| -- -- -- -- -- [WCk9nXxdhvNd8BE9kbrNjgAq9MUuCcWs]:problem:null
+| -- -- -- -- -- [xwSOcxbOtkuSB6yMiGF0lW1BdcveAJjM]:problem:null
+| -- -- -- -- -- [8qBTuUkNELDhWbECp3ftwSpDv3RtPbtK]:problem:null
+| -- -- -- -- [gNU7S8i7Dm9xBMnGwB9muh4sjnnE0bfM]:vertical:null
+| -- -- -- -- -- [oJkqao4tNiU1CeqEjiEnwJnssG3QD4Wd]:video:null
+| -- -- -- -- [c0qWeJvRb7ksKEqsfzh7d3r6RH6CbTv3]:vertical:null
+| -- -- -- -- -- [FkuBQaZaqxdjlJC1N0r4T8EFLa3adVXD]:video:null
+| -- -- -- [FkuopZvHpxoLRDtP4WAQdRk39HaFhN8q]:sequential:2014-08-18T01:00:00
+| -- -- -- -- [xIKlcL62I9sXdeNgDQ4kzqq2Hbamzd1h]:vertical:null
+| -- -- -- -- -- [9qIBnoWJqI9ec66VIjri7HKFLRMDi53G]:problem:null
+| -- -- -- -- [lFCorQZj6fC1Kij3P8F5kpCBI2L4OZHY]:vertical:null
+| -- -- -- -- -- [yl0ZsRBB5zRLDJUsmCWRKRrGQ6QasPdp]:problem:null
+| -- -- -- -- [L1eGUopLT04XUIFjuccmvHHFlhhvrJH7]:vertical:null
+| -- -- -- -- -- [m0Mjyiii2ldEC48LuDogKZFMiv8qbsju]:problem:null
+| -- -- -- -- [7kcwJ5hCJWKDrRA07dVyZnoGIaHS6j7o]:vertical:null
+| -- -- -- -- -- [0AtMZgVdpQjPWe46C9pUP3Ib6o2NaiCx]:problem:null
+| -- -- -- -- [TCIFr5y5zrtlxrJUO7R6bbKQOLQqi9CJ]:vertical:null
+| -- -- -- -- -- [o1AkcIn6OszDqdYFTmvA8TCyJJNPYP17]:problem:null
+| -- -- -- -- [UEHvQl52I1lcecZ1zcMeEuu0rwwEE3U7]:vertical:null
+| -- -- -- -- -- [UWU8pDu8vtWqH40KjHHBhR0p6GA1vhYu]:problem:null
+| -- -- -- -- [i7IpR7CrZmnnQFcei9Lj4emsEKpoR1Sm]:vertical:null
+| -- -- -- -- -- [aNEvFZgdZzfSNHl2ZW1B6Viqk5I96dU5]:problem:null
+| -- -- [E1Marww10CztPlAl29tUoTJauYC5tOuM]:chapter:2014-07-21T01:00:00
+| -- -- -- [TVgmYam905wSllzRAFd1p4UE0p63DfMN]:sequential:2014-07-21T01:00:00
+| -- -- -- -- [TMJPXUE1wYsCX4g0MQPI6oQ1h7LwHOcx]:vertical:null
+| -- -- -- -- -- [BRGkqoJQ1TCjhfM3YvJgOSxbPbIflVn7]:video:null
+| -- -- -- -- [97QJ8rCtJ6v6y9hbmE2IRKk8RTXZlfqh]:vertical:null
+| -- -- -- -- -- [HYoWjT4kNQd9gfNmhE4zeVcGHOtHKbLS]:video:null
+| -- -- -- -- [ZywzlfWEXW6j2BblkcNSjrfVWBYenpuH]:vertical:null
+| -- -- -- -- -- [hAg0Q6a7AzE7B8PyElaDej2WGgyh16MM]:video:null
+| -- -- -- -- [F9SoI690Yjjl88BWWe3IGh2tUP0ro3po]:vertical:null
+| -- -- -- -- -- [E9q11HSSLgpcU1F4NmaOhCqIQa7cbHzH]:video:null
+| -- -- -- [N9ukB39AlzWaOxIJEsftGErJbSKcHGLM]:sequential:2014-07-21T01:00:00
+| -- -- -- -- [BYpFXr1u2wWR4yX4RCIDVRMt2rY3nlbM]:vertical:null
+| -- -- -- -- -- [WZ6T2rC5WcgwSIZGONE9jsr1YyBPHYrW]:video:null
+| -- -- -- -- [DZAwXbk96RYUFMtbaEqVG94AQTKFPFRW]:vertical:null
+| -- -- -- -- -- [vOnKosersyVjLSrx0XYFxzzPYosbPIgU]:problem:null
+| -- -- -- -- -- [ZiVhceVP8CFpIiEjK7v4Qlg9a9UocMmu]:problem:null
+| -- -- -- -- [KQFrN2JO4H9Oz39j9fdzgFx6KwSXtnjZ]:vertical:null
+| -- -- -- -- -- [0EN02Pbwj2sZueWD6s41qTeAzLft890R]:video:null
+| -- -- -- -- [TNEyHL1xWzCxtyYsm6pxd63yAZzsgTVI]:vertical:null
+| -- -- -- -- -- [YPt5R7dKMStTniO6H2aFEfe02aupOusE]:problem:null
+| -- -- -- -- -- [MbhK6SRieHfRpjg6ocoBYxeMcqyCKYLl]:problem:null
+| -- -- -- [b5oanXw71USaHT4enHTeDlgFF43T3DNk]:sequential:2014-07-21T01:00:00
+| -- -- -- -- [QL7HxGRU8nvJV0cyPyVFJf12XeGCcx4i]:vertical:null
+| -- -- -- -- -- [X9tfu768xFq8ppP5DqneCEuNVG9dJLU9]:problem:null
+| -- -- -- -- [XY5HL1HkiACGdTpHQBU57WCoffSiHQjb]:vertical:null
+| -- -- -- -- -- [RYgPmQ93bLK2xU3vt8rZtuGOFuWfI6UV]:problem:null
+| -- -- -- -- [2NsdngztwXWBfUqEkBjqey2qayjSkgVG]:vertical:null
+| -- -- -- -- -- [WKm828PEFm8f23PCnmfAPU3kBKhsq9pk]:problem:null
+| -- -- -- -- [s695dV03K12vXSGJCPJP2s4bCskyej4q]:vertical:null
+| -- -- -- -- -- [toNMp92u1EM3ZnaV1ZzoRR6jgsCuCLry]:problem:null
+| -- -- -- -- [UbKHyk2Yr1AfZKVJAQhWqc233u3QBjCK]:vertical:null
+| -- -- -- -- -- [6mzjYfOUUOOY2gvx56KYzHZWvJTiK1Jw]:problem:null
+| -- -- -- [zOuxLg3LhTMHGwvfwKSewTtNksfhnKEw]:sequential:2014-07-21T01:00:00
+| -- -- -- -- [DIug9is8LAV40F4CZ5Ip0DlTWYfIs2cC]:vertical:null
+| -- -- -- -- -- [fQrke1eLRPPB4ZksVKpKZg76CucXO0Zt]:video:null
+| -- -- -- -- [ussCtNkfyglFp113LPyIWVkdYMESLns1]:vertical:null
+| -- -- -- -- -- [Hs2jAkqtO7zhiuRd4qGapfY05bh52nPj]:video:null
+| -- -- -- -- [GaX69QcbjMRPa0bGyH9mfTxPQAzpt2OU]:vertical:null
+| -- -- -- -- -- [GpFaum3yQtL2JuqcTGguSw3KFeSdSOWX]:problem:null
+| -- -- -- [YdNp0y3hHXWDLNaXxyvqDpUlDd4WNYxq]:sequential:2014-07-21T01:00:00
+| -- -- -- -- [GypZJNB8LSRFzlpUowxr8qKeymmLiSzX]:vertical:null
+| -- -- -- -- -- [pK7FkXS6fwhqTkdBY9EsNkcd83vrdOnN]:video:null
+| -- -- [wKSZdW3wFovpa7SQ04Nngu6ApOfDXYIC]:chapter:2014-06-30T01:00:00
+| -- -- -- [olxHvDEr1xOlraTXKHT8ELqEFX8TkvZG]:sequential:2014-06-30T01:00:00
+| -- -- -- -- [lRKefWYr138CUi5XagO99lLrnWNTP37i]:vertical:null
+| -- -- -- -- -- [fudtak1gPVN3Dp7ygrhB9lqDt1Wh21kQ]:problem:null
+| -- -- -- -- [qNStzEogLiw36ddSNlNAGwfa0BRSJxZn]:vertical:null
+| -- -- -- -- -- [gI3vCi9YSJnMBdxAztcDboQc8Q0HkCFE]:problem:null
+| -- -- -- -- [FxGan5qbxfQwm37Gx6wAEQnjL0Up4hTD]:vertical:null
+| -- -- -- -- -- [BAXJ3UJCbt7LFBc63LxU4fvDcaeyFv9E]:video:null
+| -- -- -- -- [QWjzbcAZmuAY6OF2Pxz0cjzY4NaGw2Un]:vertical:null
+| -- -- -- -- -- [iV4jtxFdZQJauuEsP1hlJwv3qEiKK6IP]:video:null
+| -- -- -- [y2OjQNe3tQOkyByl6yu94sJxNOZ70pJJ]:sequential:2014-06-30T01:00:00
+| -- -- -- -- [F8D9vuh7dgYwHD3l187brtrPh4tdBo0x]:vertical:null
+| -- -- -- -- -- [yHjpkI89hEBkoUrU541HgnnO2R7s3qRE]:problem:null
+| -- -- -- -- [twiLeCLECAkiGBWpSeta5wmGmIEku8uO]:vertical:null
+| -- -- -- -- -- [t96YrazEcrcxC6infWs8xz6BF8gcF9P3]:problem:null
+| -- -- -- -- [9rbVX93bcBPurN2qCEgwrw5JLoKIHrEy]:vertical:null
+| -- -- -- -- -- [K6Ph1rELKAAf5P3Sv1K6mIfgMqCzGgjd]:video:null
+| -- -- -- -- [yW4uQPkQRDWpH4UvOCHE9ebO1EAOxc0I]:vertical:null
+| -- -- -- -- -- [PpZROS8lIf2jckBlWJZfuF2LkiZTvhT8]:video:null
+| -- -- -- -- [hPuJHMkefYFL2xM5z825vW1RCazbXLg5]:vertical:null
+| -- -- -- -- -- [N3k3K7PDNxqiNboMFmi9ldMwAZQSnWGZ]:problem:null
+| -- -- -- -- [vr8mdIbjiYUwLHUjSlfz5RiY5hjMpUH4]:vertical:null
+| -- -- -- -- -- [AHzZslWt0LWX6KYZMwcfDdGyF0okVeyb]:video:null
+| -- -- -- [K3sAyDk0YCGPZopowuSdCCTkn9dTTVeB]:sequential:2014-06-30T01:00:00
+| -- -- -- -- [uLiYi1SPD2d056dUpilsXBq0s8tW6gIT]:vertical:null
+| -- -- -- -- -- [qbAlRp8oAU0JuphrzphcKV6O8WVx9vha]:problem:null
+| -- -- -- -- [rThYwy2kH3iDDQRXxGBtXgQwqdoiX2hx]:vertical:null
+| -- -- -- -- -- [N1amxkcB0DUsjrVUcA6yPtThNYSnqsvR]:problem:null
+| -- -- -- -- [t8skx2dldXdp5rWmCUpEf6gV4liyeQxS]:vertical:null
+| -- -- -- -- -- [mfLxb7md9CbKzgFjprjpxLVvnx6vDT8j]:problem:null
+| -- -- -- -- [nZklvZijIuoyUl0cGSt8V5LgaF9ghhB6]:vertical:null
+| -- -- -- -- -- [qISRpZJFK3GxUd7iZrzYO4bfa4fxbsV5]:problem:null
+| -- -- -- -- [54RPY0UMTSAhcCNqihhQnim7uJ5oa4AZ]:vertical:null
+| -- -- -- -- -- [dFYNga8v8BlgC8wtGgt4JFFEuf7dALxu]:video:null
+| -- -- -- -- [Yw3C9eo2w5s1TiQtg7ICbNSkmnzOUdkX]:vertical:null
+| -- -- -- -- -- [FKlXuDPIJ5qFd98NE3ciHkCL1eK43rtt]:problem:null
+| -- -- -- -- [9wRk38ofVM6oFO84HblwHJbuSgjEdll0]:vertical:null
+| -- -- -- -- -- [fr4LsbEJRZVzfy46gBOlg55Dhmga8KA7]:video:null
+| -- -- -- [JEH75HAAlZoSfJvu7pgKIU4F0w8fNzOX]:sequential:2014-06-30T01:00:00
+| -- -- -- -- [K6GJW2sZeDSlGBadb9SUBWnRg0hihDZU]:vertical:null
+| -- -- -- -- -- [VMyDRsFEXcpqhnQfelbsBZSI20EaooAX]:problem:null
+| -- -- -- -- [E3kLJHKCrBGUPKFTngroADV3fJc97tfP]:vertical:null
+| -- -- -- -- -- [qznzlLXpiEioHk47ORM8lLmgXF0IXz8Q]:problem:null
+| -- -- -- -- [CLuw4eOtoLPDoF0P1Lk39aRhMSCGZMFS]:vertical:null
+| -- -- -- -- -- [bYyi23KsR7wLEZs5VI8b7HaaW8jAM3bg]:problem:null
+| -- -- -- -- [8tMMeAgyuoNQsqiJdhr9I1FOOaNTXm96]:vertical:null
+| -- -- -- -- -- [dwA9CHPCPof7i7yU3GRDAo2pdaE9b7de]:problem:null
+| -- -- -- -- [nuY5DYu7mDFZS8283SMRQqLmoNdXSfCw]:vertical:null
+| -- -- -- -- -- [FNFj8jprUbuBCuJqhLuaju9d3nDdlNPe]:problem:null
+| -- -- -- -- [XbJvM70034hj04vIfYyZrn4ZcSBUzeiL]:vertical:null
+| -- -- -- -- -- [9QUyeOjS2hrlVZB2EzlXJvXqcIpRRwcF]:problem:null
+| -- -- -- -- [EKEmcTWApkhdfbmci6lfWJG3Xg3e0yAX]:vertical:null
+| -- -- -- -- -- [eIDfOfLFeCdY5lX7KYDONWRenL4DSFqS]:problem:null
+| -- -- -- [SA4ztwUzGVCoI1juipmPlI1mt5WHd0QA]:sequential:2014-06-30T01:00:00
+| -- -- -- -- [cVPPWhpY4mGSjP1V5B4ibdXhYCmigq2x]:vertical:null
+| -- -- -- -- -- [PujOg96Hhtxrv3NrSY403HdI0FlwCYUH]:problem:null
+| -- -- -- -- [uxKseX7HiyMlkJBjOMeQvpszkT0qAYsk]:vertical:null
+| -- -- -- -- -- [fbNz2RE3N3m0sPsNsYQmx3nDTVRhz6tZ]:problem:null
+| -- -- -- -- [xqdU2IiNssqiiYKRYnCoszDym7D0GI7U]:vertical:null
+| -- -- -- -- -- [R8OHPwZ8WQaw3sf3Oc1bNRXX1dIRcr20]:video:null
+| -- -- -- -- [Aq0gY9qxKtR4t7Ztmbs9w8Cz6hDVyMbg]:vertical:null
+| -- -- -- -- -- [YoQpgJqpCqAGfMLyXBNHaQDkN9ei1vN5]:problem:null
+| -- -- -- -- [trDPRiRFfPyIbsWRXfW0cF99BNhdEqer]:vertical:null
+| -- -- -- -- -- [qvbeLsS6aIvp29V1rxk2NpDlIoWWkPJL]:problem:null
+| -- -- -- -- [joCzRxkpnfWDPgiSWyKgpm4hCPse7VNp]:vertical:null
+| -- -- -- -- -- [3tX3TNgC0KNZ1plObhDVzJfvbLC4fhhT]:video:null
+| -- -- -- -- [VEYfCaGB8fOd85AvE1b3x5GEUdmTvyoo]:vertical:null
+| -- -- -- -- -- [XVoF95GHLU1wdYpYAlK0BOYiGYRuj5XY]:video:null
+| -- -- -- [gCx874vPAValTQiRTOpbeaW2zlSy2Wsx]:sequential:2014-06-30T01:00:00
+| -- -- -- -- [mltAjF4lhA7IIKuxhhAwV9BzvicYA2yj]:vertical:null
+| -- -- -- -- -- [tTwdzxF7h3upjXMZnaB7JK81SKEGUeva]:problem:null
+| -- -- -- -- [yfBKXpFVYp1QV0MbWUayA9zRWTJXexOQ]:vertical:null
+| -- -- -- -- -- [Rvyp2douGUoQYASEHDGzVjbJjnHnh6EH]:problem:null
+| -- -- -- -- [7EpJhWaa7Y9fMeHF2dEVnI5tMqNCDpHb]:vertical:null
+| -- -- -- -- -- [T4YsgGXCXSvOiutpAePKlfOZNnZiHM4Q]:video:null
+| -- -- -- -- [3YwoLsJq8Es6Hy07Iu2pwLwKMkr0qfLg]:vertical:null
+| -- -- -- -- -- [qRQ77XP2xlrED6LC223KzojRhnOlMBWK]:video:null
+| -- -- [ZRxvkSMca4dgWjJpuzVrHCAuD0sacu9E]:chapter:2014-08-05T01:00:00
+| -- -- -- [zNzQJxG0fIOVpmUnNE9pqt3AY8hLW7ax]:sequential:2014-08-05T01:00:00
+| -- -- -- -- [t658orbx96VVth98kBnp73uzaC7gmJyF]:vertical:null
+| -- -- -- -- -- [PGzje33ZTkpUoZ55Ee7DpC6snd4VVW2q]:problem:null
+| -- -- -- -- [OZEZW4BisFQazWhK25pt4iM7AjLzw5qv]:vertical:null
+| -- -- -- -- -- [YgwaAKlMgO04XkWYXIF3CkJBRNYXVni0]:video:null
+| -- -- -- -- [4wPWRO3iEnB8sKeEIiYHyLb9wUXdspRZ]:vertical:null
+| -- -- -- -- -- [gfzCjJHpKj9LEpHSadrxupbleVMwJYH6]:problem:null
+| -- -- -- -- [r5dgapt4JpMa9qsL4BfGHGx7w804Jhhk]:vertical:null
+| -- -- -- -- -- [DLmwgY3493Fi3MAq9ToLtU8ortJtR7LB]:video:null
+| -- -- -- [thptx8PexulavmsKKfyEbJF0X2mNJeaU]:sequential:2014-08-05T01:00:00
+| -- -- -- -- [K5mWl0zunypVnJI8WjelZ80Si8gSZlvj]:vertical:null
+| -- -- -- -- -- [BZKNBzfUM9P15i6Xx2MCbkEYxCPHp1Rp]:video:null
+| -- -- -- -- [7fqvmyR7jAqfXjmsrDXmex2pDtJvzkj0]:vertical:null
+| -- -- -- -- -- [J8tAaZxNX8qc9F5GCLVfLOWfqiPQ76H8]:problem:null
+| -- -- -- -- [rPjjN4cPLLhX6Q0HlGlnocdZrKGtVD9e]:vertical:null
+| -- -- -- -- -- [NLWJcOFNPYNTA1a4SDDkBrEbVUuHslj3]:problem:null
+| -- -- -- -- [6Uvd7ktKJE9eoN5Yls3vq9rO2i6cJWNG]:vertical:null
+| -- -- -- -- -- [cA5uPJvLPCvPgaufsettoz7Yrxqpls15]:video:null
+| -- -- -- -- [xrypQ9ydVRRC5rPobQcuPs6Ryiz6nNSn]:vertical:null
+| -- -- -- -- -- [BrKZIJhzzFt6eAnTc4nz64rRTA5M7O7k]:video:null
+| -- -- -- -- [WEvxocQ4cw0YRqmaAtIgKqNQxp4oJsMg]:vertical:null
+| -- -- -- -- -- [AQmwA8WUkiiLv7uLLpBL3lgFrqjJNsbR]:problem:null
+| -- -- -- [HDtqkLSDocbQxIbOXQVgOMHj00urMY2m]:sequential:2014-08-05T01:00:00
+| -- -- -- -- [clcLS3sks28nhy5tAxSZI4r2yGGj4tsu]:vertical:null
+| -- -- -- -- -- [Jhng9CPDvTasVSk8mU2zwbHFIQXokzxX]:problem:null
+| -- -- -- -- [u3afTTCwuspyeIgoXDxSkG5P30yM3WpI]:vertical:null
+| -- -- -- -- -- [iwjON7foN1VLGtJPr8nqlqr9npmvt9NO]:video:null
+| -- -- -- [ZFwa9k3GvM2Umx8UsiCFtTHi9IC42wNk]:sequential:2014-08-05T01:00:00
+| -- -- -- -- [mxEdBySBB1waSudGcgt5Q66eXmTF8RsY]:vertical:null
+| -- -- -- -- -- [V4PvNJcyuoa071cwYXxslLNZ7zaQWX1y]:video:null
+| -- -- -- -- [rsIPiKQszfqWsGVsUe30aDImsDoK8OEs]:vertical:null
+| -- -- -- -- -- [WL9tKLd2uwHrI2uWCfSsJxwV093EjPsE]:video:null
+| -- -- -- -- [GshRLQwSvMqpMcDw8IVhs7HVD6vZe86A]:vertical:null
+| -- -- -- -- -- [gnD5xOiCM98m0jUl6h5CoZbQjO4ZZ7Q9]:problem:null
+| -- -- -- -- -- [Oc6PvS2WcMPHlNpqn55Ap1HAwKJoWmM9]:problem:null
+| -- -- -- [IuYkBHA9JvdA3bj302i85Fyw8TsR9rOR]:sequential:2014-08-05T01:00:00
+| -- -- -- -- [gPWhfRlVC8baDXXdneqJfkUydiDDjsLK]:vertical:null
+| -- -- -- -- -- [KSHAPPSF0NFfjYjHtJeBUyz3V6Udg7O9]:video:null
+| -- -- -- -- [DDhiOq5a9pxB8HJi1Vqz1cVPT1CFomtz]:vertical:null
+| -- -- -- -- -- [NkF24BsFikf0LAZRoladrMwEfZOytMqX]:problem:null
+| -- -- -- -- -- [SNG5XKu45MydA6mCRWukjct2OD0AfVsi]:problem:null
+| -- -- -- [hOTJxXmjJHal9xxSpI9zbHTzMZBGjVQb]:sequential:2014-08-05T01:00:00
+| -- -- -- -- [Ks0oQ3Uzw2myKpU32r1It65h91B63eK7]:vertical:null
+| -- -- -- -- -- [bJrA0phd3QRPbSr8k3NzwQDyoBKz0YQ2]:problem:null
+| -- -- -- -- [VMr1USH9ZeItohYc9GpyvQiz9MfnryVu]:vertical:null
+| -- -- -- -- -- [C0TUk7LmMwsO965Ll1GNyHTj1N8t8ZR0]:problem:null
+| -- -- -- -- [qBfWo27FIiUFREEtmSgxeatyi5BWUzp6]:vertical:null
+| -- -- -- -- -- [r10qmgO1qgmurAsHUs0K1XuoreIigVsk]:problem:null
+| -- -- -- -- [nG34dtZaIaMPyoLSWuAc8EM6dnBARz81]:vertical:null
+| -- -- -- -- -- [FjVnOtWY1jEGvLTgnye0NxjeHC9cmZZo]:problem:null
+| -- -- -- -- [rt6gVGDx6PiqiSkrk8tBALglSMSzxPOT]:vertical:null
+| -- -- -- -- -- [njdCBxyXEOc2AxPCqI2CK8NkEMukOpwb]:problem:null
+| -- -- -- -- [ij35vPl7hRMnMD8ON1bVgZrTfjv7wU2v]:vertical:null
+| -- -- -- -- -- [gu5qPN546N0O0HeTZan9nJ7tEEl5TLps]:problem:null
+| -- -- -- -- [aKIVhGjlSr8bcOz4qY6qKj8CYq3IbXt7]:vertical:null
+| -- -- -- -- -- [57FdEBBPVDJWoVokal2eiQ9xGNVwREHG]:problem:null
+| -- -- -- -- [ZHXV0rcmRB78Z0XbL18hSs0j33cGIxCD]:vertical:null
+| -- -- -- -- -- [NldlnB1nCLFoehPWSHoQ0Z4qnb7gV4Kl]:problem:null
+| -- -- -- -- [9o5MTZJyHNHknKONJwrIg8vORZiSRdDV]:vertical:null
+| -- -- -- -- -- [omNAjuuRaZqPFU5W8KsJqkAP326ckmgI]:problem:null
+| -- -- -- -- [fyY39ZfCRVSoKDeL65WiTgIh74yHfzE0]:vertical:null
+| -- -- -- -- -- [8Ml2YMvKIlHT3jEmsZhLNajzvp9lv3Oe]:problem:null
+| -- -- -- -- [QVL0aDKESjIYoYaRWaDQbjU22VMy82OD]:vertical:null
+| -- -- -- -- -- [UoCru36wrMZox5upSHhD7xcKKPRcZwNk]:problem:null
+| -- -- -- [9AQ8noWOsDL7fK79AiZrb6JAJghTHry3]:sequential:2014-08-05T01:00:00
+| -- -- -- -- [TBPnCpvn8p12nCTBfB3ApCZ3zBc3JdWt]:vertical:null
+| -- -- -- -- -- [2sGrs9e2wE3Q0tidkTQtoaBtLCpFNkSo]:video:null
+| -- -- -- -- [P8uiFLQXN1zaiOiDamRBaAMWplAO1qJ1]:vertical:null
+| -- -- -- -- -- [dRwPeSWLq66g6AZE4eSAW7Ccoqtrl4dK]:problem:null
+| -- -- -- -- -- [b1lv9oHrjOusLbJC3Bb6Xyi8LkbaGMNh]:problem:null
+| -- -- -- -- [VpqfRisjgGqXtxnyHKxY41R3wYyIdSUK]:vertical:null
+| -- -- -- -- -- [Axsws8ycBJJA6TsbegfReoa0JXt7smeT]:video:null
+| -- -- -- -- [5ElUNegNhYXS9oazhKxPwUSa490yjjhF]:vertical:null
+| -- -- -- -- -- [Tu1nxfKnvgkfgfEojVYQaTzuJEllRYl1]:video:null
+| -- -- -- -- [K0BMQgVyQrXAPIrllwY35cA5QXuvYzWk]:vertical:null
+| -- -- -- -- -- [uJrSHyqjVRuj9gqoVn0xmMOAoiwVTjmI]:problem:null
+| -- -- -- -- -- [ZENXoZnALOvkmCBebsSdHqUQaUS6woaR]:problem:null
+| -- -- -- -- -- [TSYVR8JLOAu1DY7KDCZOzNOJcdwpy1AP]:problem:null
+| -- -- [kZ50vL4O15EJ2FIkMBqnKy80mi2xZLQc]:chapter:2014-08-25T01:00:00
+| -- -- -- [O0NzJJGqx31xIKhsy43UnI3z6gqliMxC]:sequential:2014-08-25T01:00:00
+| -- -- -- -- [TLmUPVKkuKNktj3cH7KOjlhvR1v8lBHG]:vertical:null
+| -- -- -- -- -- [6AqQHIpYuz3MzHrSeZkYLxQVcIoF93A0]:video:null
+| -- -- -- -- [nrVLbs4IN316IxaTU4iD8CVwpF3ynVDJ]:vertical:null
+| -- -- -- -- -- [O7fNuaxGyZbu1MqR32zAhGO9Ph6r9b4V]:video:null
+| -- -- -- -- [PG8ESM7DaAKUYKmRihDNRhQCmNHTIVV8]:vertical:null
+| -- -- -- -- -- [4UnM7HD6O1JTgPxN4FXEZJvAvRiMQUEa]:video:null
+| -- -- -- -- [GsswghwFZzGrwQ6siO5YqxFKoaosmfG2]:vertical:null
+| -- -- -- -- -- [DTD0WUwRSrGtmjZ1QY3PTAm2GE7zuWMQ]:video:null
+| -- -- -- -- [ppxNCOQuJEeixLpfomMFrGFEbDVDdzi9]:vertical:null
+| -- -- -- -- -- [Vba0eU5aS5UMyJVXu54x9Tza3MqRBPkt]:video:null
+| -- -- -- -- [7udtYRKB22YnRzPEgmxWzhmAcUpqS9KS]:vertical:null
+| -- -- -- -- -- [IDAB4Z4JSmJ4TMMyQBy1nXhPm3e0lGVn]:problem:null
+| -- -- -- -- [2pR16Xkj801tHvaixF1aK1d8eGako2qR]:vertical:null
+| -- -- -- -- -- [e2EnAgPjvuz3Glo1FUFhglVnZ8a36Nka]:problem:null
+| -- -- -- [ZCW9hri8yHDOZBCGqV0RYh9YDyUvRUMV]:sequential:2014-08-25T01:00:00
+| -- -- -- -- [hEsFuVgq1lrWd6nblydiONjsKtGssOfx]:vertical:null
+| -- -- -- -- -- [pLb86r6XkLGobguvSrbXtA2dCmRu8dq1]:video:null
+| -- -- -- -- [Ic4Ycxc2kWk7tKOX0OVGes9LkPM8fP7R]:vertical:null
+| -- -- -- -- -- [6GP0AmzX4EnjVdsWXPFN5LnkVc5FjniU]:problem:null
+| -- -- -- -- [uCFDBXc9WXmxExBtHBzVvFXvTFhrODeg]:vertical:null
+| -- -- -- -- -- [x8diPOaoF3PiTyVBtx1NkUbkrVpBwzqH]:problem:null
+| -- -- -- -- [PZjXvtGZ0hVfEkmcJr9wqLQyHMpILiIL]:vertical:null
+| -- -- -- -- -- [D4LRgei64xopHg9nfdTfd62bC4IxcyWZ]:video:null
+| -- -- -- -- [oLIeaq067PJuktqVRoYQvNJ87RoIm3FS]:vertical:null
+| -- -- -- -- -- [8xpCwzDwT7HEmdEJJUZuRTpF6joomI6f]:video:null
+| -- -- -- -- [7k4xnrwCwHCIwBFFfjci2P6jQjUfvndG]:vertical:null
+| -- -- -- -- -- [TMiWlToLQFmiJsWfLcniZFgoZPPW8h8n]:video:null
+| -- -- -- [XyKwlZ2gdUOYb8JbPaXQtRnp5NnDD5cH]:sequential:2014-08-25T01:00:00
+| -- -- -- -- [cTtizEs35a8VR42e686RGykgPF0H8G2X]:vertical:null
+| -- -- -- -- -- [tuuLmpR7KrzfIwnHN7XbxMlI7xnsSLG5]:problem:null
+| -- -- -- -- [ecUYCc7NXQZOmFcREUZiXOfywn3SUIvy]:vertical:null
+| -- -- -- -- -- [11yxtOfzKtUDOIiWscvDXltFirjMludb]:problem:null
+| -- -- -- -- [oBIDmeILnT3kLt3DgComz12dThcssd0i]:vertical:null
+| -- -- -- -- -- [I1IwnROkyUNGYjfpQ6bilH7fpSspa3df]:problem:null
+| -- -- -- -- [ttKj5XCCfTAGE2oLl1EF8JUCCCiH1klk]:vertical:null
+| -- -- -- -- -- [MhIRn8hp6YZqcoePPTxmBxoItIvmUGr2]:problem:null
+| -- -- -- -- [wJc0fUdt4mORrZhfzMKdcTFgoXF8sFKe]:vertical:null
+| -- -- -- -- -- [Q9i6UowoZvgkPZC3IZQuEmFYvBfLKdRg]:problem:null
+| -- -- -- -- [0t6eBWrW5oy0EWkhuBBCzlvx0VXKKBlb]:vertical:null
+| -- -- -- -- -- [otuAY8W2nSSZKPz9nUw7soMfY6C3ovbJ]:problem:null
+| -- -- -- -- [BMRwsIp0NZZHxZhnnyS5WENQ3MS5mHaX]:vertical:null
+| -- -- -- -- -- [yZQg9kZ3d0RwgwnnLQtP86HTfizgxmyR]:problem:null
+| -- -- -- [lPEWkO81ZW0bn9l0QWDfRijxlEFM4B9U]:sequential:2014-08-25T01:00:00
+| -- -- -- -- [ff3k5kXIgHHoWTYZmcyc7KAccMc2fB5K]:vertical:null
+| -- -- -- -- -- [fLbGY8MlSnJN5ixFG2R4BO5M7aHssvMU]:video:null
+| -- -- -- -- [dxn01jMtsToDtZslnjagOv6t270YY8LO]:vertical:null
+| -- -- -- -- -- [7mObm3HCK5daygwFH2f8YmxpX0pP5roY]:video:null
+| -- -- -- -- [f7ZK4Qm1CQC3tgxJJwyKhytlgyyEf587]:vertical:null
+| -- -- -- -- -- [5e7xsHDswwMExvhEv12qqoORWK6pEYWa]:problem:null
+| -- -- -- -- [ImPTM81e9hCujggW4JX43Toch63bff9Y]:vertical:null
+| -- -- -- -- -- [NBSGQgaS68lGptyDffQBe5mlSURyoaRv]:problem:null
+| -- -- -- -- [SCzfrP6Rdrmtj6v76HE4JJOgkBoY3sr1]:vertical:null
+| -- -- -- -- -- [3NxUnC6QaXuhZCJUkKKncL73WF8Fqzff]:video:null
+| -- -- -- -- [lBItUcrJaNEdtso86xlP1GsgrsKIe3lz]:vertical:null
+| -- -- -- -- -- [0ko3G0bzA1g0r5RF5aDjwCInqipCKmHC]:video:null
+| -- -- -- -- [CmJOvnd1uaCvGlEjWAZXGTq9PDXr0fFL]:vertical:null
+| -- -- -- -- -- [HVA4AhlVlda3YY6fid86s6wPqqkSycka]:problem:null
+| -- -- -- [Wb4rM85N1QqiP7yXXU1BS5lxZ4nJbwiz]:sequential:2014-08-25T01:00:00
+| -- -- -- -- [ARp1SyORnEk4MvGFg5bkr1uzA89xd7gW]:vertical:null
+| -- -- -- -- -- [8gq57wiXaGuZGDtcRKS1raOPiNje0QF6]:problem:null
+| -- -- -- -- [NqzgbhPUTWakNXKilKJBWbCKp1ivg8ha]:vertical:null
+| -- -- -- -- -- [6Z3UF2ErGBUsgRcfiBferEfLfNnmVNQC]:problem:null
+| -- -- -- -- [DcgBVHIjO7LVrTavJbBuhPOPWXTjZtXk]:vertical:null
+| -- -- -- -- -- [5HO2s4F0IRcydKLs3l9noXqagLs9BYTe]:problem:null
+| -- -- -- -- [pxZWnVDqY8pXbsBhG5IMIlyDJRhF34II]:vertical:null
+| -- -- -- -- -- [gY73XZKV5emgaWsuzrTZgP4GaohSCPog]:video:null
+| -- -- -- -- [ASutOoMq3HKokgoOTFnlM7ajlLy7DHDP]:vertical:null
+| -- -- -- -- -- [CHz41ZsyY0L3Hktxs1STXbHsojUQNIdt]:video:null
+| -- -- -- -- [hbMLPIv0dMvTw5qHcad3COOEUkrROHwx]:vertical:null
+| -- -- -- -- -- [0lL9Y9P9aCqvyJqUoo0HAv9XBXf1Cms9]:video:null
+| -- -- -- -- [akf7jPyl4D920j7UJgrbdwLKLskKMthW]:vertical:null
+| -- -- -- -- -- [F0dN4vrPkXIhHx68zUREiE4wZugoiggP]:problem:null
+| -- -- -- -- [8G8yZ7BIJwwhFDG1sBDCFZVtvWOjeoGK]:vertical:null
+| -- -- -- -- -- [r8cnVP2Xyr8XBal0rK067lo1EiL4Qq0C]:problem:null
+| -- -- [jwYxrqbgPu6OOOykJW9wjxJdoV92BZEo]:chapter:2014-06-23T01:00:00
+| -- -- -- [svhJgT21v1mgUHbZDB1sDNhENCbVJza3]:sequential:2014-06-25T15:00:00
+| -- -- -- -- [2O9KlNUZlb7CpSWGgk0HUsX8XrdWb5qE]:vertical:null
+| -- -- -- -- -- [GkkzIrKZTuXmEMOVReXgEGavmVA5p4fb]:video:null
+| -- -- -- -- [FfvHFLTr4rwzSM3XXeEWpX5U0nJiHaZJ]:vertical:null
+| -- -- -- -- -- [vlobc9SZOkO5oReG1NlxM93A5prx7u8n]:problem:null
+| -- -- -- -- [nBuimhUk6h9iqQ1U6D0idkpbWGH8Lj8T]:vertical:null
+| -- -- -- -- -- [6SKPUYWl3zyvDXFsSDoXi2BgGvs04vAG]:problem:null
+| -- -- -- -- [7y0LJceUg5zyFWsDHVSMh4Y4LpzfBpQI]:vertical:null
+| -- -- -- -- -- [zICIhheQcqJMFjsHWge9avU5PGqxjG8v]:video:null
+| -- -- -- -- [rfpurFyXKYxRkEfax1BT3vZE3F7df0Fc]:vertical:null
+| -- -- -- -- -- [xKSCoCCb2eiedI2egBSejgCY5oq2ULOa]:problem:null
+| -- -- -- [nH8cEgwnovas21PpetyFe5eWBTw0ufwU]:sequential:2014-06-23T01:00:00
+| -- -- -- -- [kyPVkTTAUSqOXmKjDI9gq2uA38yiUECC]:vertical:null
+| -- -- -- -- -- [jCcIyCOs5EzNKN25xc8y4vNcAUPQFQ53]:video:null
+| -- -- -- -- [1YnS39wzfTkq16VbHyfm8NfO7ES2qZYV]:vertical:null
+| -- -- -- -- -- [9rNCOi44Xk8EDpjDUjzxpCxvbS7T1VCJ]:problem:null
+| -- -- -- [4F7PvKPgBFG1ZPUVS7Gdr0wa5EYRY4Xc]:sequential:2014-06-23T01:00:00
+| -- -- -- -- [u2Wt3INgqfInq1R2ZgalbmN0Elv75BfN]:vertical:null
+| -- -- -- -- -- [kSI0kXxspR21YmGuZLbr9flhqaAQPTeS]:video:null
+| -- -- -- -- [uh1QREJQqlpoall7UgWubGCL70sMxRWB]:vertical:null
+| -- -- -- -- -- [9oO6R9QAMqYW8Q2oopfQucjUB69zHmSO]:problem:null
+| -- -- -- [Cy71UOu0n9o08av4VDivOAeagOFizgtt]:sequential:2014-06-23T01:00:00
+| -- -- -- -- [uh4LsQucjQUnoT3owVPtwgFSUQKsoS20]:vertical:null
+| -- -- -- -- -- [Jfv99REvS9mCpFO4RlXA3pnfVMFC5NN6]:video:null
+| -- -- -- -- [KuqzBm20acEpr0cLMbqqUnVwSBvBuSxZ]:vertical:null
+| -- -- -- -- -- [3MvQQ0DZfTllxeCMFo8TqVslVD7DDwkJ]:problem:null
+| -- -- -- [InUOlCC2ynjUsytHmOU08MDd31hP4Jtr]:sequential:2014-06-23T01:00:00
+| -- -- -- -- [lTvUSkPulTfyQ3pJ5BTD3M7FmNIpYl4h]:vertical:null
+| -- -- -- -- -- [uIM7mbV3X3QHM9WqnG8Xa5j9FwyIcAU3]:video:null
+| -- -- -- -- [57Fmk8HkTy6HjW5aBLi6GI7YUndFPlBH]:vertical:null
+| -- -- -- -- -- [PRdOKjv9V67PTLzWtW2dDXqYOg1DGZrj]:problem:null
+| -- -- -- -- [QTvLs7fjsct2MTVIXOZF1tH4PcY8QqIn]:vertical:null
+| -- -- -- -- -- [PLhmTLAt7KbS0pRp3CLsJPlOhKHoI9Z8]:problem:null
+| -- -- -- -- [AAzEvFguNV8BHCYhILAUBwD3vnGTqsEu]:vertical:null
+| -- -- -- -- -- [uQjXYd2lCJEmfk3PaGL0kDmLUraw6Fmw]:video:null
+| -- -- -- -- [n9PTcNqEDAYUSUBgPDPL204tImTmoUOR]:vertical:null
+| -- -- -- -- -- [iZCoZBrojcxq6X28EASm7jApLq3eqdQK]:problem:null
+| -- -- -- -- [H2B6ohWkO87w2BWvtf0MKP3IHoBA7q3e]:vertical:null
+| -- -- -- -- -- [TiOo1Z2o2vwZmmXoLGLJXVVUvnesJQxi]:video:null
+| -- -- -- -- [nbwbATpAVGLNI2Fx8XyX6pR7UNTxbJNV]:vertical:null
+| -- -- -- -- -- [cciFgsWOCYkfdTWEBage0FweDOH5KF5x]:problem:null
+| -- -- -- -- [YiQ6kxY3tJBimq6N2tSwcwadIvOyjZvx]:vertical:null
+| -- -- -- -- -- [BBFTp1Tl7L0ml8EH84gTiCQXGpqyKlTf]:video:null
+| -- -- -- [zj6hIDxIydSOH720qk6p74OxR4sdxd7D]:sequential:2014-06-23T01:00:00
+| -- -- -- -- [YekAmn6TLMNLN4hjwlGPN9U45vMg7Hvh]:vertical:null
+| -- -- -- -- -- [t4zO3D2eTDSnxPW4f97d3WxI8dTgTEL3]:problem:null
+| -- -- -- -- [pAM3NQUnKngHL5BEhj1Z75UvSiTAUY4z]:vertical:null
+| -- -- -- -- -- [sS3NUzuyf6OVa55Dn7bW2jJ1dxkW6w02]:problem:null
+| -- -- -- -- [fmQmfKXXu8kVjnCVH9vR5diOm86KkG2m]:vertical:null
+| -- -- -- -- -- [OtJmlWrJRnthca5uzM9Um58itYeALwNd]:video:null
+| -- -- -- -- [zEjeTklnpUTunhzZdySELl7r5XN6ptM3]:vertical:null
+| -- -- -- -- -- [XKLr0UDXyF33Mw8NA8wdzKK8c5leyQwf]:video:null
+| -- -- -- -- [lPAeNSqigylTIgww5JsMULO9hq8wwG2N]:vertical:null
+| -- -- -- -- -- [wD4aWX0n0G357OyLfEYGQqMpy6vByn4F]:problem:null
+| -- -- -- [rhRsM5yNWmdzvF8anoUzfsajEqPyWjbo]:sequential:2014-06-23T01:00:00
+| -- -- -- -- [H949KH9iIASxa835Kh7idganyT5CMtPM]:vertical:null
+| -- -- -- -- -- [hbLwKVLfrJlhhIjEPkLanrQbVX3y57tZ]:problem:null
+| -- -- -- -- [1vbplQhSyHvkNutQifOP0jVSRoryX5t4]:vertical:null
+| -- -- -- -- -- [DNye9UqgBYhwRqhHHDEfu0740C1sBHL0]:problem:null
+| -- -- -- -- [RkBWvYYRHox5tTNNW8cl09gbBPSJEvZP]:vertical:null
+| -- -- -- -- -- [kfhPcL2rjoJmtrQh6ZagESf11GvkqNrD]:problem:null
+| -- -- -- -- [pkRtYL21FEAEuRgCCW47sLtRCJMZNhbc]:vertical:null
+| -- -- -- -- -- [xqTn4wJmSPXtr3GOwzImc3CsVhoiWjQJ]:problem:null
+| -- -- -- -- [sDeyHPtJrYLXfy2dqQ72FKro5q5j8tk8]:vertical:null
+| -- -- -- -- -- [rHlVUWS9wQczbniNUIU8QzFcLESxwHtl]:problem:null
+| -- -- -- -- [zbLz2taPnit3RXtsZLKRxOgsb5fVcTcP]:vertical:null
+| -- -- -- -- -- [SwQxpBErH4AfMzvfkiH7zFStszQtGAVF]:problem:null
+| -- -- -- -- [4gpJJbQm7iA9HUFP3RPRxUI5LQh5zhUb]:vertical:null
+| -- -- -- -- -- [0S8JEiWGYbuoHpLN9UpFmAaMUCDg26GG]:problem:null
+| -- -- [vSVvqodXMIPxqNYHSo8eBde4z6gvfrdn]:chapter:2014-07-07T01:00:00
+| -- -- -- [ahT5LvszxbLJXOnZrml1YJ0qUB4L3YZ9]:sequential:2014-07-07T01:00:00
+| -- -- -- -- [KfQLkmkrc7OIX7BlntysQa0b21PeK8Sq]:vertical:null
+| -- -- -- -- -- [OXbC5JbTRcZKXkYHj8IdtO2ay2uVKsDF]:video:null
+| -- -- -- -- [pqd10KpTLb8lobsimtAd2QpBiiV6XMoc]:vertical:null
+| -- -- -- -- -- [1utF4Uuwhqb7vcOcmPSUIm8AWx4R6fmO]:video:null
+| -- -- -- -- [2jOCrFIxZb7bbkCEUN5ewNc7peBtdAIe]:vertical:null
+| -- -- -- -- -- [BC4VRGEDqZjD3INdcNmucaA5AKDLf9PC]:problem:null
+| -- -- -- [iBECIPzDWi9To7ITtRwNHb2RKyrOkqBY]:sequential:2014-07-07T01:00:00
+| -- -- -- -- [pOLerbQSFGNw0mdMvVKOzOxnW7R3CLcd]:vertical:null
+| -- -- -- -- -- [QPHxrvVIPTZUMmIPBoTDnUJTEhBCqHx2]:problem:null
+| -- -- -- -- [kA5B5TsmDELKpzDiWJu8TLlo0YcvUhhU]:vertical:null
+| -- -- -- -- -- [wvxeon59qeZNIwfdVJfLhxIwLN8yu9vl]:problem:null
+| -- -- -- -- [ZhRNHczwVi1Espk9eWdn4QdRT7TGFzva]:vertical:null
+| -- -- -- -- -- [MZCpxXzDLR3HEv0xQR2v5O1UajNlQtJz]:problem:null
+| -- -- -- -- [nflj2CK76F8bBLFBi39Ip41YCZywFTyF]:vertical:null
+| -- -- -- -- -- [UVPtnt0s56CrHUCDdXWd6wNncS1cS557]:problem:null
+| -- -- -- -- [WCfYCgjetE476FE7SwlZMpNTwUXBHDfH]:vertical:null
+| -- -- -- -- -- [dGdrH1cTcJSc7Uf9kgQ11DoZvlXOjybn]:problem:null
+| -- -- -- -- [ntjX5aqewe8muOh5C9mv1DaAMM6X8NIx]:vertical:null
+| -- -- -- -- -- [9HVHqQ3xkHsiBkNA77EOR0yCBKZMMS9z]:problem:null
+| -- -- -- -- [R9pikNTnNPXFYWIyhIVx8t3vhak82N46]:vertical:null
+| -- -- -- -- -- [C9BmuyFpFqQo8GMsRCnyOMczjUoR96aX]:problem:null
+| -- -- -- -- [RpbYVAmTdznBGB6XiwguSWOzqgMtLPmk]:vertical:null
+| -- -- -- -- -- [UAlJ7HUwyQgoXQv0Ps27VXJALZ3Qf8jA]:problem:null
+| -- -- -- -- [6XsNxG3mODzDctx95dm1nHaLsWwGro0O]:vertical:null
+| -- -- -- -- -- [POpUfmmqRvj0UpF5WmMGy0dbMwS7XCE8]:problem:null
+| -- -- -- -- [gqLgPDdSUgqqSc5fDoJDRFwWDWvYymtY]:vertical:null
+| -- -- -- -- -- [K87a7K6k2a3LLZhJ6L4YF22VNNRZZWpx]:problem:null
+| -- -- -- -- [XUQpqlP78A6W50VmCvi3Whn7pPaET6AT]:vertical:null
+| -- -- -- -- -- [O8IQZ5E1rxDRhYyMMjWkAfZfoOmrP3DC]:problem:null
+| -- -- -- [RkkWLVLQ212WwkLZd5k6u7JV9SzbjNxp]:sequential:2014-07-07T01:00:00
+| -- -- -- -- [dvJDmiJ7aMsdySMxIWPsWUdy9MWITdJc]:vertical:null
+| -- -- -- -- -- [JwsIPFaG80A7249G75UhNwgZgGnbTu68]:problem:null
+| -- -- -- -- [vI2ANIxtZ2SBc9Uvlqmghfse8hcMD9pi]:vertical:null
+| -- -- -- -- -- [R6afAF4A2WYa4P2YIhlayg0mI8clBnQI]:problem:null
+| -- -- -- -- [hF5xVF2660gXv6Ob9hACYMe1bDWVCu45]:vertical:null
+| -- -- -- -- -- [oX5TLcR8YN81oQZyQUIRo62Ur2P4P2IP]:video:null
+| -- -- -- -- [hPtJgM11wxyVfLKJoWbdPk88b6jJnZeV]:vertical:null
+| -- -- -- -- -- [9P0xKn4tKTIvemBkckTAPMtqop3rXOGE]:problem:null
+| -- -- -- -- [UYNcsQ4guxvvQrKiOdgnzYLuWuzHdH9M]:vertical:null
+| -- -- -- -- -- [1KiHtFO0a61133BelhiwS4F2AwsbyK44]:video:null
+| -- -- -- -- [mTKUFQ22QcCRZhAiJJP1RuNNxIq0fpre]:vertical:null
+| -- -- -- -- -- [6fpIn3XLhMbTTeTuDwCjTENHcFd984cx]:problem:null
+| -- -- -- -- [QLnsDnvARf5c5AGwi6EAw8EH1IW5lYIZ]:vertical:null
+| -- -- -- -- -- [ZoTICRzXgJbthPbpbGrwix4Wdx4UACXF]:video:null
+| -- -- -- -- [yo2pTcnqaWw4rk2dl9F0uzBOZUBpz4Wc]:vertical:null
+| -- -- -- -- -- [fj2RUZjUqZ98b6PYtWKGANGiChL5GcWl]:problem:null
+| -- -- -- [RaIOEBspvuMPH3bqZpDVPP5RssweLr4g]:sequential:2014-07-07T01:00:00
+| -- -- -- -- [9O8Q8zZgNhL5V6pqiJztKiq3tNxJLokx]:vertical:null
+| -- -- -- -- -- [w3VuBSAjb22wZUSEC0AWyWNBhoGLQZGD]:problem:null
+| -- -- -- -- [Bb2t5CKFSAEOJ5WWKsMD8pTIKXdRO88j]:vertical:null
+| -- -- -- -- -- [mZAyagSU9KXS4V0t7CsZR3FcEpjl7kuJ]:problem:null
+| -- -- -- -- [nu0rzSVIU9RQixBbF88KAHVcyLrjWFXg]:vertical:null
+| -- -- -- -- -- [VA0obwDQabcVyaB7x1csJJoqZNMenIM7]:video:null
+| -- -- -- -- [U55ZYlSdyy2Gykefug2920Rr3kVi7QPm]:vertical:null
+| -- -- -- -- -- [w7UvwjvqwQ8Pj2w6Ws9F09jju2UmuEKQ]:problem:null
+| -- -- -- -- [IcBUhVrzp7GEE13CTtBbyeJV5WuH2Lpm]:vertical:null
+| -- -- -- -- -- [qCTlXDkMBhMDuzO9gdvzYkRF7zvbq1lD]:problem:null
+| -- -- -- -- [lygBiMpwLafyItuVOVPgFCeDGeYZ4ugi]:vertical:null
+| -- -- -- -- -- [GyWcrywr8qfYXsp9vFgmMCSJRwZI3uwj]:video:null
+| -- -- -- -- [euKUse3CCJ2OKZOKBpKp77ouvQ1J9K13]:vertical:null
+| -- -- -- -- -- [WCfPoG2OFYFLdHeNnyDM4rgKsVtbdPBh]:video:null
+| -- -- -- -- [BKtqi7zgFJLhRPXiXJrRHvm5DYEwp9Gt]:vertical:null
+| -- -- -- -- -- [ScChAta0q2zANLHnMw3nvLKhdeQiK4X5]:problem:null
+| -- -- -- -- [ixun0pU0wFM2cBfRNiFhghKoKKAApaeL]:vertical:null
+| -- -- -- -- -- [KJKkTCEVEfNSrxSq97HB0EzQG5bE8yio]:problem:null
+| -- -- -- [bzQpx7ZJQh4mIctrrsCH3sllHS2YjrlO]:sequential:2014-07-07T01:00:00
+| -- -- -- -- [ZIdc035nnF8NDtkxTFt0yYL7GAv2wqDE]:vertical:null
+| -- -- -- -- -- [ZwfNpBLmF9WiDbDhxmM1sdOnCYzNzOeh]:problem:null
+| -- -- -- -- [mr0CrMTMvcImk7sbgiEfzgvBUpqSUuO9]:vertical:null
+| -- -- -- -- -- [P56tusrh4ZM2vuWKbV5qMGkmD5NUQ1bu]:video:null
+| -- -- [80pZDZz3ozXchmdJunqhfpcvCK1fzsHD]:chapter:2014-07-14T01:00:00
+| -- -- -- [mEoSBikashhkYxxPC9Xc46TIqeuvxQEM]:sequential:2014-07-14T01:00:00
+| -- -- -- -- [33Np7VAnyAboT4MJFW9DPfBaAS7lE99S]:vertical:null
+| -- -- -- -- -- [oQGXVADO2PK8rvM6cbZNWXnXfS3ethRX]:video:null
+| -- -- -- -- [LzBGVLhaQm5IvTsIv5aIXWJ4JM4fSasG]:vertical:null
+| -- -- -- -- -- [SJzYc5r0L2HxFR66Tnf3XSokGGiwhX2J]:video:null
+| -- -- -- -- [uCmVfpMHllQtfNVCXwBKFafeRq7YBfLz]:vertical:null
+| -- -- -- -- -- [JUPke5peD54S5fjAtsBA2mdGm69LkNvx]:problem:null
+| -- -- -- -- [L4hUPBYVKFVoUcYAeS3HHrMiYttwXy1w]:vertical:null
+| -- -- -- -- -- [OdlXJwNTGCpInHonwQ9PQGhQq0Yt2qJw]:problem:null
+| -- -- -- -- -- [qXQ0koP2K4jR6qOkct6Ke1m8K4T7VqfZ]:problem:null
+| -- -- -- -- [ClVXvflCeUdtWXDJE7xFJAxPPiaXe4dz]:vertical:null
+| -- -- -- -- -- [0r2gpMdR05Fu9CBgdaCdlvETgDw8sDSm]:problem:null
+| -- -- -- -- [sYzaBAYbphndEHF4dIkeT2oOqNvhQWLD]:vertical:null
+| -- -- -- -- -- [eAwXS2BZOEMRQDsLF0vn1UgedgZIeK9o]:video:null
+| -- -- -- [KioII8bK1NNjwBe3SdD46hUEhylqGlpn]:sequential:2014-07-14T01:00:00
+| -- -- -- -- [4uJSp0ZCXOSolTwipMMnTzuCVAJwTPLU]:vertical:null
+| -- -- -- -- -- [oPEGlRnihvjthlIrP6vfWT14HzMtFBE3]:video:null
+| -- -- -- -- [hi8pSXMm1zwXndpAhgcP2Tc2lnyd94WJ]:vertical:null
+| -- -- -- -- -- [aPT7TOa8bM5fghfEqEiKjUU2zasrYacn]:problem:null
+| -- -- -- -- -- [vcrZZLT4vTQt9AkmwdYU4vayATH9YLfq]:problem:null
+| -- -- -- -- [pOJ74jieVhbwU6r3XsbTyAN0ihUkCJTX]:vertical:null
+| -- -- -- -- -- [O21oFI8XcRzmpbCB9AGqeAfOpd0KCqnE]:video:null
+| -- -- -- -- [wmXsN4a5HcTSIkdx83PDpGVqP8f7mNCh]:vertical:null
+| -- -- -- -- -- [mR8yaShlk7gh4BofcOEGoopsqc0Vl1OA]:problem:null
+| -- -- -- [0sHY0PBOltw9Jw4OdDoJVVkZmJZ5k1r1]:sequential:2014-11-01T01:00:00
+| -- -- -- -- [737UGcPpc8wAujIMSgoBNlgpU0aXCk6e]:vertical:null
+| -- -- -- -- -- [UY05dLHfn8Kpn5fLHZ0kuf4s1K34I8mB]:video:null
+| -- -- -- -- [1EPwE5cU6eY0xVBq7kXN2GoDBMRlEGB6]:vertical:null
+| -- -- -- -- -- [e3to4lGcERZz20QBaqD0Z5WKUfipiiQb]:problem:null
+| -- -- -- -- -- [kAsUzP98qHScYGAFuhrMXy0Dnq69i5Xp]:problem:null
+| -- -- -- -- -- [hUfvSIrZuJA2PXBD6q3A0m6uxXS5qUJE]:problem:null
+| -- -- -- -- -- [deuBBYDCW6UMsA5WB2dMlFIJOFfPM9hW]:problem:null
+| -- -- -- -- [anhGN2IozecOgoOoKAAHYj5B6yNxN1rE]:vertical:null
+| -- -- -- -- -- [sShlK4TBSHsJXu68eeKB05sJM58sCRA1]:video:null
+| -- -- -- [Q0cZ7ng21N5GQ35Ah0zSY6QHFvvrBPbL]:sequential:2014-07-14T01:00:00
+| -- -- -- -- [gpBBrSggkwRMVXVbdPwGiYUgFdjr6qwd]:vertical:null
+| -- -- -- -- -- [L8fgnvFBYhkAG4saCJIyOsqA6KBfz7uJ]:video:null
+| -- -- -- -- [MVwIgjFmD98wZjIS7uhLH6ONiDJDw0f0]:vertical:null
+| -- -- -- -- -- [FsG2WNGJwXNWqdlG1fliryoo9NIyr8pK]:video:null
+| -- -- -- -- [0cuF4rEydUS1Hwy9A9gw9tAfDLaAh1No]:vertical:null
+| -- -- -- -- -- [TOwS811aM36CPxhyofWrIJDBFp7GKmYA]:problem:null
+| -- -- -- -- -- [569SwVISx2tHH6XsMk64R2zWCTlIUvNn]:problem:null
+| -- -- -- [j7mjZlB6WIEDi4o5C9CwolU6iMux82ou]:sequential:2014-11-01T01:00:00
+| -- -- -- -- [2h0fX1JMvM2PYxRUWMhpQT7W8q5pO8mz]:vertical:null
+| -- -- -- -- -- [Wd0vRSImZKWl9490q2JotmVjL3gpHKB8]:video:null
+| -- -- -- -- [K23WoN0Ng9KZ06shx1r5zsYo1MFHyjn2]:vertical:null
+| -- -- -- -- -- [Gfm56tTBAlpHd91SgK5O2CjezUoXs43P]:problem:null
+| -- -- -- -- -- [vNwe9IixPcbHTlJSCKmNW6quiH4OeiWf]:problem:null
+| -- -- -- -- -- [pJ3jCLIUuqLL0tMjRVp075pYpz4mDLb2]:problem:null
+| -- -- -- -- -- [Y4xjUzorxDaKTyCbkoSwJpRIJsd8h1ue]:problem:null
+| -- -- -- -- [UF1QvkBEOwCKORfvLyTZMDFlTVBhljUj]:vertical:null
+| -- -- -- -- -- [yv5KKTcagWndtNKmZhJRahUzOfKoQTXS]:video:null
+| -- -- -- -- [Z4V5JWrGnTtVfYjPL72nSDtxqig2kdnM]:vertical:null
+| -- -- -- -- -- [p4L7pf1Fz4ArXVuVnAGDJ3nbuaP6bAjg]:problem:null
+| -- -- -- -- -- [CAdnXrbBSwW1puIQcd2q0ls6K7PQDCqF]:problem:null
+| -- -- -- -- -- [ZpKpMHBT7cmtt6nWTGVJSBgvFDnNNtZ8]:problem:null
+| -- -- -- -- [izQDvScijAJo0dSv0CG3XepxWvESkYS7]:vertical:null
+| -- -- -- -- -- [Y2wXKFkRRHSK4SxVYyYUvLqf51LbfpX4]:video:null
+| -- -- -- [YrR8yJAnsmytrJIgAYbmSSbeQRLzURVW]:sequential:2014-07-14T01:00:00
+| -- -- -- -- [An0tn6Byeeinf8Ipr13kC8Uxdv1CEhAO]:vertical:null
+| -- -- -- -- -- [2Ye20CvntOJM0BBBldVQVFbzuCeZepyj]:problem:null
+| -- -- -- -- [qECy5alCwJYsptqSoSkN51nolkFGH1a7]:vertical:null
+| -- -- -- -- -- [6ZRcnnnnLjexLFRu7YxAWYq6iqPzwuM2]:problem:null
+| -- -- -- -- [uCQxzbEWq2tmsDY1RQ6m4UVNZkZ3lP6q]:vertical:null
+| -- -- -- -- -- [PmJjjagcOmqZgqlinq6lqetRjztYmY0i]:problem:null
+| -- -- -- -- [s2208QLSuw4N1oLLT8fyRuwia8PS9jew]:vertical:null
+| -- -- -- -- -- [0TSuyrnHh68n1FtEC6eflTeQ8jNg0LgQ]:problem:null
+| -- -- -- -- [eENoanla2ofgXSCQzaqYA0okIivDxXhj]:vertical:null
+| -- -- -- -- -- [U9u9ojpwfbATLLPowXPNrH4TGwgmtYDp]:problem:null
+| -- -- -- -- [ScW277SWXY2wASZqAUVbVkMdA0OqWwLh]:vertical:null
+| -- -- -- -- -- [0QnQADSKhgfjsdDsnw2l28TXaUnwAfuR]:problem:null
+| -- -- -- -- [wzfcFrWKqOndWa1MDiIahQ9iGoXptlMe]:vertical:null
+| -- -- -- -- -- [oVeHXjFy75KILkgIT8diQuLjs5dPbsV8]:problem:null
+| -- -- -- -- [zje2pMumUIvsJM51n4MpGOUpnhYmA0pb]:vertical:null
+| -- -- -- -- -- [G0WipOIb6lcfBbDIJ5KdKYlEA8WqYCci]:problem:null
+| -- [V043ilAwsdzxSpDwgZqX44HnsIXltpmT]:vertical:null
+| -- [LMSPHjnvE3wmdXXJ1b7MkiK23tVSrhvA]:vertical:null
+| -- -- [ISp4xoKRmemuAv1iLSMOwKLVH3g4Fjwi]:problem:null
+| -- [5BOEXoGIZrdBcZxkEJ8OQAcjRMhIkx7s]:vertical:null
+| -- -- [2ONBIIKf5AQ53jipNOSsuc2clbhOJfDB]:problem:null
+| -- [PsFD0PyYrNbpeAf7mDXs4HNYUjsPvG7a]:course_info:null
+| -- [volTrcT4Jb0yuovF8CTxTYckjAaEKXh5]:vertical:null
+| -- -- [vafNQlxRg8d6znXrHa9Yt0MY4ZCxYqCU]:problem:null
+| -- [inhLW2b3d8HiVa8kQfImc93cFHsFr9Fq]:vertical:null
+| -- [NgcCKvWmDnXY8lt28F2fI6JeYdoaNZoR]:course_info:null
+| -- [XfejYvjpQc7l03Y2XnMAwr5pa8oQmHPW]:vertical:null
+| -- -- [psj8VxcPAvddzvfzmYNgI62VyWX0Ubo6]:problem:null
+| -- [10OeNVwoyQEMgCmeKE8OVa42j4xYOall]:about:null
+| -- [IvmNr8pX00uqhVSAj01Lq62PPGTNNpxN]:vertical:null
+| -- -- [kN9iKb9ymHdbsPwmn9yFIlsmqrSklTye]:problem:null
+| -- [gkmLdWPrLppbTfWSkwJQ8A20SvGXEN9z]:vertical:null
+| -- -- [xgWr7iIV7dFy02Rz6bHpaB34GuiPaI9v]:problem:null
+| -- [QBSjjfH8wJdnLlLLXkX5LQPziLmvUbuF]:vertical:null
+| -- -- [oROt3gthKwV99J2vGY37iPKr9Wk7DFEc]:problem:null
+| -- [3fcRJtsci2r7Q2HRnCidiemseTs2a6Fq]:vertical:null
+| -- -- [rH8DgUWgai7cXTFtNzBVC0ejksH8q0Rd]:problem:null
+| -- [IITqBuMwOkxraohDNuLbrgNvbiJakpoM]:about:null
+| -- [COYFLNy8nYvtSe9VwZxBfZDI9LdKTjtg]:vertical:null
+| -- -- [ikyuqWSk7MhSQjJ00kheqq822JyPOJo7]:problem:null
+| -- [GAlrROYZAlgdj6kN2kKuZ9abyDgxjIb6]:vertical:null
+| -- -- [FyAdBOmtpzNdAq36qIAfZnAWETtWm8tZ]:problem:null
+--------------------------------------------------------
+
+Process finished with exit code 0

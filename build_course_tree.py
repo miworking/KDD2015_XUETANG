@@ -5,7 +5,7 @@ from course_tree import *
 from course_tree_node import *
 
 
-df = pd.DataFrame(pd.read_csv('./obj2.csv',header = 0))
+df = pd.DataFrame(pd.read_csv('./obj6.csv',header = 0))
 
 courses = {}
 
