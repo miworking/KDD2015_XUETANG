@@ -30,3 +30,6 @@ class AccessLog(object):
     def get_event(self):
         return self.event
 
+    def get_enrollment_id(self):
+        return self.enrollment_id
+

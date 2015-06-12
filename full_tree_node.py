@@ -9,9 +9,11 @@ class FullTreeNode(object):
         self.category = None
         self.level = 0
         self.access_log = {}
-        self.s = None
+        # self.s = None
         self.earliest = None
         self.start = None
+        self.sequentialId = None
+        self.chapterId = None
 
 
 
@@ -134,3 +136,46 @@ class FullTreeNode(object):
         if changed == False:
             self.category = type
 
+    def find_video(self,video):
+        if self.category == 'video':
+            video[self.get_start()] = self
+        if self.get_children():
+            for child in self.get_children().values():
+                child.find_video(video)
+
+
+    def find_problems(self,problems):
+        if self.category == 'problems':
+            problems[self.get_start()] = self
+        if self.get_children():
+            for child in self.get_children().values():
+                child.find_video(problems)
+
+    def visited(self,enrollment_id):
+        for access in self.get_access_log().values():
+            if access.get_enrollment_id() == enrollment_id:
+                return True
+        return False
+
+    def set_sequentialID(self,sequentialId):
+        if self.category == 'sequential':
+            sequentialId = self.id
+        self.sequentialId = sequentialId
+        if self.children:
+            for child in self.children.values():
+                child.set_sequentialID(sequentialId)
+
+    def set_chapterID(self,chapterId):
+        if self.category == 'chapter':
+            chapterId = self.id
+        self.chapterId = chapterId
+        if self.children:
+            for child in self.children.values():
+                child.set_chapterID(chapterId)
+
+
+    def add_modules(self,matrix):
+        matrix.loc[self.id] = [self.id,self.start,self.category,self.sequentialId,self.chapterId]
+        if self.children:
+            for child in self.children.values():
+                child.add_modules(matrix)
