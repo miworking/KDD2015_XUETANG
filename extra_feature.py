@@ -33,8 +33,6 @@ del matrix['course_id']
 
 
 
-
-
 #extra video visit times
 video_visit_times = []
 for idx, row in matrix.iterrows():

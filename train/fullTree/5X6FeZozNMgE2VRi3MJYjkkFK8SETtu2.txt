@@ -1,159 +1,159 @@
 =======================================5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2
-| -- [nVxELe8a32aq10ZGjzTzmir89bgkcSH2] vertical 2015-06-08 15:45:22.002477,earliest:2015-06-08 15:45:22.002477
-| -- -- [y0yV2PjrtsWvC3bL4VEmVcFplGEbMHHF] problem 2015-06-08 15:45:22.002492,earliest:2015-06-08 15:45:22.002492
-| -- [Gmu6XpIheq88jGQ54turGPpu4j1Ipc6x] vertical 2015-06-08 15:45:22.002528,earliest:2015-06-08 15:45:22.002528
-| -- -- [NmfU0mmXAKLV6Q403qcjAAMVTjbpGMLo] problem 2015-06-08 15:45:22.002542,earliest:2015-06-08 15:45:22.002542
-| -- [NgcCKvWmDnXY8lt28F2fI6JeYdoaNZoR] course_info 2015-06-08 15:45:22.002560,earliest:2015-06-08 15:45:22.002560
-| -- [1GLohLu8pNTSJYbFHLtJZpEf83G8nlcd] vertical 2015-06-08 15:45:22.002593,earliest:2015-06-08 15:45:22.002593
-| -- -- [GOxz5vuwjXX0WMIozqSzfsJp8ekTj56V] problem 2015-06-08 15:45:22.002607,earliest:2015-06-08 15:45:22.002607
-| -- [kyhs47yPyHsBckr1Z2QHOshPQr3ppRAD] vertical 2015-06-08 15:45:22.002703,earliest:2015-06-08 15:45:22.002703
-| -- -- [Yaf9xh5TT4Oizb1jMOMtIYwTqTZiQgO0] problem 2015-06-08 15:45:22.002717,earliest:2015-06-08 15:45:22.002717
-| -- [rZTurLOnmDYegq2uMtGJvLj7xsvIpVXN] vertical 2015-06-08 15:45:22.002752,earliest:2015-06-08 15:45:22.002752
-| -- -- [ZWA1qkTDtyTjYuzEt5oBSaSKItTXVSH8] problem 2015-06-08 15:45:22.002766,earliest:2015-06-08 15:45:22.002766
-| -- [GYrGYdTdTD0iXepNPVeQBvZ7CuT8CODK] vertical 2015-06-08 15:45:22.002830,earliest:2015-06-08 15:45:22.002830
-| -- -- [uTHtQx9x54XetRalzOGZVlpqXTEqS4Tk] problem 2015-06-08 15:45:22.002843,earliest:2015-06-08 15:45:22.002843
-| -- [10OeNVwoyQEMgCmeKE8OVa42j4xYOall] about 2015-06-08 15:45:22.002861,earliest:2015-06-08 15:45:22.002861
-| -- [IvmNr8pX00uqhVSAj01Lq62PPGTNNpxN] vertical 2015-06-08 15:45:22.002893,earliest:2015-06-08 15:45:22.002893
-| -- -- [kN9iKb9ymHdbsPwmn9yFIlsmqrSklTye] problem 2015-06-08 15:45:22.002907,earliest:2015-06-08 15:45:22.002907
-| -- [PsFD0PyYrNbpeAf7mDXs4HNYUjsPvG7a] course_info 2015-06-08 15:45:22.007661,earliest:2015-06-08 15:45:22.007661
+| -- [nVxELe8a32aq10ZGjzTzmir89bgkcSH2] vertical 2015-06-13 22:50:05.354220,earliest:2015-06-13 22:50:05.354220
+| -- -- [y0yV2PjrtsWvC3bL4VEmVcFplGEbMHHF] problem 2015-06-13 22:50:05.354224,earliest:2015-06-13 22:50:05.354224
+| -- [Gmu6XpIheq88jGQ54turGPpu4j1Ipc6x] vertical 2015-06-13 22:50:05.354233,earliest:2015-06-13 22:50:05.354233
+| -- -- [NmfU0mmXAKLV6Q403qcjAAMVTjbpGMLo] problem 2015-06-13 22:50:05.354237,earliest:2015-06-13 22:50:05.354237
+| -- [NgcCKvWmDnXY8lt28F2fI6JeYdoaNZoR] course_info 2015-06-13 22:50:05.354242,earliest:2015-06-13 22:50:05.354242
+| -- [1GLohLu8pNTSJYbFHLtJZpEf83G8nlcd] vertical 2015-06-13 22:50:05.354250,earliest:2015-06-13 22:50:05.354250
+| -- -- [GOxz5vuwjXX0WMIozqSzfsJp8ekTj56V] problem 2015-06-13 22:50:05.354254,earliest:2015-06-13 22:50:05.354254
+| -- [kyhs47yPyHsBckr1Z2QHOshPQr3ppRAD] vertical 2015-06-13 22:50:05.354279,earliest:2015-06-13 22:50:05.354279
+| -- -- [Yaf9xh5TT4Oizb1jMOMtIYwTqTZiQgO0] problem 2015-06-13 22:50:05.354282,earliest:2015-06-13 22:50:05.354282
+| -- [rZTurLOnmDYegq2uMtGJvLj7xsvIpVXN] vertical 2015-06-13 22:50:05.354291,earliest:2015-06-13 22:50:05.354291
+| -- -- [ZWA1qkTDtyTjYuzEt5oBSaSKItTXVSH8] problem 2015-06-13 22:50:05.354295,earliest:2015-06-13 22:50:05.354295
+| -- [GYrGYdTdTD0iXepNPVeQBvZ7CuT8CODK] vertical 2015-06-13 22:50:05.354312,earliest:2015-06-13 22:50:05.354312
+| -- -- [uTHtQx9x54XetRalzOGZVlpqXTEqS4Tk] problem 2015-06-13 22:50:05.354315,earliest:2015-06-13 22:50:05.354315
+| -- [10OeNVwoyQEMgCmeKE8OVa42j4xYOall] about 2015-06-13 22:50:05.354320,earliest:2015-06-13 22:50:05.354320
+| -- [IvmNr8pX00uqhVSAj01Lq62PPGTNNpxN] vertical 2015-06-13 22:50:05.354328,earliest:2015-06-13 22:50:05.354328
+| -- -- [kN9iKb9ymHdbsPwmn9yFIlsmqrSklTye] problem 2015-06-13 22:50:05.354332,earliest:2015-06-13 22:50:05.354332
+| -- [PsFD0PyYrNbpeAf7mDXs4HNYUjsPvG7a] course_info 2015-06-13 22:50:05.355845,earliest:2015-06-13 22:50:05.355845
 | -- [Gg94FzUgSpSxOYbqh0g99HNH1v0mUywY] course 2014-06-09 00:09:22,earliest:2014-06-09 00:09:22
-| -- -- [iVSavJ4039P05hpPhLptsAaGOypDogfH] chapter 2014-08-11 01:00:00,earliest:2015-06-08 15:45:22.072849
-| -- -- -- [ENFWGupIfaqmHlYmmUvZC6ETRTO1ic0S] sequential 2014-08-11 01:00:00,earliest:2015-06-08 15:45:22.073107
-| -- -- -- -- [0OrbNLfiAeQc4lbvwtJKYcHzJyTCPsec] vertical 2015-06-08 15:45:22.073125,earliest:2015-06-08 15:45:22.073125
-| -- -- -- -- -- [5vLV6RqWPDaIXnIXjhZHn0X7oLoS1bZs] problem 2015-06-08 15:45:22.073134,earliest:2015-06-08 15:45:22.073134
-| -- -- -- -- [O1iTVIKWq83QdZqfhYDaSRijaAUiU3za] vertical 2015-06-08 15:45:22.073154,earliest:2015-06-08 15:45:22.073154
-| -- -- -- -- -- [NMrJNP74QWYGKbKZFdrhPmv7IoqjMt9b] video 2015-06-08 15:45:22.073162,earliest:2015-06-08 15:45:22.073162
-| -- -- -- -- [0FMpqpjh1Ypyo0Pt9lD3jidQ8hjkjnqV] vertical 2015-06-08 15:45:22.073182,earliest:2015-06-08 15:45:22.073182
-| -- -- -- -- -- [jKnGnhgGJr6XwT2s7oMnwWbx7xbnae5G] video 2015-06-08 15:45:22.073190,earliest:2015-06-08 15:45:22.073190
-| -- -- -- -- [OdblPMa3hhJbxoAwLxg4yTGxHEi7q8gl] vertical 2015-06-08 15:45:22.073211,earliest:2015-06-08 15:45:22.073211
-| -- -- -- -- -- [24lw221FXRPWmsaE4G2RRIjMYgL0l7Dk] video 2015-06-08 15:45:22.073219,earliest:2015-06-08 15:45:22.073219
-| -- -- -- -- [oaWP1IqOWze3VXd5sYRvyEZD6lUqzPRa] vertical 2015-06-08 15:45:22.073239,earliest:2015-06-08 15:45:22.073239
-| -- -- -- -- -- [QBRHgZD7KcLpTdKXvSqwMaycdLY7wzaF] problem 2015-06-08 15:45:22.073246,earliest:2015-06-08 15:45:22.073246
-| -- -- -- -- [Uy6ux3pW1lB4mYAoQQuqe5EO87BvkZ7c] vertical 2015-06-08 15:45:22.073257,earliest:2015-06-08 15:45:22.073257
-| -- -- -- -- -- [5DSWYvQdZBRUwEH6rEGBvej6NHZ6B0l8] video 2015-06-08 15:45:22.073262,earliest:2015-06-08 15:45:22.073262
-| -- -- -- -- [ehLjxyWjIGzAUS9OsDw1dzEMlwNVAv8q] vertical 2015-06-08 15:45:22.073277,earliest:2015-06-08 15:45:22.073277
-| -- -- -- -- -- [68bnQPxEC0UmOspSXqf2Sptexlo9pGcE] problem 2015-06-08 15:45:22.073281,earliest:2015-06-08 15:45:22.073281
-| -- -- -- -- -- [ydd19EIEfo9sziz60fAZsFZadtdi88rj] problem 2015-06-08 15:45:22.073286,earliest:2015-06-08 15:45:22.073286
-| -- -- -- -- [bKGG27Oi3IJ6np9tJ3sqPUR5Swin2vWA] vertical 2015-06-08 15:45:22.073297,earliest:2015-06-08 15:45:22.073297
-| -- -- -- -- -- [u60oYJBXSBQnBzHZT70m3nv2CKSwrUpQ] video 2015-06-08 15:45:22.073301,earliest:2015-06-08 15:45:22.073301
-| -- -- -- [nE2hoRAyu2DDt3mhgGl4p2VgISX0jiUG] sequential 2014-08-11 01:00:00,earliest:2015-06-08 15:45:22.073492
-| -- -- -- -- [XaWCsPku93zUfdtxAouhcUZg6AtBRQcy] vertical 2015-06-08 15:45:22.073510,earliest:2015-06-08 15:45:22.073510
-| -- -- -- -- -- [RfLhElsmJa79At3gQCRGGidXJG9TiWSf] problem 2015-06-08 15:45:22.073518,earliest:2015-06-08 15:45:22.073518
-| -- -- -- -- [lZNUwsn6fwEmUhNajFG6T7g4KHYgFKEW] vertical 2015-06-08 15:45:22.073538,earliest:2015-06-08 15:45:22.073538
-| -- -- -- -- -- [GXGAL3fzCdmZwOnuPSDCBHScJrmNDQaP] problem 2015-06-08 15:45:22.073546,earliest:2015-06-08 15:45:22.073546
-| -- -- -- -- [tFNTG2oBMAxyK0qOsoiSKeUfiHKhBJ5b] vertical 2015-06-08 15:45:22.073566,earliest:2015-06-08 15:45:22.073566
-| -- -- -- -- -- [ewJg9aHQAY36LiHmkLjruibVy0Uj48UG] problem 2015-06-08 15:45:22.073574,earliest:2015-06-08 15:45:22.073574
-| -- -- -- -- [n8UCaeaeN3wscEgtKBrOeTTW3z0qvg27] vertical 2015-06-08 15:45:22.073594,earliest:2015-06-08 15:45:22.073594
-| -- -- -- -- -- [Fz997pc6JJyGDTUPqXS7Z7LmlqJHGy29] problem 2015-06-08 15:45:22.073602,earliest:2015-06-08 15:45:22.073602
-| -- -- -- -- [PRIcjjtnUdlW4YLB5zwVaOcfC84ufygq] vertical 2015-06-08 15:45:22.073622,earliest:2015-06-08 15:45:22.073622
-| -- -- -- -- -- [Hxc4vHVYwnjklkndz5yq1AIddOBXkQZV] problem 2015-06-08 15:45:22.073630,earliest:2015-06-08 15:45:22.073630
-| -- -- -- -- [3vtWBYI4NO6GTNthHQ3uWMj5L4Q0p8Rl] vertical 2015-06-08 15:45:22.073650,earliest:2015-06-08 15:45:22.073650
-| -- -- -- -- -- [bZFWL1fuuPN8FNWjLTqNWMRxbx7L4it1] problem 2015-06-08 15:45:22.073658,earliest:2015-06-08 15:45:22.073658
-| -- -- -- -- [1vZDhLEEIznhBMCZ62Y2xhgSh3uVLgA9] vertical 2015-06-08 15:45:22.073678,earliest:2015-06-08 15:45:22.073678
-| -- -- -- -- -- [AOt08k1qmyhotnW0XVcoPDIFfRbFasvh] problem 2015-06-08 15:45:22.073686,earliest:2015-06-08 15:45:22.073686
-| -- -- -- -- [T773gHBPHUpbo1hydIaFVBUYv4cSIBNX] vertical 2015-06-08 15:45:22.073706,earliest:2015-06-08 15:45:22.073706
-| -- -- -- -- -- [dEQ0FgN4LhYomji24bHIva2VTakWpX2u] problem 2015-06-08 15:45:22.073714,earliest:2015-06-08 15:45:22.073714
-| -- -- -- -- [hotCJKqtrF650QddIGukxJZxwtnP1PX8] vertical 2015-06-08 15:45:22.073734,earliest:2015-06-08 15:45:22.073734
-| -- -- -- -- -- [fHQTim3G9whgyIHTbLyavt4bs9XuImrc] problem 2015-06-08 15:45:22.073742,earliest:2015-06-08 15:45:22.073742
-| -- -- -- [S3sF2odTzEKSQEuVmOEZzlE04HPeRyuT] sequential 2014-08-11 01:00:00,earliest:2015-06-08 15:45:22.073874
-| -- -- -- -- [X9hVjpUIUrqRPjfDHNqeQK30SuxIWguN] vertical 2015-06-08 15:45:22.073892,earliest:2015-06-08 15:45:22.073892
-| -- -- -- -- -- [ofUQw7YlmBjkmHSN6CXeVadXT8PQUVmK] video 2015-06-08 15:45:22.073901,earliest:2015-06-08 15:45:22.073901
-| -- -- -- -- [9cOpZEzEGZ5C2JavdGxwKtrdtArrrnkR] vertical 2015-06-08 15:45:22.073920,earliest:2015-06-08 15:45:22.073920
-| -- -- -- -- -- [A9QUcITgcPSrTLRo5eK1lQrp6b1h91B2] video 2015-06-08 15:45:22.073929,earliest:2015-06-08 15:45:22.073929
-| -- -- -- -- [oToJ8VukbtF1bX113R4ghVzr7Lb7ylvE] vertical 2015-06-08 15:45:22.073967,earliest:2015-06-08 15:45:22.073967
-| -- -- -- -- -- [Wz1q9QH8twXZPkH5zSIpHuAxC3p7KaJW] problem 2015-06-08 15:45:22.073975,earliest:2015-06-08 15:45:22.073975
-| -- -- -- -- -- [k5eO1Uhkt2jpZfRCbYdniefCsQdNOJF4] problem 2015-06-08 15:45:22.073984,earliest:2015-06-08 15:45:22.073984
-| -- -- -- -- -- [YMif1KsxnNLAcqLm1yrhSc3D0UYDz43g] problem 2015-06-08 15:45:22.073992,earliest:2015-06-08 15:45:22.073992
-| -- -- -- [s0FLhztv49u4OmslldjAcHeeto616mUW] sequential 2014-08-11 01:00:00,earliest:2015-06-08 15:45:22.074200
-| -- -- -- -- [jTXy0NIGFTWB6rP6SIEuF3TjbB44p2wh] vertical 2015-06-08 15:45:22.074227,earliest:2015-06-08 15:45:22.074227
-| -- -- -- -- -- [jTkbkTjqDRu0hOE9Ce02GymlKrC8XvYI] problem 2015-06-08 15:45:22.074235,earliest:2015-06-08 15:45:22.074235
-| -- -- -- -- -- [xuuWzWuljScGPmyZHyHJ9mVkAexHKJlX] problem 2015-06-08 15:45:22.074244,earliest:2015-06-08 15:45:22.074244
-| -- -- -- -- [60E7xUE0WKwkbabXyzDfujKjFq3x7eyf] vertical 2015-06-08 15:45:22.074281,earliest:2015-06-08 15:45:22.074281
-| -- -- -- -- -- [oaO3LebDsmkoXx4gyJ4TcILoAvGpNc0M] problem 2015-06-08 15:45:22.074290,earliest:2015-06-08 15:45:22.074290
-| -- -- -- -- -- [7vspxCwLL3dBmmg0Ud8SdGtqtigBSDjj] problem 2015-06-08 15:45:22.074298,earliest:2015-06-08 15:45:22.074298
-| -- -- -- -- -- [Jmk55P1X24JMz9urWmQ7ZtORJGv9VBHK] problem 2015-06-08 15:45:22.074307,earliest:2015-06-08 15:45:22.074307
-| -- -- -- -- [M4YpNY0LDZrfYDjrPAYgT8zBlwkuHKld] vertical 2015-06-08 15:45:22.074327,earliest:2015-06-08 15:45:22.074327
-| -- -- -- -- -- [wFOhlRZy3hmCnGw4LBWLxelex0w1MSRh] video 2015-06-08 15:45:22.074335,earliest:2015-06-08 15:45:22.074335
-| -- -- -- -- [sm8GTjiLAaThm9Sv31I6f3uWDDgvhRXb] vertical 2015-06-08 15:45:22.074356,earliest:2015-06-08 15:45:22.074356
-| -- -- -- -- -- [dGxhPbOp7J6gYIeLPX4UQp72JXU8Sexk] video 2015-06-08 15:45:22.074363,earliest:2015-06-08 15:45:22.074363
-| -- -- -- -- [6fCYYEH0HjHBQsiLgZ8vyDmUkTsLTa4o] vertical 2015-06-08 15:45:22.074383,earliest:2015-06-08 15:45:22.074383
-| -- -- -- -- -- [Xy10xea2o3FC0Lr4JkRPHvBu8PPPcuFO] video 2015-06-08 15:45:22.074391,earliest:2015-06-08 15:45:22.074391
-| -- -- -- [rGtX5BpHvz0AIKN463hOl7tOrFS7h3XE] sequential 2014-08-11 01:00:00,earliest:2015-06-08 15:45:22.074610
-| -- -- -- -- [0JKMUoBzX12BUjqCSiJ42aBMiYmZRPl0] vertical 2015-06-08 15:45:22.074628,earliest:2015-06-08 15:45:22.074628
-| -- -- -- -- -- [OA2OyfaFRL4rKKJ9wJxbixaEbjjLA39t] video 2015-06-08 15:45:22.074636,earliest:2015-06-08 15:45:22.074636
-| -- -- -- -- [aggpSXx4HwNqMSEAabzNo68jw9cqwrg4] vertical 2015-06-08 15:45:22.074656,earliest:2015-06-08 15:45:22.074656
-| -- -- -- -- -- [wFSs0Sf50rJprHCSkBvaLjYpSRCoB03O] video 2015-06-08 15:45:22.074665,earliest:2015-06-08 15:45:22.074665
-| -- -- -- -- [aRBfpbNwP3QSW2ktEz2AOojYvG1ibBBk] vertical 2015-06-08 15:45:22.074685,earliest:2015-06-08 15:45:22.074685
-| -- -- -- -- -- [n42XayWC5Po3zOipuwIzlLws0jHGMpQG] problem 2015-06-08 15:45:22.074693,earliest:2015-06-08 15:45:22.074693
-| -- -- -- -- [g9KTZaO6HCaBkvQvJY3HBAFIUt6ozwHP] vertical 2015-06-08 15:45:22.074713,earliest:2015-06-08 15:45:22.074713
-| -- -- -- -- -- [gGHbLRea5vyrM5eCBGO2eoUTxBUStnLU] problem 2015-06-08 15:45:22.074722,earliest:2015-06-08 15:45:22.074722
-| -- -- -- -- [wp705Jn7Z7m13ROK7mCweb1akVmlUlwz] vertical 2015-06-08 15:45:22.074742,earliest:2015-06-08 15:45:22.074742
-| -- -- -- -- -- [o5dZeRXux1pVvgLal2bCLXVru6qfaF8l] video 2015-06-08 15:45:22.074750,earliest:2015-06-08 15:45:22.074750
-| -- -- -- -- [aVEWjVj7CzGXcZPA3GihUsb38cWDyM3r] vertical 2015-06-08 15:45:22.074788,earliest:2015-06-08 15:45:22.074788
-| -- -- -- -- -- [HCHa4ALXoBlUV3aMY1r3YzKAr2OtWPWy] problem 2015-06-08 15:45:22.074797,earliest:2015-06-08 15:45:22.074797
-| -- -- -- -- -- [CKd7AIffYOT49yoEn3Sh4Uz2wqUQfyBi] problem 2015-06-08 15:45:22.074806,earliest:2015-06-08 15:45:22.074806
-| -- -- -- -- -- [U9WaM65A3zPkBeGMmOQr3JFt1sbpuzjG] problem 2015-06-08 15:45:22.074814,earliest:2015-06-08 15:45:22.074814
-| -- -- [sa1YjghlPrLqsJl1JQZOnL1eoN9eYC26] chapter 2014-07-28 01:00:00,earliest:2015-06-08 15:45:22.076136
-| -- -- -- [lJgVp9peKfOSUVcHQ5YCoHW1MhNvO0Wj] sequential 2014-07-28 01:00:00,earliest:2015-06-08 15:45:22.076156
-| -- -- -- -- [RTgMNjE14R9z7KJit2OWIk90xhFIMyvp] vertical 2015-06-08 15:45:22.076166,earliest:2015-06-08 15:45:22.076166
-| -- -- -- -- -- [HDs38e4hlZqQ2KjsjB97YYXgr7NWd7Hn] video 2015-06-08 15:45:22.076170,earliest:2015-06-08 15:45:22.076170
-| -- -- -- [SU34AwkKCUhNWPtOmtvBSOylrSY3WwsU] sequential 2014-07-28 01:00:00,earliest:2015-06-08 15:45:22.076216
-| -- -- -- -- [REYahKBHsKdZL68mFuOlqBzBPScpcF09] vertical 2015-06-08 15:45:22.076225,earliest:2015-06-08 15:45:22.076225
-| -- -- -- -- -- [Zapu5wdsJugemJ2bWI6UJsZ5yu6xVGQu] video 2015-06-08 15:45:22.076230,earliest:2015-06-08 15:45:22.076230
-| -- -- -- -- [7YsVQbhKTsUgIWItMbuyjDDL677wMeO8] vertical 2015-06-08 15:45:22.076245,earliest:2015-06-08 15:45:22.076245
-| -- -- -- -- -- [NuuJZODs6E1bZ0mjCRnFE3b7XkaKOjLD] problem 2015-06-08 15:45:22.076249,earliest:2015-06-08 15:45:22.076249
-| -- -- -- -- -- [3y1W6fA3grDX2eLnwXlEZf7tV2d2UxV5] problem 2015-06-08 15:45:22.076254,earliest:2015-06-08 15:45:22.076254
-| -- -- -- [Q11KY9ojP3oMFlGVdrcyw5Az9mII8OaM] sequential 2014-07-28 01:00:00,earliest:2015-06-08 15:45:22.076359
-| -- -- -- -- [reGoJzCg6sPjOQxkOzi5JxmXFRCBWa9n] vertical 2015-06-08 15:45:22.076369,earliest:2015-06-08 15:45:22.076369
-| -- -- -- -- -- [biSBRwMwtKpli0ls7bGXgb3ejR2YAqUH] video 2015-06-08 15:45:22.076374,earliest:2015-06-08 15:45:22.076374
-| -- -- -- -- [mywSJuQCI1yFZq5cc9A6aoXrVqiwYPIx] vertical 2015-06-08 15:45:22.076384,earliest:2015-06-08 15:45:22.076384
-| -- -- -- -- -- [hLtZq7cdvE7InyBECFhkOIMrFDMnmJoJ] problem 2015-06-08 15:45:22.076388,earliest:2015-06-08 15:45:22.076388
-| -- -- -- -- [WSG7pCNPE7skedd5T0XRohOTvBrmKJWo] vertical 2015-06-08 15:45:22.076399,earliest:2015-06-08 15:45:22.076399
-| -- -- -- -- -- [TC9wkqwSr4G25jS1MmY2X459kNL9HDpL] video 2015-06-08 15:45:22.076403,earliest:2015-06-08 15:45:22.076403
-| -- -- -- -- [S1tUgd8tCcRCx9EN3GP07D3C0dxWhNhX] vertical 2015-06-08 15:45:22.076414,earliest:2015-06-08 15:45:22.076414
-| -- -- -- -- -- [x6VQ5XmbroypeJJokueyRDEGgj01jxPQ] problem 2015-06-08 15:45:22.076418,earliest:2015-06-08 15:45:22.076418
-| -- -- -- -- [BdaooerPfgYiQTtIaGk7VA9cb4s0ogtH] vertical 2015-06-08 15:45:22.076429,earliest:2015-06-08 15:45:22.076429
-| -- -- -- -- -- [eqRyDBCauCEuUUnWVgLycLUmVXgppS4l] video 2015-06-08 15:45:22.076433,earliest:2015-06-08 15:45:22.076433
-| -- -- -- -- [1jLTEwiyEYEYtnFYM1EJgvRMsK1zdDad] vertical 2015-06-08 15:45:22.076448,earliest:2015-06-08 15:45:22.076448
-| -- -- -- -- -- [Jc9hJZQ56Dn5rsJBNXyN0qIpPNrNdWDa] problem 2015-06-08 15:45:22.076453,earliest:2015-06-08 15:45:22.076453
-| -- -- -- -- -- [InzdVzrS4hLpear2dqIqjr0d3pPtDWxg] problem 2015-06-08 15:45:22.076457,earliest:2015-06-08 15:45:22.076457
-| -- -- -- [FD6d8Qd97an0mvD6282FPpjEArNqyNjs] sequential 2014-07-28 01:00:00,earliest:2015-06-08 15:45:22.076599
-| -- -- -- -- [OG3ZJrvjxeZxayp8sVvKpnO1dilYAuAQ] vertical 2015-06-08 15:45:22.076609,earliest:2015-06-08 15:45:22.076609
-| -- -- -- -- -- [Y8a0dKpTaVBmBrwL37GvlJp46ZULpFhj] problem 2015-06-08 15:45:22.076613,earliest:2015-06-08 15:45:22.076613
-| -- -- -- -- [qT27tLJjwlo97Je1gkewKAVAhyi0ldgA] vertical 2015-06-08 15:45:22.076624,earliest:2015-06-08 15:45:22.076624
-| -- -- -- -- -- [M9XkiOgqiC0VLJ085UYfZ9go2hYpQJDb] problem 2015-06-08 15:45:22.076628,earliest:2015-06-08 15:45:22.076628
-| -- -- -- -- [oF8TSOgkvQOA5VXH9Gzh5ojlOYYcoVMr] vertical 2015-06-08 15:45:22.076639,earliest:2015-06-08 15:45:22.076639
-| -- -- -- -- -- [tcIDvCmWVqUhzWDXS9Q7Nj04WDFRQ7qs] problem 2015-06-08 15:45:22.076643,earliest:2015-06-08 15:45:22.076643
-| -- -- -- -- [M2B0LT6CQ6G7B53TEW5Tc2bhDr47WVwc] vertical 2015-06-08 15:45:22.076654,earliest:2015-06-08 15:45:22.076654
-| -- -- -- -- -- [KdFoha3UCRIKZzyNKJARiiVZfGA4xT7j] problem 2015-06-08 15:45:22.076658,earliest:2015-06-08 15:45:22.076658
-| -- -- -- -- [ZKbpverzIS2iz18thwtnPeUmrYOs03D2] vertical 2015-06-08 15:45:22.076669,earliest:2015-06-08 15:45:22.076669
-| -- -- -- -- -- [UspAJEEU35Yy7wER0XKG9uqW0tVAYYzF] problem 2015-06-08 15:45:22.076673,earliest:2015-06-08 15:45:22.076673
-| -- -- -- -- [Wb2EBfOwHiCXPMZRLMWq0I33GnmjXiQR] vertical 2015-06-08 15:45:22.076684,earliest:2015-06-08 15:45:22.076684
-| -- -- -- -- -- [IyyaM6QtQBCWTN0iTjz0Vbt3cUe3kruO] problem 2015-06-08 15:45:22.076689,earliest:2015-06-08 15:45:22.076689
-| -- -- -- -- [Y1aFIb1YL4K2wlMrWk7MGS95753VMmvF] vertical 2015-06-08 15:45:22.076699,earliest:2015-06-08 15:45:22.076699
-| -- -- -- -- -- [KIhiMdsyHawS9Zp4OK02U6dpUeu6iM6U] problem 2015-06-08 15:45:22.076704,earliest:2015-06-08 15:45:22.076704
-| -- -- -- -- [Cb6TK9kk76u70WY3TNF3x2IZLHV60usR] vertical 2015-06-08 15:45:22.076714,earliest:2015-06-08 15:45:22.076714
-| -- -- -- -- -- [IrrXWKTNXg36445xtIvfqBwA7ZKZ2Bkt] problem 2015-06-08 15:45:22.076719,earliest:2015-06-08 15:45:22.076719
-| -- -- -- -- [GjJFqle8h51TVSdtckaOvaIpQ9UNQMSa] vertical 2015-06-08 15:45:22.076729,earliest:2015-06-08 15:45:22.076729
-| -- -- -- -- -- [ZeZ1GDPEnaCRgp9U6xIFE16npwAnE8af] problem 2015-06-08 15:45:22.076734,earliest:2015-06-08 15:45:22.076734
-| -- -- -- [5faOLw8f5tFKGkzjkGOhQmyDHaxKxZfU] sequential 2014-07-28 01:00:00,earliest:2015-06-08 15:45:22.076785
-| -- -- -- -- [qDvsUmVMBq1oqvhi0gqxLyww1VzYNxAL] vertical 2015-06-08 15:45:22.076795,earliest:2015-06-08 15:45:22.076795
-| -- -- -- -- -- [xLHFTVb7bllW319cQIyjCZuXgq5bgEZS] video 2015-06-08 15:45:22.076799,earliest:2015-06-08 15:45:22.076799
-| -- -- -- -- [D2564I6ulEexWflHdHrNRx9MvPWRprNB] vertical 2015-06-08 15:45:22.076810,earliest:2015-06-08 15:45:22.076810
-| -- -- -- -- -- [Sd0yuetVemHLVY0qfx5c0enbZs3ebhFD] video 2015-06-08 15:45:22.076814,earliest:2015-06-08 15:45:22.076814
-| -- -- -- -- [5QyVQDg6j16EMOo8NysDyWbN8CV5cNKy] vertical 2015-06-08 15:45:22.076825,earliest:2015-06-08 15:45:22.076825
-| -- -- -- -- -- [9k0i6YNod8o3F79E4y4qGcEPUeye8za4] problem 2015-06-08 15:45:22.076829,earliest:2015-06-08 15:45:22.076829
-| -- -- -- [bxESN6hBybU7vfdNJQIwHeLKvSSxDWKF] sequential 2014-07-28 01:00:00,earliest:2015-06-08 15:45:22.076996
-| -- -- -- -- [osO7FaDlLk6tpgxZK6TFxZpgjLG3Id8L] vertical 2015-06-08 15:45:22.077013,earliest:2015-06-08 15:45:22.077013
-| -- -- -- -- -- [x6nwPgpd3dP8XcHDu3pnThCdFR4eYHxS] problem 2015-06-08 15:45:22.077021,earliest:2015-06-08 15:45:22.077021
-| -- -- -- -- [udBVnt4dZUSXGq8Mx7NuNxUXuPALHQr6] vertical 2015-06-08 15:45:22.077038,earliest:2015-06-08 15:45:22.077038
-| -- -- -- -- -- [EH4ggrW127jMsnPkBTzWIe2MwM7sLlTd] video 2015-06-08 15:45:22.077046,earliest:2015-06-08 15:45:22.077046
-| -- -- -- -- [tBh32cZO7EePL6fckqlJYuXwOoRvMtyo] vertical 2015-06-08 15:45:22.077064,earliest:2015-06-08 15:45:22.077064
-| -- -- -- -- -- [ZkRteS0xSgP0PbigEkcIF5ABad0VXFfY] video 2015-06-08 15:45:22.077072,earliest:2015-06-08 15:45:22.077072
-| -- -- -- -- [KyTGTCotR5OUN8rqhfWryk150B9halMK] vertical 2015-06-08 15:45:22.077090,earliest:2015-06-08 15:45:22.077090
-| -- -- -- -- -- [mwXgm8YhgUt8gnT1URdwU7EYudllOErG] problem 2015-06-08 15:45:22.077097,earliest:2015-06-08 15:45:22.077097
-| -- -- -- -- [ZKoEZXishaWJolRJsCth8LX7zn6Eun0p] vertical 2015-06-08 15:45:22.077115,earliest:2015-06-08 15:45:22.077115
-| -- -- -- -- -- [AAyy46OLSsNuA4t2J9ceudvpYOCh52dq] video 2015-06-08 15:45:22.077123,earliest:2015-06-08 15:45:22.077123
+| -- -- [iVSavJ4039P05hpPhLptsAaGOypDogfH] chapter 2014-08-11 01:00:00,earliest:2015-06-13 22:50:05.391584
+| -- -- -- [ENFWGupIfaqmHlYmmUvZC6ETRTO1ic0S] sequential 2014-08-11 01:00:00,earliest:2015-06-13 22:50:05.391710
+| -- -- -- -- [0OrbNLfiAeQc4lbvwtJKYcHzJyTCPsec] vertical 2015-06-13 22:50:05.391719,earliest:2015-06-13 22:50:05.391719
+| -- -- -- -- -- [5vLV6RqWPDaIXnIXjhZHn0X7oLoS1bZs] problem 2015-06-13 22:50:05.391725,earliest:2015-06-13 22:50:05.391725
+| -- -- -- -- [O1iTVIKWq83QdZqfhYDaSRijaAUiU3za] vertical 2015-06-13 22:50:05.391735,earliest:2015-06-13 22:50:05.391735
+| -- -- -- -- -- [NMrJNP74QWYGKbKZFdrhPmv7IoqjMt9b] video 2015-06-13 22:50:05.391739,earliest:2015-06-13 22:50:05.391739
+| -- -- -- -- [0FMpqpjh1Ypyo0Pt9lD3jidQ8hjkjnqV] vertical 2015-06-13 22:50:05.391748,earliest:2015-06-13 22:50:05.391748
+| -- -- -- -- -- [jKnGnhgGJr6XwT2s7oMnwWbx7xbnae5G] video 2015-06-13 22:50:05.391752,earliest:2015-06-13 22:50:05.391752
+| -- -- -- -- [OdblPMa3hhJbxoAwLxg4yTGxHEi7q8gl] vertical 2015-06-13 22:50:05.391762,earliest:2015-06-13 22:50:05.391762
+| -- -- -- -- -- [24lw221FXRPWmsaE4G2RRIjMYgL0l7Dk] video 2015-06-13 22:50:05.391766,earliest:2015-06-13 22:50:05.391766
+| -- -- -- -- [oaWP1IqOWze3VXd5sYRvyEZD6lUqzPRa] vertical 2015-06-13 22:50:05.391776,earliest:2015-06-13 22:50:05.391776
+| -- -- -- -- -- [QBRHgZD7KcLpTdKXvSqwMaycdLY7wzaF] problem 2015-06-13 22:50:05.391780,earliest:2015-06-13 22:50:05.391780
+| -- -- -- -- [Uy6ux3pW1lB4mYAoQQuqe5EO87BvkZ7c] vertical 2015-06-13 22:50:05.391789,earliest:2015-06-13 22:50:05.391789
+| -- -- -- -- -- [5DSWYvQdZBRUwEH6rEGBvej6NHZ6B0l8] video 2015-06-13 22:50:05.391794,earliest:2015-06-13 22:50:05.391794
+| -- -- -- -- [ehLjxyWjIGzAUS9OsDw1dzEMlwNVAv8q] vertical 2015-06-13 22:50:05.391808,earliest:2015-06-13 22:50:05.391808
+| -- -- -- -- -- [68bnQPxEC0UmOspSXqf2Sptexlo9pGcE] problem 2015-06-13 22:50:05.391812,earliest:2015-06-13 22:50:05.391812
+| -- -- -- -- -- [ydd19EIEfo9sziz60fAZsFZadtdi88rj] problem 2015-06-13 22:50:05.391825,earliest:2015-06-13 22:50:05.391825
+| -- -- -- -- [bKGG27Oi3IJ6np9tJ3sqPUR5Swin2vWA] vertical 2015-06-13 22:50:05.391834,earliest:2015-06-13 22:50:05.391834
+| -- -- -- -- -- [u60oYJBXSBQnBzHZT70m3nv2CKSwrUpQ] video 2015-06-13 22:50:05.391838,earliest:2015-06-13 22:50:05.391838
+| -- -- -- [nE2hoRAyu2DDt3mhgGl4p2VgISX0jiUG] sequential 2014-08-11 01:00:00,earliest:2015-06-13 22:50:05.391953
+| -- -- -- -- [XaWCsPku93zUfdtxAouhcUZg6AtBRQcy] vertical 2015-06-13 22:50:05.391961,earliest:2015-06-13 22:50:05.391961
+| -- -- -- -- -- [RfLhElsmJa79At3gQCRGGidXJG9TiWSf] problem 2015-06-13 22:50:05.391964,earliest:2015-06-13 22:50:05.391964
+| -- -- -- -- [lZNUwsn6fwEmUhNajFG6T7g4KHYgFKEW] vertical 2015-06-13 22:50:05.391973,earliest:2015-06-13 22:50:05.391973
+| -- -- -- -- -- [GXGAL3fzCdmZwOnuPSDCBHScJrmNDQaP] problem 2015-06-13 22:50:05.391977,earliest:2015-06-13 22:50:05.391977
+| -- -- -- -- [tFNTG2oBMAxyK0qOsoiSKeUfiHKhBJ5b] vertical 2015-06-13 22:50:05.391985,earliest:2015-06-13 22:50:05.391985
+| -- -- -- -- -- [ewJg9aHQAY36LiHmkLjruibVy0Uj48UG] problem 2015-06-13 22:50:05.391989,earliest:2015-06-13 22:50:05.391989
+| -- -- -- -- [n8UCaeaeN3wscEgtKBrOeTTW3z0qvg27] vertical 2015-06-13 22:50:05.391998,earliest:2015-06-13 22:50:05.391998
+| -- -- -- -- -- [Fz997pc6JJyGDTUPqXS7Z7LmlqJHGy29] problem 2015-06-13 22:50:05.392001,earliest:2015-06-13 22:50:05.392001
+| -- -- -- -- [PRIcjjtnUdlW4YLB5zwVaOcfC84ufygq] vertical 2015-06-13 22:50:05.392010,earliest:2015-06-13 22:50:05.392010
+| -- -- -- -- -- [Hxc4vHVYwnjklkndz5yq1AIddOBXkQZV] problem 2015-06-13 22:50:05.392013,earliest:2015-06-13 22:50:05.392013
+| -- -- -- -- [3vtWBYI4NO6GTNthHQ3uWMj5L4Q0p8Rl] vertical 2015-06-13 22:50:05.392022,earliest:2015-06-13 22:50:05.392022
+| -- -- -- -- -- [bZFWL1fuuPN8FNWjLTqNWMRxbx7L4it1] problem 2015-06-13 22:50:05.392026,earliest:2015-06-13 22:50:05.392026
+| -- -- -- -- [1vZDhLEEIznhBMCZ62Y2xhgSh3uVLgA9] vertical 2015-06-13 22:50:05.392035,earliest:2015-06-13 22:50:05.392035
+| -- -- -- -- -- [AOt08k1qmyhotnW0XVcoPDIFfRbFasvh] problem 2015-06-13 22:50:05.392038,earliest:2015-06-13 22:50:05.392038
+| -- -- -- -- [T773gHBPHUpbo1hydIaFVBUYv4cSIBNX] vertical 2015-06-13 22:50:05.392047,earliest:2015-06-13 22:50:05.392047
+| -- -- -- -- -- [dEQ0FgN4LhYomji24bHIva2VTakWpX2u] problem 2015-06-13 22:50:05.392050,earliest:2015-06-13 22:50:05.392050
+| -- -- -- -- [hotCJKqtrF650QddIGukxJZxwtnP1PX8] vertical 2015-06-13 22:50:05.392059,earliest:2015-06-13 22:50:05.392059
+| -- -- -- -- -- [fHQTim3G9whgyIHTbLyavt4bs9XuImrc] problem 2015-06-13 22:50:05.392063,earliest:2015-06-13 22:50:05.392063
+| -- -- -- [S3sF2odTzEKSQEuVmOEZzlE04HPeRyuT] sequential 2014-08-11 01:00:00,earliest:2015-06-13 22:50:05.392121
+| -- -- -- -- [X9hVjpUIUrqRPjfDHNqeQK30SuxIWguN] vertical 2015-06-13 22:50:05.392129,earliest:2015-06-13 22:50:05.392129
+| -- -- -- -- -- [ofUQw7YlmBjkmHSN6CXeVadXT8PQUVmK] video 2015-06-13 22:50:05.392133,earliest:2015-06-13 22:50:05.392133
+| -- -- -- -- [9cOpZEzEGZ5C2JavdGxwKtrdtArrrnkR] vertical 2015-06-13 22:50:05.392141,earliest:2015-06-13 22:50:05.392141
+| -- -- -- -- -- [A9QUcITgcPSrTLRo5eK1lQrp6b1h91B2] video 2015-06-13 22:50:05.392145,earliest:2015-06-13 22:50:05.392145
+| -- -- -- -- [oToJ8VukbtF1bX113R4ghVzr7Lb7ylvE] vertical 2015-06-13 22:50:05.392161,earliest:2015-06-13 22:50:05.392161
+| -- -- -- -- -- [Wz1q9QH8twXZPkH5zSIpHuAxC3p7KaJW] problem 2015-06-13 22:50:05.392165,earliest:2015-06-13 22:50:05.392165
+| -- -- -- -- -- [k5eO1Uhkt2jpZfRCbYdniefCsQdNOJF4] problem 2015-06-13 22:50:05.392169,earliest:2015-06-13 22:50:05.392169
+| -- -- -- -- -- [YMif1KsxnNLAcqLm1yrhSc3D0UYDz43g] problem 2015-06-13 22:50:05.392173,earliest:2015-06-13 22:50:05.392173
+| -- -- -- [s0FLhztv49u4OmslldjAcHeeto616mUW] sequential 2014-08-11 01:00:00,earliest:2015-06-13 22:50:05.392263
+| -- -- -- -- [jTXy0NIGFTWB6rP6SIEuF3TjbB44p2wh] vertical 2015-06-13 22:50:05.392275,earliest:2015-06-13 22:50:05.392275
+| -- -- -- -- -- [jTkbkTjqDRu0hOE9Ce02GymlKrC8XvYI] problem 2015-06-13 22:50:05.392278,earliest:2015-06-13 22:50:05.392278
+| -- -- -- -- -- [xuuWzWuljScGPmyZHyHJ9mVkAexHKJlX] problem 2015-06-13 22:50:05.392282,earliest:2015-06-13 22:50:05.392282
+| -- -- -- -- [60E7xUE0WKwkbabXyzDfujKjFq3x7eyf] vertical 2015-06-13 22:50:05.392299,earliest:2015-06-13 22:50:05.392299
+| -- -- -- -- -- [oaO3LebDsmkoXx4gyJ4TcILoAvGpNc0M] problem 2015-06-13 22:50:05.392303,earliest:2015-06-13 22:50:05.392303
+| -- -- -- -- -- [7vspxCwLL3dBmmg0Ud8SdGtqtigBSDjj] problem 2015-06-13 22:50:05.392306,earliest:2015-06-13 22:50:05.392306
+| -- -- -- -- -- [Jmk55P1X24JMz9urWmQ7ZtORJGv9VBHK] problem 2015-06-13 22:50:05.392310,earliest:2015-06-13 22:50:05.392310
+| -- -- -- -- [M4YpNY0LDZrfYDjrPAYgT8zBlwkuHKld] vertical 2015-06-13 22:50:05.392319,earliest:2015-06-13 22:50:05.392319
+| -- -- -- -- -- [wFOhlRZy3hmCnGw4LBWLxelex0w1MSRh] video 2015-06-13 22:50:05.392323,earliest:2015-06-13 22:50:05.392323
+| -- -- -- -- [sm8GTjiLAaThm9Sv31I6f3uWDDgvhRXb] vertical 2015-06-13 22:50:05.392331,earliest:2015-06-13 22:50:05.392331
+| -- -- -- -- -- [dGxhPbOp7J6gYIeLPX4UQp72JXU8Sexk] video 2015-06-13 22:50:05.392335,earliest:2015-06-13 22:50:05.392335
+| -- -- -- -- [6fCYYEH0HjHBQsiLgZ8vyDmUkTsLTa4o] vertical 2015-06-13 22:50:05.392343,earliest:2015-06-13 22:50:05.392343
+| -- -- -- -- -- [Xy10xea2o3FC0Lr4JkRPHvBu8PPPcuFO] video 2015-06-13 22:50:05.392347,earliest:2015-06-13 22:50:05.392347
+| -- -- -- [rGtX5BpHvz0AIKN463hOl7tOrFS7h3XE] sequential 2014-08-11 01:00:00,earliest:2015-06-13 22:50:05.392442
+| -- -- -- -- [0JKMUoBzX12BUjqCSiJ42aBMiYmZRPl0] vertical 2015-06-13 22:50:05.392450,earliest:2015-06-13 22:50:05.392450
+| -- -- -- -- -- [OA2OyfaFRL4rKKJ9wJxbixaEbjjLA39t] video 2015-06-13 22:50:05.392454,earliest:2015-06-13 22:50:05.392454
+| -- -- -- -- [aggpSXx4HwNqMSEAabzNo68jw9cqwrg4] vertical 2015-06-13 22:50:05.392462,earliest:2015-06-13 22:50:05.392462
+| -- -- -- -- -- [wFSs0Sf50rJprHCSkBvaLjYpSRCoB03O] video 2015-06-13 22:50:05.392466,earliest:2015-06-13 22:50:05.392466
+| -- -- -- -- [aRBfpbNwP3QSW2ktEz2AOojYvG1ibBBk] vertical 2015-06-13 22:50:05.392475,earliest:2015-06-13 22:50:05.392475
+| -- -- -- -- -- [n42XayWC5Po3zOipuwIzlLws0jHGMpQG] problem 2015-06-13 22:50:05.392478,earliest:2015-06-13 22:50:05.392478
+| -- -- -- -- [g9KTZaO6HCaBkvQvJY3HBAFIUt6ozwHP] vertical 2015-06-13 22:50:05.392487,earliest:2015-06-13 22:50:05.392487
+| -- -- -- -- -- [gGHbLRea5vyrM5eCBGO2eoUTxBUStnLU] problem 2015-06-13 22:50:05.392490,earliest:2015-06-13 22:50:05.392490
+| -- -- -- -- [wp705Jn7Z7m13ROK7mCweb1akVmlUlwz] vertical 2015-06-13 22:50:05.392499,earliest:2015-06-13 22:50:05.392499
+| -- -- -- -- -- [o5dZeRXux1pVvgLal2bCLXVru6qfaF8l] video 2015-06-13 22:50:05.392502,earliest:2015-06-13 22:50:05.392502
+| -- -- -- -- [aVEWjVj7CzGXcZPA3GihUsb38cWDyM3r] vertical 2015-06-13 22:50:05.392519,earliest:2015-06-13 22:50:05.392519
+| -- -- -- -- -- [HCHa4ALXoBlUV3aMY1r3YzKAr2OtWPWy] problem 2015-06-13 22:50:05.392523,earliest:2015-06-13 22:50:05.392523
+| -- -- -- -- -- [CKd7AIffYOT49yoEn3Sh4Uz2wqUQfyBi] problem 2015-06-13 22:50:05.392526,earliest:2015-06-13 22:50:05.392526
+| -- -- -- -- -- [U9WaM65A3zPkBeGMmOQr3JFt1sbpuzjG] problem 2015-06-13 22:50:05.392530,earliest:2015-06-13 22:50:05.392530
+| -- -- [sa1YjghlPrLqsJl1JQZOnL1eoN9eYC26] chapter 2014-07-28 01:00:00,earliest:2015-06-13 22:50:05.393244
+| -- -- -- [lJgVp9peKfOSUVcHQ5YCoHW1MhNvO0Wj] sequential 2014-07-28 01:00:00,earliest:2015-06-13 22:50:05.393260
+| -- -- -- -- [RTgMNjE14R9z7KJit2OWIk90xhFIMyvp] vertical 2015-06-13 22:50:05.393268,earliest:2015-06-13 22:50:05.393268
+| -- -- -- -- -- [HDs38e4hlZqQ2KjsjB97YYXgr7NWd7Hn] video 2015-06-13 22:50:05.393271,earliest:2015-06-13 22:50:05.393271
+| -- -- -- [SU34AwkKCUhNWPtOmtvBSOylrSY3WwsU] sequential 2014-07-28 01:00:00,earliest:2015-06-13 22:50:05.393309
+| -- -- -- -- [REYahKBHsKdZL68mFuOlqBzBPScpcF09] vertical 2015-06-13 22:50:05.393317,earliest:2015-06-13 22:50:05.393317
+| -- -- -- -- -- [Zapu5wdsJugemJ2bWI6UJsZ5yu6xVGQu] video 2015-06-13 22:50:05.393320,earliest:2015-06-13 22:50:05.393320
+| -- -- -- -- [7YsVQbhKTsUgIWItMbuyjDDL677wMeO8] vertical 2015-06-13 22:50:05.393347,earliest:2015-06-13 22:50:05.393347
+| -- -- -- -- -- [NuuJZODs6E1bZ0mjCRnFE3b7XkaKOjLD] problem 2015-06-13 22:50:05.393351,earliest:2015-06-13 22:50:05.393351
+| -- -- -- -- -- [3y1W6fA3grDX2eLnwXlEZf7tV2d2UxV5] problem 2015-06-13 22:50:05.393355,earliest:2015-06-13 22:50:05.393355
+| -- -- -- [Q11KY9ojP3oMFlGVdrcyw5Az9mII8OaM] sequential 2014-07-28 01:00:00,earliest:2015-06-13 22:50:05.393461
+| -- -- -- -- [reGoJzCg6sPjOQxkOzi5JxmXFRCBWa9n] vertical 2015-06-13 22:50:05.393470,earliest:2015-06-13 22:50:05.393470
+| -- -- -- -- -- [biSBRwMwtKpli0ls7bGXgb3ejR2YAqUH] video 2015-06-13 22:50:05.393474,earliest:2015-06-13 22:50:05.393474
+| -- -- -- -- [mywSJuQCI1yFZq5cc9A6aoXrVqiwYPIx] vertical 2015-06-13 22:50:05.393488,earliest:2015-06-13 22:50:05.393488
+| -- -- -- -- -- [hLtZq7cdvE7InyBECFhkOIMrFDMnmJoJ] problem 2015-06-13 22:50:05.393495,earliest:2015-06-13 22:50:05.393495
+| -- -- -- -- [WSG7pCNPE7skedd5T0XRohOTvBrmKJWo] vertical 2015-06-13 22:50:05.393505,earliest:2015-06-13 22:50:05.393505
+| -- -- -- -- -- [TC9wkqwSr4G25jS1MmY2X459kNL9HDpL] video 2015-06-13 22:50:05.393518,earliest:2015-06-13 22:50:05.393518
+| -- -- -- -- [S1tUgd8tCcRCx9EN3GP07D3C0dxWhNhX] vertical 2015-06-13 22:50:05.393526,earliest:2015-06-13 22:50:05.393526
+| -- -- -- -- -- [x6VQ5XmbroypeJJokueyRDEGgj01jxPQ] problem 2015-06-13 22:50:05.393530,earliest:2015-06-13 22:50:05.393530
+| -- -- -- -- [BdaooerPfgYiQTtIaGk7VA9cb4s0ogtH] vertical 2015-06-13 22:50:05.393539,earliest:2015-06-13 22:50:05.393539
+| -- -- -- -- -- [eqRyDBCauCEuUUnWVgLycLUmVXgppS4l] video 2015-06-13 22:50:05.393542,earliest:2015-06-13 22:50:05.393542
+| -- -- -- -- [1jLTEwiyEYEYtnFYM1EJgvRMsK1zdDad] vertical 2015-06-13 22:50:05.393555,earliest:2015-06-13 22:50:05.393555
+| -- -- -- -- -- [Jc9hJZQ56Dn5rsJBNXyN0qIpPNrNdWDa] problem 2015-06-13 22:50:05.393558,earliest:2015-06-13 22:50:05.393558
+| -- -- -- -- -- [InzdVzrS4hLpear2dqIqjr0d3pPtDWxg] problem 2015-06-13 22:50:05.393562,earliest:2015-06-13 22:50:05.393562
+| -- -- -- [FD6d8Qd97an0mvD6282FPpjEArNqyNjs] sequential 2014-07-28 01:00:00,earliest:2015-06-13 22:50:05.393678
+| -- -- -- -- [OG3ZJrvjxeZxayp8sVvKpnO1dilYAuAQ] vertical 2015-06-13 22:50:05.393686,earliest:2015-06-13 22:50:05.393686
+| -- -- -- -- -- [Y8a0dKpTaVBmBrwL37GvlJp46ZULpFhj] problem 2015-06-13 22:50:05.393689,earliest:2015-06-13 22:50:05.393689
+| -- -- -- -- [qT27tLJjwlo97Je1gkewKAVAhyi0ldgA] vertical 2015-06-13 22:50:05.393698,earliest:2015-06-13 22:50:05.393698
+| -- -- -- -- -- [M9XkiOgqiC0VLJ085UYfZ9go2hYpQJDb] problem 2015-06-13 22:50:05.393702,earliest:2015-06-13 22:50:05.393702
+| -- -- -- -- [oF8TSOgkvQOA5VXH9Gzh5ojlOYYcoVMr] vertical 2015-06-13 22:50:05.393710,earliest:2015-06-13 22:50:05.393710
+| -- -- -- -- -- [tcIDvCmWVqUhzWDXS9Q7Nj04WDFRQ7qs] problem 2015-06-13 22:50:05.393714,earliest:2015-06-13 22:50:05.393714
+| -- -- -- -- [M2B0LT6CQ6G7B53TEW5Tc2bhDr47WVwc] vertical 2015-06-13 22:50:05.393723,earliest:2015-06-13 22:50:05.393723
+| -- -- -- -- -- [KdFoha3UCRIKZzyNKJARiiVZfGA4xT7j] problem 2015-06-13 22:50:05.393726,earliest:2015-06-13 22:50:05.393726
+| -- -- -- -- [ZKbpverzIS2iz18thwtnPeUmrYOs03D2] vertical 2015-06-13 22:50:05.393735,earliest:2015-06-13 22:50:05.393735
+| -- -- -- -- -- [UspAJEEU35Yy7wER0XKG9uqW0tVAYYzF] problem 2015-06-13 22:50:05.393738,earliest:2015-06-13 22:50:05.393738
+| -- -- -- -- [Wb2EBfOwHiCXPMZRLMWq0I33GnmjXiQR] vertical 2015-06-13 22:50:05.393747,earliest:2015-06-13 22:50:05.393747
+| -- -- -- -- -- [IyyaM6QtQBCWTN0iTjz0Vbt3cUe3kruO] problem 2015-06-13 22:50:05.393751,earliest:2015-06-13 22:50:05.393751
+| -- -- -- -- [Y1aFIb1YL4K2wlMrWk7MGS95753VMmvF] vertical 2015-06-13 22:50:05.393759,earliest:2015-06-13 22:50:05.393759
+| -- -- -- -- -- [KIhiMdsyHawS9Zp4OK02U6dpUeu6iM6U] problem 2015-06-13 22:50:05.393763,earliest:2015-06-13 22:50:05.393763
+| -- -- -- -- [Cb6TK9kk76u70WY3TNF3x2IZLHV60usR] vertical 2015-06-13 22:50:05.393772,earliest:2015-06-13 22:50:05.393772
+| -- -- -- -- -- [IrrXWKTNXg36445xtIvfqBwA7ZKZ2Bkt] problem 2015-06-13 22:50:05.393775,earliest:2015-06-13 22:50:05.393775
+| -- -- -- -- [GjJFqle8h51TVSdtckaOvaIpQ9UNQMSa] vertical 2015-06-13 22:50:05.393784,earliest:2015-06-13 22:50:05.393784
+| -- -- -- -- -- [ZeZ1GDPEnaCRgp9U6xIFE16npwAnE8af] problem 2015-06-13 22:50:05.393787,earliest:2015-06-13 22:50:05.393787
+| -- -- -- [5faOLw8f5tFKGkzjkGOhQmyDHaxKxZfU] sequential 2014-07-28 01:00:00,earliest:2015-06-13 22:50:05.393830
+| -- -- -- -- [qDvsUmVMBq1oqvhi0gqxLyww1VzYNxAL] vertical 2015-06-13 22:50:05.393838,earliest:2015-06-13 22:50:05.393838
+| -- -- -- -- -- [xLHFTVb7bllW319cQIyjCZuXgq5bgEZS] video 2015-06-13 22:50:05.393841,earliest:2015-06-13 22:50:05.393841
+| -- -- -- -- [D2564I6ulEexWflHdHrNRx9MvPWRprNB] vertical 2015-06-13 22:50:05.393850,earliest:2015-06-13 22:50:05.393850
+| -- -- -- -- -- [Sd0yuetVemHLVY0qfx5c0enbZs3ebhFD] video 2015-06-13 22:50:05.393853,earliest:2015-06-13 22:50:05.393853
+| -- -- -- -- [5QyVQDg6j16EMOo8NysDyWbN8CV5cNKy] vertical 2015-06-13 22:50:05.393862,earliest:2015-06-13 22:50:05.393862
+| -- -- -- -- -- [9k0i6YNod8o3F79E4y4qGcEPUeye8za4] problem 2015-06-13 22:50:05.393865,earliest:2015-06-13 22:50:05.393865
+| -- -- -- [bxESN6hBybU7vfdNJQIwHeLKvSSxDWKF] sequential 2014-07-28 01:00:00,earliest:2015-06-13 22:50:05.393932
+| -- -- -- -- [osO7FaDlLk6tpgxZK6TFxZpgjLG3Id8L] vertical 2015-06-13 22:50:05.393939,earliest:2015-06-13 22:50:05.393939
+| -- -- -- -- -- [x6nwPgpd3dP8XcHDu3pnThCdFR4eYHxS] problem 2015-06-13 22:50:05.393943,earliest:2015-06-13 22:50:05.393943
+| -- -- -- -- [udBVnt4dZUSXGq8Mx7NuNxUXuPALHQr6] vertical 2015-06-13 22:50:05.393951,earliest:2015-06-13 22:50:05.393951
+| -- -- -- -- -- [EH4ggrW127jMsnPkBTzWIe2MwM7sLlTd] video 2015-06-13 22:50:05.393955,earliest:2015-06-13 22:50:05.393955
+| -- -- -- -- [tBh32cZO7EePL6fckqlJYuXwOoRvMtyo] vertical 2015-06-13 22:50:05.393964,earliest:2015-06-13 22:50:05.393964
+| -- -- -- -- -- [ZkRteS0xSgP0PbigEkcIF5ABad0VXFfY] video 2015-06-13 22:50:05.393967,earliest:2015-06-13 22:50:05.393967
+| -- -- -- -- [KyTGTCotR5OUN8rqhfWryk150B9halMK] vertical 2015-06-13 22:50:05.393976,earliest:2015-06-13 22:50:05.393976
+| -- -- -- -- -- [mwXgm8YhgUt8gnT1URdwU7EYudllOErG] problem 2015-06-13 22:50:05.393979,earliest:2015-06-13 22:50:05.393979
+| -- -- -- -- [ZKoEZXishaWJolRJsCth8LX7zn6Eun0p] vertical 2015-06-13 22:50:05.393988,earliest:2015-06-13 22:50:05.393988
+| -- -- -- -- -- [AAyy46OLSsNuA4t2J9ceudvpYOCh52dq] video 2015-06-13 22:50:05.393992,earliest:2015-06-13 22:50:05.393992
 | -- -- [SmuCMMgofjxsFHxHWb3w47EFEmZB3YHL] chapter 2014-06-09 00:09:22,earliest:2014-06-09 00:09:22
 | -- --  >> 2014-06-30 03:04:23 from:server, event:access by :27166
 | -- --  >> 2014-06-13 00:48:18 from:server, event:access by :70965
@@ -23890,100 +23890,100 @@
 | -- -- -- --  >> 2014-06-29 05:37:30 from:server, event:nagivate by :15002
 | -- -- -- --  >> 2014-06-30 14:02:24 from:server, event:nagivate by :145721
 | -- -- -- --  >> 2014-06-15 15:56:28 from:server, event:nagivate by :177488
-| -- -- [h3ZZkronijlRGw39iNfYmhylIrrq2bRi] chapter 2014-09-01 01:00:00,earliest:2015-06-08 15:45:22.093166
-| -- -- -- [I3SxeNd5ZJATwn1G7BJUWQ9zxg3cE1Au] sequential 2014-09-01 01:00:00,earliest:2015-06-08 15:45:22.093220
-| -- -- -- -- [jHoDOHtWT3HTN59upMj7IIEY4cxoCb9w] vertical 2015-06-08 15:45:22.093239,earliest:2015-06-08 15:45:22.093239
-| -- -- -- -- -- [Cd95xDjEbcFEF4viQtRpTyWANdfIW7ZL] problem 2015-06-08 15:45:22.093243,earliest:2015-06-08 15:45:22.093243
-| -- -- -- -- -- [fowyGPdZFC3CmaZdoqmKC9MId325ja6v] problem 2015-06-08 15:45:22.093248,earliest:2015-06-08 15:45:22.093248
-| -- -- -- -- -- [U1b4mjFE2cKf64NZGCdFW76pkVyeO1p2] problem 2015-06-08 15:45:22.093252,earliest:2015-06-08 15:45:22.093252
-| -- -- -- -- [p3IuJuHMuNskWBnLC70FRO7Of1UEmpmm] vertical 2015-06-08 15:45:22.093263,earliest:2015-06-08 15:45:22.093263
-| -- -- -- -- -- [Elts45w94iCabSA5ziALIHgNvqRRX9pA] video 2015-06-08 15:45:22.093267,earliest:2015-06-08 15:45:22.093267
-| -- -- -- [SBH7iDDDmqOHdp6WNuF5iN4x6ZzjEJsj] sequential 2014-09-01 01:00:00,earliest:2015-06-08 15:45:22.093394
-| -- -- -- -- [Nx6kqttovtilxNDuHnmLhpCYKUXnB2Tt] vertical 2015-06-08 15:45:22.093404,earliest:2015-06-08 15:45:22.093404
-| -- -- -- -- -- [Aoz2s65uM97QZS1VlnZeRevPiWns67d0] problem 2015-06-08 15:45:22.093408,earliest:2015-06-08 15:45:22.093408
-| -- -- -- -- [zGeaNEfbSH3x4oaHICWkUGB1Ptd9CnNQ] vertical 2015-06-08 15:45:22.093419,earliest:2015-06-08 15:45:22.093419
-| -- -- -- -- -- [pnM7NLJSUDPZn9lVkXa5dxKNSW84wQQO] problem 2015-06-08 15:45:22.093423,earliest:2015-06-08 15:45:22.093423
-| -- -- -- -- [aOZAh6PAD4jIfSmxfopWKOfcCEcU6ayi] vertical 2015-06-08 15:45:22.093434,earliest:2015-06-08 15:45:22.093434
-| -- -- -- -- -- [o3V0rqwvc4Ax4Y4LmTdhmARZKwQwu6u9] problem 2015-06-08 15:45:22.093438,earliest:2015-06-08 15:45:22.093438
-| -- -- -- -- [lb5B3OAwDQsMtO7JSuS7QcfrgePlZJV2] vertical 2015-06-08 15:45:22.093449,earliest:2015-06-08 15:45:22.093449
-| -- -- -- -- -- [VBdtMJejoz7JMtvRbBReqoP3OouaDUBF] problem 2015-06-08 15:45:22.093453,earliest:2015-06-08 15:45:22.093453
-| -- -- -- -- [YVx5Iw82u8YiQRorCH9X31kVB5oGy8oJ] vertical 2015-06-08 15:45:22.093464,earliest:2015-06-08 15:45:22.093464
-| -- -- -- -- -- [Pe9K7jWyliHdyfxtsQD7OvAH8dQ0UhlH] problem 2015-06-08 15:45:22.093468,earliest:2015-06-08 15:45:22.093468
-| -- -- -- -- [W88aomWCgqS0gR6UMiT1G9koOCE8OKUO] vertical 2015-06-08 15:45:22.093479,earliest:2015-06-08 15:45:22.093479
-| -- -- -- -- -- [S9z9MKwPLGTEnSiUd80QXw4K8kTAYorW] video 2015-06-08 15:45:22.093484,earliest:2015-06-08 15:45:22.093484
-| -- -- -- -- [1F7wSLUU6AACJdG1f8FjsdiZOOPN675G] vertical 2015-06-08 15:45:22.093494,earliest:2015-06-08 15:45:22.093494
-| -- -- -- -- -- [oz9Vc1a1xDA4mfQnceEvxmJfchPUggvI] video 2015-06-08 15:45:22.093499,earliest:2015-06-08 15:45:22.093499
-| -- -- -- -- [NZapRPWif6GpOC8jBCGEgAl0wEGmLaiY] vertical 2015-06-08 15:45:22.093509,earliest:2015-06-08 15:45:22.093509
-| -- -- -- -- -- [osoT5ix8PfAxxsDUD7OCBOkdrE23ORNh] problem 2015-06-08 15:45:22.093514,earliest:2015-06-08 15:45:22.093514
-| -- -- -- [k0lI3p0RaokK6503Vq4Nk9QPExoec6SB] sequential 2014-09-01 01:00:00,earliest:2015-06-08 15:45:22.093612
-| -- -- -- -- [K9ZK0SVJzKQFO8kfvbr8EMFcanMJegI5] vertical 2015-06-08 15:45:22.093621,earliest:2015-06-08 15:45:22.093621
-| -- -- -- -- -- [HwmqAzRU2a0oli3JYa3IhL0Qcx2IUmAZ] problem 2015-06-08 15:45:22.093626,earliest:2015-06-08 15:45:22.093626
-| -- -- -- -- [6Uv6TdRbMsTWakmf7KhhgfxtyJQhrEFb] vertical 2015-06-08 15:45:22.093636,earliest:2015-06-08 15:45:22.093636
-| -- -- -- -- -- [3ykXeGHrv4vcopM9J465TB9YnsTcvwpY] video 2015-06-08 15:45:22.093641,earliest:2015-06-08 15:45:22.093641
-| -- -- -- -- [ocAk8vBPhY54shNKpnE65zCWCTfLVy82] vertical 2015-06-08 15:45:22.093652,earliest:2015-06-08 15:45:22.093652
-| -- -- -- -- -- [kznbpdhU3S4L66AzwAe0EIADdHdOSS2j] video 2015-06-08 15:45:22.093656,earliest:2015-06-08 15:45:22.093656
-| -- -- -- -- [s3zT8TP8KnUh2PwoRuGA0Wv5EE7CbF4f] vertical 2015-06-08 15:45:22.093667,earliest:2015-06-08 15:45:22.093667
-| -- -- -- -- -- [sUqSPkyMjiWGOunqGRD9gxeYPa0N8CkU] problem 2015-06-08 15:45:22.093671,earliest:2015-06-08 15:45:22.093671
-| -- -- -- -- [TzJbiAdM9xCTNktUm51SVQ6QgYpNirzF] vertical 2015-06-08 15:45:22.093681,earliest:2015-06-08 15:45:22.093681
-| -- -- -- -- -- [Jlr1Ea4kspotXIe65ObBj7DOAvgcsoX3] problem 2015-06-08 15:45:22.093686,earliest:2015-06-08 15:45:22.093686
-| -- -- -- -- [4cenUvZC86aPJdW81J0j4lHAUNleDp6L] vertical 2015-06-08 15:45:22.093696,earliest:2015-06-08 15:45:22.093696
-| -- -- -- -- -- [G3HaAJhEz0PyOPThZgH0rh0NoUY4DpZs] video 2015-06-08 15:45:22.093701,earliest:2015-06-08 15:45:22.093701
-| -- -- -- [5JOkEugiDLO3vsOVN9vZQninon8Viz6C] sequential 2014-09-01 01:00:00,earliest:2015-06-08 15:45:22.093738
-| -- -- -- -- [L9s70Lf3nU8j4FGCAtRZLWTztSc1wXT7] vertical 2015-06-08 15:45:22.093747,earliest:2015-06-08 15:45:22.093747
-| -- -- -- -- -- [0rJoLI8vSkTpFxZT7heolSIjyghswN1K] video 2015-06-08 15:45:22.093752,earliest:2015-06-08 15:45:22.093752
-| -- -- -- -- [CzD4Qu17DcD0bpQj5UqPnFwhe5tw6TKE] vertical 2015-06-08 15:45:22.093762,earliest:2015-06-08 15:45:22.093762
-| -- -- -- -- -- [yOL2ZE0neS00kUtgmte9ebUKr40yyQ70] problem 2015-06-08 15:45:22.093767,earliest:2015-06-08 15:45:22.093767
-| -- -- -- [MvyAapAKQWNxa31Zhga4226GT82JrkAe] sequential 2014-09-01 01:00:00,earliest:2015-06-08 15:45:22.094110
-| -- -- -- -- [9r1PGi7Oy3qS1bYRpvDo8jWEghTxWOBw] vertical 2015-06-08 15:45:22.094128,earliest:2015-06-08 15:45:22.094128
-| -- -- -- -- -- [z7TuWdQiaDKbPRMHBEXaxNeKdqmfLELD] problem 2015-06-08 15:45:22.094135,earliest:2015-06-08 15:45:22.094135
-| -- -- -- -- [CjLw12ocdZ73DQP1d98JR0wvQd3DrI91] vertical 2015-06-08 15:45:22.094160,earliest:2015-06-08 15:45:22.094160
-| -- -- -- -- -- [ga712qUOjWcpAFFG4pjCAt3UVlrGQa2y] problem 2015-06-08 15:45:22.094167,earliest:2015-06-08 15:45:22.094167
-| -- -- -- -- -- [dfjO20zGcNjmmTImGWUSDL4F2e3h97cC] discussion 2015-06-08 15:45:22.094175,earliest:2015-06-08 15:45:22.094175
-| -- -- -- -- [iAxlxmghN2soAKsivQBGzAdNnvLIqxtZ] vertical 2015-06-08 15:45:22.094192,earliest:2015-06-08 15:45:22.094192
-| -- -- -- -- -- [cO8j527dOnrbDdTyk2AseXJUW6s7JIR9] problem 2015-06-08 15:45:22.094199,earliest:2015-06-08 15:45:22.094199
-| -- -- -- -- [eChoH7lG1MO1YoxItgtC7RuENrEZMNY7] vertical 2015-06-08 15:45:22.094216,earliest:2015-06-08 15:45:22.094216
-| -- -- -- -- -- [DI2n1sBtOXBj9RjgIHQk2OBrLhkjAlFF] problem 2015-06-08 15:45:22.094223,earliest:2015-06-08 15:45:22.094223
-| -- -- -- -- [xrbNWBx8qOinrm97MsFlCSQA7pCQAB54] vertical 2015-06-08 15:45:22.094240,earliest:2015-06-08 15:45:22.094240
-| -- -- -- -- -- [qp9XiIDqhzOD1mLpGahbTSiZ5hqYAshx] video 2015-06-08 15:45:22.094248,earliest:2015-06-08 15:45:22.094248
-| -- -- -- -- [vi8zB9TXSQtSxV48bM3DEdkiKO17FXzt] vertical 2015-06-08 15:45:22.094266,earliest:2015-06-08 15:45:22.094266
-| -- -- -- -- -- [A8EvVVa5qfHctnrfCjSYT7EqI6yKJcG8] problem 2015-06-08 15:45:22.094274,earliest:2015-06-08 15:45:22.094274
-| -- -- -- -- [ecFPDrBmN0qZxACRh4nbz6cxrl3n72Si] vertical 2015-06-08 15:45:22.094292,earliest:2015-06-08 15:45:22.094292
-| -- -- -- -- -- [WDoo9OvdS6S3uagSJhjdBODX8qyTbXkU] video 2015-06-08 15:45:22.094300,earliest:2015-06-08 15:45:22.094300
-| -- -- -- -- [w16wD4c5kI3CkgkAiH57kbNmQGKc8y3D] vertical 2015-06-08 15:45:22.094320,earliest:2015-06-08 15:45:22.094320
-| -- -- -- -- -- [Pl9W3rzNniPzCnWZSA18gxWFa37z5jfN] problem 2015-06-08 15:45:22.094328,earliest:2015-06-08 15:45:22.094328
-| -- -- -- -- [KR70RJycfIUjlf4VkZI6JDZ3vOAEhJla] vertical 2015-06-08 15:45:22.094348,earliest:2015-06-08 15:45:22.094348
-| -- -- -- -- -- [gSyY3oFikko2W7JS4kJyaSLxDwZG0EQM] video 2015-06-08 15:45:22.094356,earliest:2015-06-08 15:45:22.094356
-| -- -- -- -- [6K1h09aBYe7GeIxjv3wdi3I3acQOJU8d] vertical 2015-06-08 15:45:22.094376,earliest:2015-06-08 15:45:22.094376
-| -- -- -- -- -- [CzpUya6LEaYHDZ9l06euc59lHRjROtXS] problem 2015-06-08 15:45:22.094385,earliest:2015-06-08 15:45:22.094385
-| -- -- -- -- [nTwZZxF6GEKFxDVblajufcWjfHfdyww6] vertical 2015-06-08 15:45:22.094405,earliest:2015-06-08 15:45:22.094405
-| -- -- -- -- -- [IVugQI4ujYvmT4OTx6odjRjNPzJgZJHw] video 2015-06-08 15:45:22.094413,earliest:2015-06-08 15:45:22.094413
-| -- -- -- -- [Jgn4CLhQbqfXy6W8kGk7DTy3ztkSqHnT] vertical 2015-06-08 15:45:22.094433,earliest:2015-06-08 15:45:22.094433
-| -- -- -- -- -- [etGItIrEicDWMdIcmirqIXKlnciN7giN] problem 2015-06-08 15:45:22.094441,earliest:2015-06-08 15:45:22.094441
-| -- -- -- [vUSugMFdMt7lKvQJD90OUke3vmzfS40y] sequential 2014-09-01 01:00:00,earliest:2015-06-08 15:45:22.094590
-| -- -- -- -- [UGlf8fR3VdFF5uTR2eJvtg6qwiJCavdY] vertical 2015-06-08 15:45:22.094607,earliest:2015-06-08 15:45:22.094607
-| -- -- -- -- -- [asbmGnXquUVp0uMP379bP1dizyzdebAt] video 2015-06-08 15:45:22.094616,earliest:2015-06-08 15:45:22.094616
-| -- -- -- -- [YHdC3sY3bofT44xK8ObEBASqDch1Zc6a] vertical 2015-06-08 15:45:22.094644,earliest:2015-06-08 15:45:22.094644
-| -- -- -- -- -- [zUqRM2Tsk6s3UdXuKltVXMj8ikxuEDs5] problem 2015-06-08 15:45:22.094653,earliest:2015-06-08 15:45:22.094653
-| -- -- -- -- -- [mElLVk2DvMIrfERJJGRUPF3V6w2iLQit] problem 2015-06-08 15:45:22.094662,earliest:2015-06-08 15:45:22.094662
-| -- -- -- -- [h1bGwASxrxLDC3mynYQslhcK7Hzq45Er] vertical 2015-06-08 15:45:22.094682,earliest:2015-06-08 15:45:22.094682
-| -- -- -- -- -- [UE5Be0Zjpz6TaUbUfmltE70rI2a4SgrT] video 2015-06-08 15:45:22.094690,earliest:2015-06-08 15:45:22.094690
-| -- -- -- -- [mmOONy3jqW51t1ArInvvuf6hWcQbzmzr] vertical 2015-06-08 15:45:22.094711,earliest:2015-06-08 15:45:22.094711
-| -- -- -- -- -- [QlJofO7V42EKdQ9r336q41dI6qppW0mR] problem 2015-06-08 15:45:22.094719,earliest:2015-06-08 15:45:22.094719
-| -- -- -- [B6Symqca256cKVK4IVFqBGdt5F4SCYtK] sequential 2014-09-01 01:00:00,earliest:2015-06-08 15:45:22.094935
-| -- -- -- -- [7ZwFKcusX4sLDNIyXb50qtUo3bo5tjgY] vertical 2015-06-08 15:45:22.094954,earliest:2015-06-08 15:45:22.094954
-| -- -- -- -- -- [5PZddEWykYnAOQY9rizHlB3DgG56vJSS] problem 2015-06-08 15:45:22.094962,earliest:2015-06-08 15:45:22.094962
-| -- -- -- -- [hxnaM9qDtavLhu5OD8Y0YJojd7KwgMZm] vertical 2015-06-08 15:45:22.094981,earliest:2015-06-08 15:45:22.094981
-| -- -- -- -- -- [H9993Ymi04BSPB3vyP9fJI1e65JKeKPU] problem 2015-06-08 15:45:22.094989,earliest:2015-06-08 15:45:22.094989
-| -- -- -- -- [66Ys3dUWvbVXJpnxFeZNEb2WCJM1HyIy] vertical 2015-06-08 15:45:22.095008,earliest:2015-06-08 15:45:22.095008
-| -- -- -- -- -- [j0Dwusp6Enofk2gHKKVkeBzw66PKR8gY] problem 2015-06-08 15:45:22.095017,earliest:2015-06-08 15:45:22.095017
-| -- -- -- -- [2LykNNFvB6HSoUILBLB0TOAJXPDk03tS] vertical 2015-06-08 15:45:22.095037,earliest:2015-06-08 15:45:22.095037
-| -- -- -- -- -- [ahIvz0GQBKGw1jPZQmmwDsRoiESNxlun] problem 2015-06-08 15:45:22.095044,earliest:2015-06-08 15:45:22.095044
-| -- -- -- -- [DS80qUSlYICKLAKfzT55vQgS8Rkl90j9] vertical 2015-06-08 15:45:22.095064,earliest:2015-06-08 15:45:22.095064
-| -- -- -- -- -- [XtYkkZLL4XotygMgLULvsJh3Xpc7Fwkm] problem 2015-06-08 15:45:22.095072,earliest:2015-06-08 15:45:22.095072
-| -- -- -- -- [ilBFCAL5svSLQk3qSZDbnMPG9Rrb17J1] vertical 2015-06-08 15:45:22.095092,earliest:2015-06-08 15:45:22.095092
-| -- -- -- -- -- [yrMXICrMuNAA7fHbt2kTVsNnbGmOWLeH] problem 2015-06-08 15:45:22.095100,earliest:2015-06-08 15:45:22.095100
-| -- -- -- -- [N9lU2mdSVQgInsjM6SJn3RNXiFshB6PF] vertical 2015-06-08 15:45:22.095118,earliest:2015-06-08 15:45:22.095118
-| -- -- -- -- -- [lUiHLTgQmFva6DWOxeBiDe4Fl6kPE79b] problem 2015-06-08 15:45:22.095126,earliest:2015-06-08 15:45:22.095126
+| -- -- [h3ZZkronijlRGw39iNfYmhylIrrq2bRi] chapter 2014-09-01 01:00:00,earliest:2015-06-13 22:50:05.403718
+| -- -- -- [I3SxeNd5ZJATwn1G7BJUWQ9zxg3cE1Au] sequential 2014-09-01 01:00:00,earliest:2015-06-13 22:50:05.403761
+| -- -- -- -- [jHoDOHtWT3HTN59upMj7IIEY4cxoCb9w] vertical 2015-06-13 22:50:05.403777,earliest:2015-06-13 22:50:05.403777
+| -- -- -- -- -- [Cd95xDjEbcFEF4viQtRpTyWANdfIW7ZL] problem 2015-06-13 22:50:05.403780,earliest:2015-06-13 22:50:05.403780
+| -- -- -- -- -- [fowyGPdZFC3CmaZdoqmKC9MId325ja6v] problem 2015-06-13 22:50:05.403784,earliest:2015-06-13 22:50:05.403784
+| -- -- -- -- -- [U1b4mjFE2cKf64NZGCdFW76pkVyeO1p2] problem 2015-06-13 22:50:05.403788,earliest:2015-06-13 22:50:05.403788
+| -- -- -- -- [p3IuJuHMuNskWBnLC70FRO7Of1UEmpmm] vertical 2015-06-13 22:50:05.403797,earliest:2015-06-13 22:50:05.403797
+| -- -- -- -- -- [Elts45w94iCabSA5ziALIHgNvqRRX9pA] video 2015-06-13 22:50:05.403800,earliest:2015-06-13 22:50:05.403800
+| -- -- -- [SBH7iDDDmqOHdp6WNuF5iN4x6ZzjEJsj] sequential 2014-09-01 01:00:00,earliest:2015-06-13 22:50:05.403903
+| -- -- -- -- [Nx6kqttovtilxNDuHnmLhpCYKUXnB2Tt] vertical 2015-06-13 22:50:05.403911,earliest:2015-06-13 22:50:05.403911
+| -- -- -- -- -- [Aoz2s65uM97QZS1VlnZeRevPiWns67d0] problem 2015-06-13 22:50:05.403915,earliest:2015-06-13 22:50:05.403915
+| -- -- -- -- [zGeaNEfbSH3x4oaHICWkUGB1Ptd9CnNQ] vertical 2015-06-13 22:50:05.403923,earliest:2015-06-13 22:50:05.403923
+| -- -- -- -- -- [pnM7NLJSUDPZn9lVkXa5dxKNSW84wQQO] problem 2015-06-13 22:50:05.403927,earliest:2015-06-13 22:50:05.403927
+| -- -- -- -- [aOZAh6PAD4jIfSmxfopWKOfcCEcU6ayi] vertical 2015-06-13 22:50:05.403935,earliest:2015-06-13 22:50:05.403935
+| -- -- -- -- -- [o3V0rqwvc4Ax4Y4LmTdhmARZKwQwu6u9] problem 2015-06-13 22:50:05.403939,earliest:2015-06-13 22:50:05.403939
+| -- -- -- -- [lb5B3OAwDQsMtO7JSuS7QcfrgePlZJV2] vertical 2015-06-13 22:50:05.403948,earliest:2015-06-13 22:50:05.403948
+| -- -- -- -- -- [VBdtMJejoz7JMtvRbBReqoP3OouaDUBF] problem 2015-06-13 22:50:05.403951,earliest:2015-06-13 22:50:05.403951
+| -- -- -- -- [YVx5Iw82u8YiQRorCH9X31kVB5oGy8oJ] vertical 2015-06-13 22:50:05.403960,earliest:2015-06-13 22:50:05.403960
+| -- -- -- -- -- [Pe9K7jWyliHdyfxtsQD7OvAH8dQ0UhlH] problem 2015-06-13 22:50:05.403963,earliest:2015-06-13 22:50:05.403963
+| -- -- -- -- [W88aomWCgqS0gR6UMiT1G9koOCE8OKUO] vertical 2015-06-13 22:50:05.403972,earliest:2015-06-13 22:50:05.403972
+| -- -- -- -- -- [S9z9MKwPLGTEnSiUd80QXw4K8kTAYorW] video 2015-06-13 22:50:05.403975,earliest:2015-06-13 22:50:05.403975
+| -- -- -- -- [1F7wSLUU6AACJdG1f8FjsdiZOOPN675G] vertical 2015-06-13 22:50:05.403984,earliest:2015-06-13 22:50:05.403984
+| -- -- -- -- -- [oz9Vc1a1xDA4mfQnceEvxmJfchPUggvI] video 2015-06-13 22:50:05.403987,earliest:2015-06-13 22:50:05.403987
+| -- -- -- -- [NZapRPWif6GpOC8jBCGEgAl0wEGmLaiY] vertical 2015-06-13 22:50:05.403996,earliest:2015-06-13 22:50:05.403996
+| -- -- -- -- -- [osoT5ix8PfAxxsDUD7OCBOkdrE23ORNh] problem 2015-06-13 22:50:05.404000,earliest:2015-06-13 22:50:05.404000
+| -- -- -- [k0lI3p0RaokK6503Vq4Nk9QPExoec6SB] sequential 2014-09-01 01:00:00,earliest:2015-06-13 22:50:05.404078
+| -- -- -- -- [K9ZK0SVJzKQFO8kfvbr8EMFcanMJegI5] vertical 2015-06-13 22:50:05.404086,earliest:2015-06-13 22:50:05.404086
+| -- -- -- -- -- [HwmqAzRU2a0oli3JYa3IhL0Qcx2IUmAZ] problem 2015-06-13 22:50:05.404090,earliest:2015-06-13 22:50:05.404090
+| -- -- -- -- [6Uv6TdRbMsTWakmf7KhhgfxtyJQhrEFb] vertical 2015-06-13 22:50:05.404098,earliest:2015-06-13 22:50:05.404098
+| -- -- -- -- -- [3ykXeGHrv4vcopM9J465TB9YnsTcvwpY] video 2015-06-13 22:50:05.404102,earliest:2015-06-13 22:50:05.404102
+| -- -- -- -- [ocAk8vBPhY54shNKpnE65zCWCTfLVy82] vertical 2015-06-13 22:50:05.404110,earliest:2015-06-13 22:50:05.404110
+| -- -- -- -- -- [kznbpdhU3S4L66AzwAe0EIADdHdOSS2j] video 2015-06-13 22:50:05.404114,earliest:2015-06-13 22:50:05.404114
+| -- -- -- -- [s3zT8TP8KnUh2PwoRuGA0Wv5EE7CbF4f] vertical 2015-06-13 22:50:05.404123,earliest:2015-06-13 22:50:05.404123
+| -- -- -- -- -- [sUqSPkyMjiWGOunqGRD9gxeYPa0N8CkU] problem 2015-06-13 22:50:05.404126,earliest:2015-06-13 22:50:05.404126
+| -- -- -- -- [TzJbiAdM9xCTNktUm51SVQ6QgYpNirzF] vertical 2015-06-13 22:50:05.404135,earliest:2015-06-13 22:50:05.404135
+| -- -- -- -- -- [Jlr1Ea4kspotXIe65ObBj7DOAvgcsoX3] problem 2015-06-13 22:50:05.404138,earliest:2015-06-13 22:50:05.404138
+| -- -- -- -- [4cenUvZC86aPJdW81J0j4lHAUNleDp6L] vertical 2015-06-13 22:50:05.404147,earliest:2015-06-13 22:50:05.404147
+| -- -- -- -- -- [G3HaAJhEz0PyOPThZgH0rh0NoUY4DpZs] video 2015-06-13 22:50:05.404151,earliest:2015-06-13 22:50:05.404151
+| -- -- -- [5JOkEugiDLO3vsOVN9vZQninon8Viz6C] sequential 2014-09-01 01:00:00,earliest:2015-06-13 22:50:05.404180
+| -- -- -- -- [L9s70Lf3nU8j4FGCAtRZLWTztSc1wXT7] vertical 2015-06-13 22:50:05.404188,earliest:2015-06-13 22:50:05.404188
+| -- -- -- -- -- [0rJoLI8vSkTpFxZT7heolSIjyghswN1K] video 2015-06-13 22:50:05.404192,earliest:2015-06-13 22:50:05.404192
+| -- -- -- -- [CzD4Qu17DcD0bpQj5UqPnFwhe5tw6TKE] vertical 2015-06-13 22:50:05.404200,earliest:2015-06-13 22:50:05.404200
+| -- -- -- -- -- [yOL2ZE0neS00kUtgmte9ebUKr40yyQ70] problem 2015-06-13 22:50:05.404204,earliest:2015-06-13 22:50:05.404204
+| -- -- -- [MvyAapAKQWNxa31Zhga4226GT82JrkAe] sequential 2014-09-01 01:00:00,earliest:2015-06-13 22:50:05.404363
+| -- -- -- -- [9r1PGi7Oy3qS1bYRpvDo8jWEghTxWOBw] vertical 2015-06-13 22:50:05.404371,earliest:2015-06-13 22:50:05.404371
+| -- -- -- -- -- [z7TuWdQiaDKbPRMHBEXaxNeKdqmfLELD] problem 2015-06-13 22:50:05.404375,earliest:2015-06-13 22:50:05.404375
+| -- -- -- -- [CjLw12ocdZ73DQP1d98JR0wvQd3DrI91] vertical 2015-06-13 22:50:05.404388,earliest:2015-06-13 22:50:05.404388
+| -- -- -- -- -- [ga712qUOjWcpAFFG4pjCAt3UVlrGQa2y] problem 2015-06-13 22:50:05.404391,earliest:2015-06-13 22:50:05.404391
+| -- -- -- -- -- [dfjO20zGcNjmmTImGWUSDL4F2e3h97cC] discussion 2015-06-13 22:50:05.404395,earliest:2015-06-13 22:50:05.404395
+| -- -- -- -- [iAxlxmghN2soAKsivQBGzAdNnvLIqxtZ] vertical 2015-06-13 22:50:05.404403,earliest:2015-06-13 22:50:05.404403
+| -- -- -- -- -- [cO8j527dOnrbDdTyk2AseXJUW6s7JIR9] problem 2015-06-13 22:50:05.404407,earliest:2015-06-13 22:50:05.404407
+| -- -- -- -- [eChoH7lG1MO1YoxItgtC7RuENrEZMNY7] vertical 2015-06-13 22:50:05.404416,earliest:2015-06-13 22:50:05.404416
+| -- -- -- -- -- [DI2n1sBtOXBj9RjgIHQk2OBrLhkjAlFF] problem 2015-06-13 22:50:05.404419,earliest:2015-06-13 22:50:05.404419
+| -- -- -- -- [xrbNWBx8qOinrm97MsFlCSQA7pCQAB54] vertical 2015-06-13 22:50:05.404428,earliest:2015-06-13 22:50:05.404428
+| -- -- -- -- -- [qp9XiIDqhzOD1mLpGahbTSiZ5hqYAshx] video 2015-06-13 22:50:05.404432,earliest:2015-06-13 22:50:05.404432
+| -- -- -- -- [vi8zB9TXSQtSxV48bM3DEdkiKO17FXzt] vertical 2015-06-13 22:50:05.404440,earliest:2015-06-13 22:50:05.404440
+| -- -- -- -- -- [A8EvVVa5qfHctnrfCjSYT7EqI6yKJcG8] problem 2015-06-13 22:50:05.404444,earliest:2015-06-13 22:50:05.404444
+| -- -- -- -- [ecFPDrBmN0qZxACRh4nbz6cxrl3n72Si] vertical 2015-06-13 22:50:05.404452,earliest:2015-06-13 22:50:05.404452
+| -- -- -- -- -- [WDoo9OvdS6S3uagSJhjdBODX8qyTbXkU] video 2015-06-13 22:50:05.404456,earliest:2015-06-13 22:50:05.404456
+| -- -- -- -- [w16wD4c5kI3CkgkAiH57kbNmQGKc8y3D] vertical 2015-06-13 22:50:05.404465,earliest:2015-06-13 22:50:05.404465
+| -- -- -- -- -- [Pl9W3rzNniPzCnWZSA18gxWFa37z5jfN] problem 2015-06-13 22:50:05.404468,earliest:2015-06-13 22:50:05.404468
+| -- -- -- -- [KR70RJycfIUjlf4VkZI6JDZ3vOAEhJla] vertical 2015-06-13 22:50:05.404477,earliest:2015-06-13 22:50:05.404477
+| -- -- -- -- -- [gSyY3oFikko2W7JS4kJyaSLxDwZG0EQM] video 2015-06-13 22:50:05.404480,earliest:2015-06-13 22:50:05.404480
+| -- -- -- -- [6K1h09aBYe7GeIxjv3wdi3I3acQOJU8d] vertical 2015-06-13 22:50:05.404489,earliest:2015-06-13 22:50:05.404489
+| -- -- -- -- -- [CzpUya6LEaYHDZ9l06euc59lHRjROtXS] problem 2015-06-13 22:50:05.404493,earliest:2015-06-13 22:50:05.404493
+| -- -- -- -- [nTwZZxF6GEKFxDVblajufcWjfHfdyww6] vertical 2015-06-13 22:50:05.404502,earliest:2015-06-13 22:50:05.404502
+| -- -- -- -- -- [IVugQI4ujYvmT4OTx6odjRjNPzJgZJHw] video 2015-06-13 22:50:05.404505,earliest:2015-06-13 22:50:05.404505
+| -- -- -- -- [Jgn4CLhQbqfXy6W8kGk7DTy3ztkSqHnT] vertical 2015-06-13 22:50:05.404514,earliest:2015-06-13 22:50:05.404514
+| -- -- -- -- -- [etGItIrEicDWMdIcmirqIXKlnciN7giN] problem 2015-06-13 22:50:05.404517,earliest:2015-06-13 22:50:05.404517
+| -- -- -- [vUSugMFdMt7lKvQJD90OUke3vmzfS40y] sequential 2014-09-01 01:00:00,earliest:2015-06-13 22:50:05.404579
+| -- -- -- -- [UGlf8fR3VdFF5uTR2eJvtg6qwiJCavdY] vertical 2015-06-13 22:50:05.404587,earliest:2015-06-13 22:50:05.404587
+| -- -- -- -- -- [asbmGnXquUVp0uMP379bP1dizyzdebAt] video 2015-06-13 22:50:05.404591,earliest:2015-06-13 22:50:05.404591
+| -- -- -- -- [YHdC3sY3bofT44xK8ObEBASqDch1Zc6a] vertical 2015-06-13 22:50:05.404603,earliest:2015-06-13 22:50:05.404603
+| -- -- -- -- -- [zUqRM2Tsk6s3UdXuKltVXMj8ikxuEDs5] problem 2015-06-13 22:50:05.404607,earliest:2015-06-13 22:50:05.404607
+| -- -- -- -- -- [mElLVk2DvMIrfERJJGRUPF3V6w2iLQit] problem 2015-06-13 22:50:05.404610,earliest:2015-06-13 22:50:05.404610
+| -- -- -- -- [h1bGwASxrxLDC3mynYQslhcK7Hzq45Er] vertical 2015-06-13 22:50:05.404619,earliest:2015-06-13 22:50:05.404619
+| -- -- -- -- -- [UE5Be0Zjpz6TaUbUfmltE70rI2a4SgrT] video 2015-06-13 22:50:05.404623,earliest:2015-06-13 22:50:05.404623
+| -- -- -- -- [mmOONy3jqW51t1ArInvvuf6hWcQbzmzr] vertical 2015-06-13 22:50:05.404631,earliest:2015-06-13 22:50:05.404631
+| -- -- -- -- -- [QlJofO7V42EKdQ9r336q41dI6qppW0mR] problem 2015-06-13 22:50:05.404635,earliest:2015-06-13 22:50:05.404635
+| -- -- -- [B6Symqca256cKVK4IVFqBGdt5F4SCYtK] sequential 2014-09-01 01:00:00,earliest:2015-06-13 22:50:05.404725
+| -- -- -- -- [7ZwFKcusX4sLDNIyXb50qtUo3bo5tjgY] vertical 2015-06-13 22:50:05.404733,earliest:2015-06-13 22:50:05.404733
+| -- -- -- -- -- [5PZddEWykYnAOQY9rizHlB3DgG56vJSS] problem 2015-06-13 22:50:05.404736,earliest:2015-06-13 22:50:05.404736
+| -- -- -- -- [hxnaM9qDtavLhu5OD8Y0YJojd7KwgMZm] vertical 2015-06-13 22:50:05.404745,earliest:2015-06-13 22:50:05.404745
+| -- -- -- -- -- [H9993Ymi04BSPB3vyP9fJI1e65JKeKPU] problem 2015-06-13 22:50:05.404748,earliest:2015-06-13 22:50:05.404748
+| -- -- -- -- [66Ys3dUWvbVXJpnxFeZNEb2WCJM1HyIy] vertical 2015-06-13 22:50:05.404757,earliest:2015-06-13 22:50:05.404757
+| -- -- -- -- -- [j0Dwusp6Enofk2gHKKVkeBzw66PKR8gY] problem 2015-06-13 22:50:05.404761,earliest:2015-06-13 22:50:05.404761
+| -- -- -- -- [2LykNNFvB6HSoUILBLB0TOAJXPDk03tS] vertical 2015-06-13 22:50:05.404769,earliest:2015-06-13 22:50:05.404769
+| -- -- -- -- -- [ahIvz0GQBKGw1jPZQmmwDsRoiESNxlun] problem 2015-06-13 22:50:05.404773,earliest:2015-06-13 22:50:05.404773
+| -- -- -- -- [DS80qUSlYICKLAKfzT55vQgS8Rkl90j9] vertical 2015-06-13 22:50:05.404782,earliest:2015-06-13 22:50:05.404782
+| -- -- -- -- -- [XtYkkZLL4XotygMgLULvsJh3Xpc7Fwkm] problem 2015-06-13 22:50:05.404785,earliest:2015-06-13 22:50:05.404785
+| -- -- -- -- [ilBFCAL5svSLQk3qSZDbnMPG9Rrb17J1] vertical 2015-06-13 22:50:05.404794,earliest:2015-06-13 22:50:05.404794
+| -- -- -- -- -- [yrMXICrMuNAA7fHbt2kTVsNnbGmOWLeH] problem 2015-06-13 22:50:05.404797,earliest:2015-06-13 22:50:05.404797
+| -- -- -- -- [N9lU2mdSVQgInsjM6SJn3RNXiFshB6PF] vertical 2015-06-13 22:50:05.404806,earliest:2015-06-13 22:50:05.404806
+| -- -- -- -- -- [lUiHLTgQmFva6DWOxeBiDe4Fl6kPE79b] problem 2015-06-13 22:50:05.404810,earliest:2015-06-13 22:50:05.404810
 | -- -- [mJ55bYJEYKfccLcXMcuIUnhFeBpbV2pz] chapter 2014-06-12 01:35:05,earliest:2014-06-12 01:35:05
 | -- --  >> 2014-06-25 00:51:03 from:server, event:access by :4533
 | -- --  >> 2014-06-23 04:23:36 from:server, event:access by :15393
@@ -26994,16 +26994,16 @@
 | -- -- -- -- --  >> 2014-06-17 03:36:25 from:browser, event:video by :51
 | -- -- -- -- --  >> 2014-06-27 00:43:10 from:browser, event:video by :32502
 | -- -- -- -- --  >> 2014-06-27 09:37:30 from:browser, event:video by :114304
-| -- -- [YD9zneXhvLp2f3dKwKC3cIaRHprvfeDN] chapter 2014-09-16 16:00:00,earliest:2015-06-08 15:45:22.103543
-| -- -- -- [bdhLGCSZ3zaFq2na2dYCxwOqD2eB9eAw] sequential 2015-06-08 15:45:22.103589,earliest:2015-06-08 15:45:22.103589
-| -- -- -- -- [LigWMf7lMprcf7UTGK9jy5Vkcr1vTUBk] vertical 2015-06-08 15:45:22.103611,earliest:2015-06-08 15:45:22.103611
-| -- -- -- -- -- [4bXgJsDUiuPDSd4kF2tD7e1DMD0Wb3My] outlink 2015-06-08 15:45:22.103620,earliest:2015-06-08 15:45:22.103620
-| -- -- -- [T8io7pe0CG6VWRCgLAg7Vtkf6xIdBo1j] sequential 2015-06-08 15:45:22.103669,earliest:2015-06-08 15:45:22.103669
-| -- -- -- -- [X3hkAwQ9HEJ5qgChUviJBH4UBT5Qjgxt] vertical 2015-06-08 15:45:22.103691,earliest:2015-06-08 15:45:22.103691
-| -- -- -- -- -- [QIsSGRXK9gvHIwgEVUfNiuWiH4VTSkfF] html 2015-06-08 15:45:22.103701,earliest:2015-06-08 15:45:22.103701
-| -- -- -- [AjrFQC9HHSlF5ed95AMAjhNvf5uiIypO] sequential 2015-06-08 15:45:22.103750,earliest:2015-06-08 15:45:22.103750
-| -- -- -- -- [sEU7F39yw6xGU0GtNSQ1r6hTwc1ZUvJm] vertical 2015-06-08 15:45:22.103772,earliest:2015-06-08 15:45:22.103772
-| -- -- -- -- -- [ucOgP4y1K2n8bFqvO2fIqzF88hSnMbJd] outlink 2015-06-08 15:45:22.103782,earliest:2015-06-08 15:45:22.103782
+| -- -- [YD9zneXhvLp2f3dKwKC3cIaRHprvfeDN] chapter 2014-09-16 16:00:00,earliest:2015-06-13 22:50:05.409717
+| -- -- -- [bdhLGCSZ3zaFq2na2dYCxwOqD2eB9eAw] sequential 2015-06-13 22:50:05.409748,earliest:2015-06-13 22:50:05.409748
+| -- -- -- -- [LigWMf7lMprcf7UTGK9jy5Vkcr1vTUBk] vertical 2015-06-13 22:50:05.409763,earliest:2015-06-13 22:50:05.409763
+| -- -- -- -- -- [4bXgJsDUiuPDSd4kF2tD7e1DMD0Wb3My] outlink 2015-06-13 22:50:05.409770,earliest:2015-06-13 22:50:05.409770
+| -- -- -- [T8io7pe0CG6VWRCgLAg7Vtkf6xIdBo1j] sequential 2015-06-13 22:50:05.409804,earliest:2015-06-13 22:50:05.409804
+| -- -- -- -- [X3hkAwQ9HEJ5qgChUviJBH4UBT5Qjgxt] vertical 2015-06-13 22:50:05.409818,earliest:2015-06-13 22:50:05.409818
+| -- -- -- -- -- [QIsSGRXK9gvHIwgEVUfNiuWiH4VTSkfF] html 2015-06-13 22:50:05.409825,earliest:2015-06-13 22:50:05.409825
+| -- -- -- [AjrFQC9HHSlF5ed95AMAjhNvf5uiIypO] sequential 2015-06-13 22:50:05.409860,earliest:2015-06-13 22:50:05.409860
+| -- -- -- -- [sEU7F39yw6xGU0GtNSQ1r6hTwc1ZUvJm] vertical 2015-06-13 22:50:05.409874,earliest:2015-06-13 22:50:05.409874
+| -- -- -- -- -- [ucOgP4y1K2n8bFqvO2fIqzF88hSnMbJd] outlink 2015-06-13 22:50:05.409881,earliest:2015-06-13 22:50:05.409881
 | -- -- [jwYxrqbgPu6OOOykJW9wjxJdoV92BZEo] chapter 2014-06-19 04:02:55,earliest:2014-06-19 04:02:55
 | -- --  >> 2014-07-04 12:26:33 from:server, event:access by :13
 | -- --  >> 2014-07-08 11:53:25 from:server, event:access by :34995
@@ -29700,48 +29700,48 @@
 | -- -- -- --  >> 2014-06-21 09:42:17 from:browser, event:problem by :136568
 | -- -- -- --  >> 2014-06-20 00:50:45 from:browser, event:problem by :16717
 | -- -- -- --  >> 2014-06-21 09:42:14 from:browser, event:problem by :136568
-| -- -- [E1Marww10CztPlAl29tUoTJauYC5tOuM] chapter 2014-07-21 01:00:00,earliest:2015-06-08 15:45:22.112953
-| -- -- -- [zOuxLg3LhTMHGwvfwKSewTtNksfhnKEw] sequential 2014-07-21 01:00:00,earliest:2015-06-08 15:45:22.113003
-| -- -- -- -- [DIug9is8LAV40F4CZ5Ip0DlTWYfIs2cC] vertical 2015-06-08 15:45:22.113013,earliest:2015-06-08 15:45:22.113013
-| -- -- -- -- -- [fQrke1eLRPPB4ZksVKpKZg76CucXO0Zt] video 2015-06-08 15:45:22.113018,earliest:2015-06-08 15:45:22.113018
-| -- -- -- -- [ussCtNkfyglFp113LPyIWVkdYMESLns1] vertical 2015-06-08 15:45:22.113028,earliest:2015-06-08 15:45:22.113028
-| -- -- -- -- -- [Hs2jAkqtO7zhiuRd4qGapfY05bh52nPj] video 2015-06-08 15:45:22.113032,earliest:2015-06-08 15:45:22.113032
-| -- -- -- -- [GaX69QcbjMRPa0bGyH9mfTxPQAzpt2OU] vertical 2015-06-08 15:45:22.113043,earliest:2015-06-08 15:45:22.113043
-| -- -- -- -- -- [GpFaum3yQtL2JuqcTGguSw3KFeSdSOWX] problem 2015-06-08 15:45:22.113047,earliest:2015-06-08 15:45:22.113047
-| -- -- -- [TVgmYam905wSllzRAFd1p4UE0p63DfMN] sequential 2014-07-21 01:00:00,earliest:2015-06-08 15:45:22.113114
-| -- -- -- -- [TMJPXUE1wYsCX4g0MQPI6oQ1h7LwHOcx] vertical 2015-06-08 15:45:22.113124,earliest:2015-06-08 15:45:22.113124
-| -- -- -- -- -- [BRGkqoJQ1TCjhfM3YvJgOSxbPbIflVn7] video 2015-06-08 15:45:22.113128,earliest:2015-06-08 15:45:22.113128
-| -- -- -- -- [97QJ8rCtJ6v6y9hbmE2IRKk8RTXZlfqh] vertical 2015-06-08 15:45:22.113138,earliest:2015-06-08 15:45:22.113138
-| -- -- -- -- -- [HYoWjT4kNQd9gfNmhE4zeVcGHOtHKbLS] video 2015-06-08 15:45:22.113143,earliest:2015-06-08 15:45:22.113143
-| -- -- -- -- [ZywzlfWEXW6j2BblkcNSjrfVWBYenpuH] vertical 2015-06-08 15:45:22.113153,earliest:2015-06-08 15:45:22.113153
-| -- -- -- -- -- [hAg0Q6a7AzE7B8PyElaDej2WGgyh16MM] video 2015-06-08 15:45:22.113158,earliest:2015-06-08 15:45:22.113158
-| -- -- -- -- [F9SoI690Yjjl88BWWe3IGh2tUP0ro3po] vertical 2015-06-08 15:45:22.113168,earliest:2015-06-08 15:45:22.113168
-| -- -- -- -- -- [E9q11HSSLgpcU1F4NmaOhCqIQa7cbHzH] video 2015-06-08 15:45:22.113173,earliest:2015-06-08 15:45:22.113173
-| -- -- -- [YdNp0y3hHXWDLNaXxyvqDpUlDd4WNYxq] sequential 2014-07-21 01:00:00,earliest:2015-06-08 15:45:22.113194
-| -- -- -- -- [GypZJNB8LSRFzlpUowxr8qKeymmLiSzX] vertical 2015-06-08 15:45:22.113203,earliest:2015-06-08 15:45:22.113203
-| -- -- -- -- -- [pK7FkXS6fwhqTkdBY9EsNkcd83vrdOnN] video 2015-06-08 15:45:22.113208,earliest:2015-06-08 15:45:22.113208
-| -- -- -- [N9ukB39AlzWaOxIJEsftGErJbSKcHGLM] sequential 2014-07-21 01:00:00,earliest:2015-06-08 15:45:22.113293
-| -- -- -- -- [BYpFXr1u2wWR4yX4RCIDVRMt2rY3nlbM] vertical 2015-06-08 15:45:22.113302,earliest:2015-06-08 15:45:22.113302
-| -- -- -- -- -- [WZ6T2rC5WcgwSIZGONE9jsr1YyBPHYrW] video 2015-06-08 15:45:22.113307,earliest:2015-06-08 15:45:22.113307
-| -- -- -- -- [KQFrN2JO4H9Oz39j9fdzgFx6KwSXtnjZ] vertical 2015-06-08 15:45:22.113317,earliest:2015-06-08 15:45:22.113317
-| -- -- -- -- -- [0EN02Pbwj2sZueWD6s41qTeAzLft890R] video 2015-06-08 15:45:22.113322,earliest:2015-06-08 15:45:22.113322
-| -- -- -- -- [DZAwXbk96RYUFMtbaEqVG94AQTKFPFRW] vertical 2015-06-08 15:45:22.113337,earliest:2015-06-08 15:45:22.113337
-| -- -- -- -- -- [vOnKosersyVjLSrx0XYFxzzPYosbPIgU] problem 2015-06-08 15:45:22.113341,earliest:2015-06-08 15:45:22.113341
-| -- -- -- -- -- [ZiVhceVP8CFpIiEjK7v4Qlg9a9UocMmu] problem 2015-06-08 15:45:22.113346,earliest:2015-06-08 15:45:22.113346
-| -- -- -- -- [TNEyHL1xWzCxtyYsm6pxd63yAZzsgTVI] vertical 2015-06-08 15:45:22.113361,earliest:2015-06-08 15:45:22.113361
-| -- -- -- -- -- [YPt5R7dKMStTniO6H2aFEfe02aupOusE] problem 2015-06-08 15:45:22.113365,earliest:2015-06-08 15:45:22.113365
-| -- -- -- -- -- [MbhK6SRieHfRpjg6ocoBYxeMcqyCKYLl] problem 2015-06-08 15:45:22.113370,earliest:2015-06-08 15:45:22.113370
-| -- -- -- [b5oanXw71USaHT4enHTeDlgFF43T3DNk] sequential 2014-07-21 01:00:00,earliest:2015-06-08 15:45:22.113451
-| -- -- -- -- [QL7HxGRU8nvJV0cyPyVFJf12XeGCcx4i] vertical 2015-06-08 15:45:22.113461,earliest:2015-06-08 15:45:22.113461
-| -- -- -- -- -- [X9tfu768xFq8ppP5DqneCEuNVG9dJLU9] problem 2015-06-08 15:45:22.113465,earliest:2015-06-08 15:45:22.113465
-| -- -- -- -- [XY5HL1HkiACGdTpHQBU57WCoffSiHQjb] vertical 2015-06-08 15:45:22.113476,earliest:2015-06-08 15:45:22.113476
-| -- -- -- -- -- [RYgPmQ93bLK2xU3vt8rZtuGOFuWfI6UV] problem 2015-06-08 15:45:22.113480,earliest:2015-06-08 15:45:22.113480
-| -- -- -- -- [2NsdngztwXWBfUqEkBjqey2qayjSkgVG] vertical 2015-06-08 15:45:22.113490,earliest:2015-06-08 15:45:22.113490
-| -- -- -- -- -- [WKm828PEFm8f23PCnmfAPU3kBKhsq9pk] problem 2015-06-08 15:45:22.113495,earliest:2015-06-08 15:45:22.113495
-| -- -- -- -- [UbKHyk2Yr1AfZKVJAQhWqc233u3QBjCK] vertical 2015-06-08 15:45:22.113505,earliest:2015-06-08 15:45:22.113505
-| -- -- -- -- -- [6mzjYfOUUOOY2gvx56KYzHZWvJTiK1Jw] problem 2015-06-08 15:45:22.113510,earliest:2015-06-08 15:45:22.113510
-| -- -- -- -- [s695dV03K12vXSGJCPJP2s4bCskyej4q] vertical 2015-06-08 15:45:22.113520,earliest:2015-06-08 15:45:22.113520
-| -- -- -- -- -- [toNMp92u1EM3ZnaV1ZzoRR6jgsCuCLry] problem 2015-06-08 15:45:22.113525,earliest:2015-06-08 15:45:22.113525
+| -- -- [E1Marww10CztPlAl29tUoTJauYC5tOuM] chapter 2014-07-21 01:00:00,earliest:2015-06-13 22:50:05.417504
+| -- -- -- [zOuxLg3LhTMHGwvfwKSewTtNksfhnKEw] sequential 2014-07-21 01:00:00,earliest:2015-06-13 22:50:05.417582
+| -- -- -- -- [DIug9is8LAV40F4CZ5Ip0DlTWYfIs2cC] vertical 2015-06-13 22:50:05.417597,earliest:2015-06-13 22:50:05.417597
+| -- -- -- -- -- [fQrke1eLRPPB4ZksVKpKZg76CucXO0Zt] video 2015-06-13 22:50:05.417604,earliest:2015-06-13 22:50:05.417604
+| -- -- -- -- [ussCtNkfyglFp113LPyIWVkdYMESLns1] vertical 2015-06-13 22:50:05.417620,earliest:2015-06-13 22:50:05.417620
+| -- -- -- -- -- [Hs2jAkqtO7zhiuRd4qGapfY05bh52nPj] video 2015-06-13 22:50:05.417627,earliest:2015-06-13 22:50:05.417627
+| -- -- -- -- [GaX69QcbjMRPa0bGyH9mfTxPQAzpt2OU] vertical 2015-06-13 22:50:05.417644,earliest:2015-06-13 22:50:05.417644
+| -- -- -- -- -- [GpFaum3yQtL2JuqcTGguSw3KFeSdSOWX] problem 2015-06-13 22:50:05.417651,earliest:2015-06-13 22:50:05.417651
+| -- -- -- [TVgmYam905wSllzRAFd1p4UE0p63DfMN] sequential 2014-07-21 01:00:00,earliest:2015-06-13 22:50:05.417755
+| -- -- -- -- [TMJPXUE1wYsCX4g0MQPI6oQ1h7LwHOcx] vertical 2015-06-13 22:50:05.417770,earliest:2015-06-13 22:50:05.417770
+| -- -- -- -- -- [BRGkqoJQ1TCjhfM3YvJgOSxbPbIflVn7] video 2015-06-13 22:50:05.417777,earliest:2015-06-13 22:50:05.417777
+| -- -- -- -- [97QJ8rCtJ6v6y9hbmE2IRKk8RTXZlfqh] vertical 2015-06-13 22:50:05.417794,earliest:2015-06-13 22:50:05.417794
+| -- -- -- -- -- [HYoWjT4kNQd9gfNmhE4zeVcGHOtHKbLS] video 2015-06-13 22:50:05.417800,earliest:2015-06-13 22:50:05.417800
+| -- -- -- -- [ZywzlfWEXW6j2BblkcNSjrfVWBYenpuH] vertical 2015-06-13 22:50:05.417823,earliest:2015-06-13 22:50:05.417823
+| -- -- -- -- -- [hAg0Q6a7AzE7B8PyElaDej2WGgyh16MM] video 2015-06-13 22:50:05.417830,earliest:2015-06-13 22:50:05.417830
+| -- -- -- -- [F9SoI690Yjjl88BWWe3IGh2tUP0ro3po] vertical 2015-06-13 22:50:05.417846,earliest:2015-06-13 22:50:05.417846
+| -- -- -- -- -- [E9q11HSSLgpcU1F4NmaOhCqIQa7cbHzH] video 2015-06-13 22:50:05.417853,earliest:2015-06-13 22:50:05.417853
+| -- -- -- [YdNp0y3hHXWDLNaXxyvqDpUlDd4WNYxq] sequential 2014-07-21 01:00:00,earliest:2015-06-13 22:50:05.417888
+| -- -- -- -- [GypZJNB8LSRFzlpUowxr8qKeymmLiSzX] vertical 2015-06-13 22:50:05.417902,earliest:2015-06-13 22:50:05.417902
+| -- -- -- -- -- [pK7FkXS6fwhqTkdBY9EsNkcd83vrdOnN] video 2015-06-13 22:50:05.417909,earliest:2015-06-13 22:50:05.417909
+| -- -- -- [N9ukB39AlzWaOxIJEsftGErJbSKcHGLM] sequential 2014-07-21 01:00:00,earliest:2015-06-13 22:50:05.418042
+| -- -- -- -- [BYpFXr1u2wWR4yX4RCIDVRMt2rY3nlbM] vertical 2015-06-13 22:50:05.418058,earliest:2015-06-13 22:50:05.418058
+| -- -- -- -- -- [WZ6T2rC5WcgwSIZGONE9jsr1YyBPHYrW] video 2015-06-13 22:50:05.418064,earliest:2015-06-13 22:50:05.418064
+| -- -- -- -- [KQFrN2JO4H9Oz39j9fdzgFx6KwSXtnjZ] vertical 2015-06-13 22:50:05.418081,earliest:2015-06-13 22:50:05.418081
+| -- -- -- -- -- [0EN02Pbwj2sZueWD6s41qTeAzLft890R] video 2015-06-13 22:50:05.418088,earliest:2015-06-13 22:50:05.418088
+| -- -- -- -- [DZAwXbk96RYUFMtbaEqVG94AQTKFPFRW] vertical 2015-06-13 22:50:05.418112,earliest:2015-06-13 22:50:05.418112
+| -- -- -- -- -- [vOnKosersyVjLSrx0XYFxzzPYosbPIgU] problem 2015-06-13 22:50:05.418118,earliest:2015-06-13 22:50:05.418118
+| -- -- -- -- -- [ZiVhceVP8CFpIiEjK7v4Qlg9a9UocMmu] problem 2015-06-13 22:50:05.418126,earliest:2015-06-13 22:50:05.418126
+| -- -- -- -- [TNEyHL1xWzCxtyYsm6pxd63yAZzsgTVI] vertical 2015-06-13 22:50:05.418150,earliest:2015-06-13 22:50:05.418150
+| -- -- -- -- -- [YPt5R7dKMStTniO6H2aFEfe02aupOusE] problem 2015-06-13 22:50:05.418157,earliest:2015-06-13 22:50:05.418157
+| -- -- -- -- -- [MbhK6SRieHfRpjg6ocoBYxeMcqyCKYLl] problem 2015-06-13 22:50:05.418164,earliest:2015-06-13 22:50:05.418164
+| -- -- -- [b5oanXw71USaHT4enHTeDlgFF43T3DNk] sequential 2014-07-21 01:00:00,earliest:2015-06-13 22:50:05.418292
+| -- -- -- -- [QL7HxGRU8nvJV0cyPyVFJf12XeGCcx4i] vertical 2015-06-13 22:50:05.418307,earliest:2015-06-13 22:50:05.418307
+| -- -- -- -- -- [X9tfu768xFq8ppP5DqneCEuNVG9dJLU9] problem 2015-06-13 22:50:05.418314,earliest:2015-06-13 22:50:05.418314
+| -- -- -- -- [XY5HL1HkiACGdTpHQBU57WCoffSiHQjb] vertical 2015-06-13 22:50:05.418330,earliest:2015-06-13 22:50:05.418330
+| -- -- -- -- -- [RYgPmQ93bLK2xU3vt8rZtuGOFuWfI6UV] problem 2015-06-13 22:50:05.418337,earliest:2015-06-13 22:50:05.418337
+| -- -- -- -- [2NsdngztwXWBfUqEkBjqey2qayjSkgVG] vertical 2015-06-13 22:50:05.418354,earliest:2015-06-13 22:50:05.418354
+| -- -- -- -- -- [WKm828PEFm8f23PCnmfAPU3kBKhsq9pk] problem 2015-06-13 22:50:05.418360,earliest:2015-06-13 22:50:05.418360
+| -- -- -- -- [UbKHyk2Yr1AfZKVJAQhWqc233u3QBjCK] vertical 2015-06-13 22:50:05.418377,earliest:2015-06-13 22:50:05.418377
+| -- -- -- -- -- [6mzjYfOUUOOY2gvx56KYzHZWvJTiK1Jw] problem 2015-06-13 22:50:05.418384,earliest:2015-06-13 22:50:05.418384
+| -- -- -- -- [s695dV03K12vXSGJCPJP2s4bCskyej4q] vertical 2015-06-13 22:50:05.418401,earliest:2015-06-13 22:50:05.418401
+| -- -- -- -- -- [toNMp92u1EM3ZnaV1ZzoRR6jgsCuCLry] problem 2015-06-13 22:50:05.418407,earliest:2015-06-13 22:50:05.418407
 | -- -- [wKSZdW3wFovpa7SQ04Nngu6ApOfDXYIC] chapter 2014-06-27 01:14:56,earliest:2014-06-27 01:14:56
 | -- --  >> 2014-07-02 07:12:38 from:server, event:access by :31269
 | -- --  >> 2014-07-04 07:32:19 from:server, event:access by :15393
@@ -31349,13 +31349,13 @@
 | -- -- -- -- --  >> 2014-07-07 02:07:10 from:browser, event:video by :51
 | -- -- -- -- --  >> 2014-07-07 02:11:54 from:browser, event:video by :51
 | -- -- -- -- --  >> 2014-07-07 01:56:17 from:browser, event:video by :32083
-| -- -- -- -- [uCmVfpMHllQtfNVCXwBKFafeRq7YBfLz] vertical 2015-06-08 15:45:22.119594,earliest:2015-06-08 15:45:22.119594
-| -- -- -- -- -- [JUPke5peD54S5fjAtsBA2mdGm69LkNvx] problem 2015-06-08 15:45:22.119603,earliest:2015-06-08 15:45:22.119603
-| -- -- -- -- [L4hUPBYVKFVoUcYAeS3HHrMiYttwXy1w] vertical 2015-06-08 15:45:22.119632,earliest:2015-06-08 15:45:22.119632
-| -- -- -- -- -- [OdlXJwNTGCpInHonwQ9PQGhQq0Yt2qJw] problem 2015-06-08 15:45:22.119640,earliest:2015-06-08 15:45:22.119640
-| -- -- -- -- -- [qXQ0koP2K4jR6qOkct6Ke1m8K4T7VqfZ] problem 2015-06-08 15:45:22.119650,earliest:2015-06-08 15:45:22.119650
-| -- -- -- -- [ClVXvflCeUdtWXDJE7xFJAxPPiaXe4dz] vertical 2015-06-08 15:45:22.119670,earliest:2015-06-08 15:45:22.119670
-| -- -- -- -- -- [0r2gpMdR05Fu9CBgdaCdlvETgDw8sDSm] problem 2015-06-08 15:45:22.119678,earliest:2015-06-08 15:45:22.119678
+| -- -- -- -- [uCmVfpMHllQtfNVCXwBKFafeRq7YBfLz] vertical 2015-06-13 22:50:05.424930,earliest:2015-06-13 22:50:05.424930
+| -- -- -- -- -- [JUPke5peD54S5fjAtsBA2mdGm69LkNvx] problem 2015-06-13 22:50:05.424935,earliest:2015-06-13 22:50:05.424935
+| -- -- -- -- [L4hUPBYVKFVoUcYAeS3HHrMiYttwXy1w] vertical 2015-06-13 22:50:05.424952,earliest:2015-06-13 22:50:05.424952
+| -- -- -- -- -- [OdlXJwNTGCpInHonwQ9PQGhQq0Yt2qJw] problem 2015-06-13 22:50:05.424957,earliest:2015-06-13 22:50:05.424957
+| -- -- -- -- -- [qXQ0koP2K4jR6qOkct6Ke1m8K4T7VqfZ] problem 2015-06-13 22:50:05.424962,earliest:2015-06-13 22:50:05.424962
+| -- -- -- -- [ClVXvflCeUdtWXDJE7xFJAxPPiaXe4dz] vertical 2015-06-13 22:50:05.424974,earliest:2015-06-13 22:50:05.424974
+| -- -- -- -- -- [0r2gpMdR05Fu9CBgdaCdlvETgDw8sDSm] problem 2015-06-13 22:50:05.424979,earliest:2015-06-13 22:50:05.424979
 | -- -- -- -- [sYzaBAYbphndEHF4dIkeT2oOqNvhQWLD] vertical 2014-07-07 01:56:05,earliest:2014-07-07 01:56:05
 | -- -- -- -- -- [eAwXS2BZOEMRQDsLF0vn1UgedgZIeK9o] video 2014-07-07 01:56:05,earliest:2014-07-07 01:56:05
 | -- -- -- -- --  >> 2014-07-07 02:08:54 from:browser, event:video by :51
@@ -31367,199 +31367,199 @@
 | -- -- -- -- --  >> 2014-07-07 01:56:05 from:browser, event:video by :32083
 | -- -- -- [KioII8bK1NNjwBe3SdD46hUEhylqGlpn] sequential 2014-07-07 02:12:15,earliest:2014-07-07 02:12:15
 | -- -- --  >> 2014-07-07 02:12:15 from:server, event:access by :51
-| -- -- -- -- [4uJSp0ZCXOSolTwipMMnTzuCVAJwTPLU] vertical 2015-06-08 15:45:22.119881,earliest:2015-06-08 15:45:22.119881
-| -- -- -- -- -- [oPEGlRnihvjthlIrP6vfWT14HzMtFBE3] video 2015-06-08 15:45:22.119889,earliest:2015-06-08 15:45:22.119889
-| -- -- -- -- [hi8pSXMm1zwXndpAhgcP2Tc2lnyd94WJ] vertical 2015-06-08 15:45:22.119919,earliest:2015-06-08 15:45:22.119919
-| -- -- -- -- -- [aPT7TOa8bM5fghfEqEiKjUU2zasrYacn] problem 2015-06-08 15:45:22.119927,earliest:2015-06-08 15:45:22.119927
-| -- -- -- -- -- [vcrZZLT4vTQt9AkmwdYU4vayATH9YLfq] problem 2015-06-08 15:45:22.119936,earliest:2015-06-08 15:45:22.119936
-| -- -- -- -- [pOJ74jieVhbwU6r3XsbTyAN0ihUkCJTX] vertical 2015-06-08 15:45:22.119956,earliest:2015-06-08 15:45:22.119956
-| -- -- -- -- -- [O21oFI8XcRzmpbCB9AGqeAfOpd0KCqnE] video 2015-06-08 15:45:22.119965,earliest:2015-06-08 15:45:22.119965
-| -- -- -- -- [wmXsN4a5HcTSIkdx83PDpGVqP8f7mNCh] vertical 2015-06-08 15:45:22.119984,earliest:2015-06-08 15:45:22.119984
-| -- -- -- -- -- [mR8yaShlk7gh4BofcOEGoopsqc0Vl1OA] problem 2015-06-08 15:45:22.119993,earliest:2015-06-08 15:45:22.119993
-| -- -- -- [0sHY0PBOltw9Jw4OdDoJVVkZmJZ5k1r1] sequential 2014-11-01 01:00:00,earliest:2015-06-08 15:45:22.120147
-| -- -- -- -- [737UGcPpc8wAujIMSgoBNlgpU0aXCk6e] vertical 2015-06-08 15:45:22.120165,earliest:2015-06-08 15:45:22.120165
-| -- -- -- -- -- [UY05dLHfn8Kpn5fLHZ0kuf4s1K34I8mB] video 2015-06-08 15:45:22.120174,earliest:2015-06-08 15:45:22.120174
-| -- -- -- -- [1EPwE5cU6eY0xVBq7kXN2GoDBMRlEGB6] vertical 2015-06-08 15:45:22.120222,earliest:2015-06-08 15:45:22.120222
-| -- -- -- -- -- [e3to4lGcERZz20QBaqD0Z5WKUfipiiQb] problem 2015-06-08 15:45:22.120230,earliest:2015-06-08 15:45:22.120230
-| -- -- -- -- -- [kAsUzP98qHScYGAFuhrMXy0Dnq69i5Xp] problem 2015-06-08 15:45:22.120240,earliest:2015-06-08 15:45:22.120240
-| -- -- -- -- -- [hUfvSIrZuJA2PXBD6q3A0m6uxXS5qUJE] problem 2015-06-08 15:45:22.120248,earliest:2015-06-08 15:45:22.120248
-| -- -- -- -- -- [deuBBYDCW6UMsA5WB2dMlFIJOFfPM9hW] problem 2015-06-08 15:45:22.120258,earliest:2015-06-08 15:45:22.120258
-| -- -- -- -- [anhGN2IozecOgoOoKAAHYj5B6yNxN1rE] vertical 2015-06-08 15:45:22.120278,earliest:2015-06-08 15:45:22.120278
-| -- -- -- -- -- [sShlK4TBSHsJXu68eeKB05sJM58sCRA1] video 2015-06-08 15:45:22.120286,earliest:2015-06-08 15:45:22.120286
-| -- -- -- [Q0cZ7ng21N5GQ35Ah0zSY6QHFvvrBPbL] sequential 2014-07-14 01:00:00,earliest:2015-06-08 15:45:22.120403
-| -- -- -- -- [gpBBrSggkwRMVXVbdPwGiYUgFdjr6qwd] vertical 2015-06-08 15:45:22.120421,earliest:2015-06-08 15:45:22.120421
-| -- -- -- -- -- [L8fgnvFBYhkAG4saCJIyOsqA6KBfz7uJ] video 2015-06-08 15:45:22.120430,earliest:2015-06-08 15:45:22.120430
-| -- -- -- -- [MVwIgjFmD98wZjIS7uhLH6ONiDJDw0f0] vertical 2015-06-08 15:45:22.120450,earliest:2015-06-08 15:45:22.120450
-| -- -- -- -- -- [FsG2WNGJwXNWqdlG1fliryoo9NIyr8pK] video 2015-06-08 15:45:22.120458,earliest:2015-06-08 15:45:22.120458
-| -- -- -- -- [0cuF4rEydUS1Hwy9A9gw9tAfDLaAh1No] vertical 2015-06-08 15:45:22.120487,earliest:2015-06-08 15:45:22.120487
-| -- -- -- -- -- [TOwS811aM36CPxhyofWrIJDBFp7GKmYA] problem 2015-06-08 15:45:22.120494,earliest:2015-06-08 15:45:22.120494
-| -- -- -- -- -- [569SwVISx2tHH6XsMk64R2zWCTlIUvNn] problem 2015-06-08 15:45:22.120502,earliest:2015-06-08 15:45:22.120502
-| -- -- -- [j7mjZlB6WIEDi4o5C9CwolU6iMux82ou] sequential 2014-11-01 01:00:00,earliest:2015-06-08 15:45:22.120635
-| -- -- -- -- [2h0fX1JMvM2PYxRUWMhpQT7W8q5pO8mz] vertical 2015-06-08 15:45:22.120645,earliest:2015-06-08 15:45:22.120645
-| -- -- -- -- -- [Wd0vRSImZKWl9490q2JotmVjL3gpHKB8] video 2015-06-08 15:45:22.120649,earliest:2015-06-08 15:45:22.120649
-| -- -- -- -- [K23WoN0Ng9KZ06shx1r5zsYo1MFHyjn2] vertical 2015-06-08 15:45:22.120674,earliest:2015-06-08 15:45:22.120674
-| -- -- -- -- -- [Gfm56tTBAlpHd91SgK5O2CjezUoXs43P] problem 2015-06-08 15:45:22.120679,earliest:2015-06-08 15:45:22.120679
-| -- -- -- -- -- [vNwe9IixPcbHTlJSCKmNW6quiH4OeiWf] problem 2015-06-08 15:45:22.120683,earliest:2015-06-08 15:45:22.120683
-| -- -- -- -- -- [pJ3jCLIUuqLL0tMjRVp075pYpz4mDLb2] problem 2015-06-08 15:45:22.120688,earliest:2015-06-08 15:45:22.120688
-| -- -- -- -- -- [Y4xjUzorxDaKTyCbkoSwJpRIJsd8h1ue] problem 2015-06-08 15:45:22.120692,earliest:2015-06-08 15:45:22.120692
-| -- -- -- -- [izQDvScijAJo0dSv0CG3XepxWvESkYS7] vertical 2015-06-08 15:45:22.120703,earliest:2015-06-08 15:45:22.120703
-| -- -- -- -- -- [Y2wXKFkRRHSK4SxVYyYUvLqf51LbfpX4] video 2015-06-08 15:45:22.120708,earliest:2015-06-08 15:45:22.120708
-| -- -- -- -- [Z4V5JWrGnTtVfYjPL72nSDtxqig2kdnM] vertical 2015-06-08 15:45:22.120728,earliest:2015-06-08 15:45:22.120728
-| -- -- -- -- -- [p4L7pf1Fz4ArXVuVnAGDJ3nbuaP6bAjg] problem 2015-06-08 15:45:22.120732,earliest:2015-06-08 15:45:22.120732
-| -- -- -- -- -- [CAdnXrbBSwW1puIQcd2q0ls6K7PQDCqF] problem 2015-06-08 15:45:22.120737,earliest:2015-06-08 15:45:22.120737
-| -- -- -- -- -- [ZpKpMHBT7cmtt6nWTGVJSBgvFDnNNtZ8] problem 2015-06-08 15:45:22.120741,earliest:2015-06-08 15:45:22.120741
-| -- -- -- -- [UF1QvkBEOwCKORfvLyTZMDFlTVBhljUj] vertical 2015-06-08 15:45:22.120752,earliest:2015-06-08 15:45:22.120752
-| -- -- -- -- -- [yv5KKTcagWndtNKmZhJRahUzOfKoQTXS] video 2015-06-08 15:45:22.120757,earliest:2015-06-08 15:45:22.120757
+| -- -- -- -- [4uJSp0ZCXOSolTwipMMnTzuCVAJwTPLU] vertical 2015-06-13 22:50:05.425095,earliest:2015-06-13 22:50:05.425095
+| -- -- -- -- -- [oPEGlRnihvjthlIrP6vfWT14HzMtFBE3] video 2015-06-13 22:50:05.425100,earliest:2015-06-13 22:50:05.425100
+| -- -- -- -- [hi8pSXMm1zwXndpAhgcP2Tc2lnyd94WJ] vertical 2015-06-13 22:50:05.425117,earliest:2015-06-13 22:50:05.425117
+| -- -- -- -- -- [aPT7TOa8bM5fghfEqEiKjUU2zasrYacn] problem 2015-06-13 22:50:05.425121,earliest:2015-06-13 22:50:05.425121
+| -- -- -- -- -- [vcrZZLT4vTQt9AkmwdYU4vayATH9YLfq] problem 2015-06-13 22:50:05.425126,earliest:2015-06-13 22:50:05.425126
+| -- -- -- -- [pOJ74jieVhbwU6r3XsbTyAN0ihUkCJTX] vertical 2015-06-13 22:50:05.425138,earliest:2015-06-13 22:50:05.425138
+| -- -- -- -- -- [O21oFI8XcRzmpbCB9AGqeAfOpd0KCqnE] video 2015-06-13 22:50:05.425143,earliest:2015-06-13 22:50:05.425143
+| -- -- -- -- [wmXsN4a5HcTSIkdx83PDpGVqP8f7mNCh] vertical 2015-06-13 22:50:05.425154,earliest:2015-06-13 22:50:05.425154
+| -- -- -- -- -- [mR8yaShlk7gh4BofcOEGoopsqc0Vl1OA] problem 2015-06-13 22:50:05.425159,earliest:2015-06-13 22:50:05.425159
+| -- -- -- [0sHY0PBOltw9Jw4OdDoJVVkZmJZ5k1r1] sequential 2014-11-01 01:00:00,earliest:2015-06-13 22:50:05.425247
+| -- -- -- -- [737UGcPpc8wAujIMSgoBNlgpU0aXCk6e] vertical 2015-06-13 22:50:05.425258,earliest:2015-06-13 22:50:05.425258
+| -- -- -- -- -- [UY05dLHfn8Kpn5fLHZ0kuf4s1K34I8mB] video 2015-06-13 22:50:05.425262,earliest:2015-06-13 22:50:05.425262
+| -- -- -- -- [1EPwE5cU6eY0xVBq7kXN2GoDBMRlEGB6] vertical 2015-06-13 22:50:05.425290,earliest:2015-06-13 22:50:05.425290
+| -- -- -- -- -- [e3to4lGcERZz20QBaqD0Z5WKUfipiiQb] problem 2015-06-13 22:50:05.425295,earliest:2015-06-13 22:50:05.425295
+| -- -- -- -- -- [kAsUzP98qHScYGAFuhrMXy0Dnq69i5Xp] problem 2015-06-13 22:50:05.425300,earliest:2015-06-13 22:50:05.425300
+| -- -- -- -- -- [hUfvSIrZuJA2PXBD6q3A0m6uxXS5qUJE] problem 2015-06-13 22:50:05.425305,earliest:2015-06-13 22:50:05.425305
+| -- -- -- -- -- [deuBBYDCW6UMsA5WB2dMlFIJOFfPM9hW] problem 2015-06-13 22:50:05.425310,earliest:2015-06-13 22:50:05.425310
+| -- -- -- -- [anhGN2IozecOgoOoKAAHYj5B6yNxN1rE] vertical 2015-06-13 22:50:05.425322,earliest:2015-06-13 22:50:05.425322
+| -- -- -- -- -- [sShlK4TBSHsJXu68eeKB05sJM58sCRA1] video 2015-06-13 22:50:05.425326,earliest:2015-06-13 22:50:05.425326
+| -- -- -- [Q0cZ7ng21N5GQ35Ah0zSY6QHFvvrBPbL] sequential 2014-07-14 01:00:00,earliest:2015-06-13 22:50:05.425393
+| -- -- -- -- [gpBBrSggkwRMVXVbdPwGiYUgFdjr6qwd] vertical 2015-06-13 22:50:05.425403,earliest:2015-06-13 22:50:05.425403
+| -- -- -- -- -- [L8fgnvFBYhkAG4saCJIyOsqA6KBfz7uJ] video 2015-06-13 22:50:05.425408,earliest:2015-06-13 22:50:05.425408
+| -- -- -- -- [MVwIgjFmD98wZjIS7uhLH6ONiDJDw0f0] vertical 2015-06-13 22:50:05.425419,earliest:2015-06-13 22:50:05.425419
+| -- -- -- -- -- [FsG2WNGJwXNWqdlG1fliryoo9NIyr8pK] video 2015-06-13 22:50:05.425424,earliest:2015-06-13 22:50:05.425424
+| -- -- -- -- [0cuF4rEydUS1Hwy9A9gw9tAfDLaAh1No] vertical 2015-06-13 22:50:05.425441,earliest:2015-06-13 22:50:05.425441
+| -- -- -- -- -- [TOwS811aM36CPxhyofWrIJDBFp7GKmYA] problem 2015-06-13 22:50:05.425446,earliest:2015-06-13 22:50:05.425446
+| -- -- -- -- -- [569SwVISx2tHH6XsMk64R2zWCTlIUvNn] problem 2015-06-13 22:50:05.425451,earliest:2015-06-13 22:50:05.425451
+| -- -- -- [j7mjZlB6WIEDi4o5C9CwolU6iMux82ou] sequential 2014-11-01 01:00:00,earliest:2015-06-13 22:50:05.425593
+| -- -- -- -- [2h0fX1JMvM2PYxRUWMhpQT7W8q5pO8mz] vertical 2015-06-13 22:50:05.425604,earliest:2015-06-13 22:50:05.425604
+| -- -- -- -- -- [Wd0vRSImZKWl9490q2JotmVjL3gpHKB8] video 2015-06-13 22:50:05.425608,earliest:2015-06-13 22:50:05.425608
+| -- -- -- -- [K23WoN0Ng9KZ06shx1r5zsYo1MFHyjn2] vertical 2015-06-13 22:50:05.425638,earliest:2015-06-13 22:50:05.425638
+| -- -- -- -- -- [Gfm56tTBAlpHd91SgK5O2CjezUoXs43P] problem 2015-06-13 22:50:05.425643,earliest:2015-06-13 22:50:05.425643
+| -- -- -- -- -- [vNwe9IixPcbHTlJSCKmNW6quiH4OeiWf] problem 2015-06-13 22:50:05.425648,earliest:2015-06-13 22:50:05.425648
+| -- -- -- -- -- [pJ3jCLIUuqLL0tMjRVp075pYpz4mDLb2] problem 2015-06-13 22:50:05.425653,earliest:2015-06-13 22:50:05.425653
+| -- -- -- -- -- [Y4xjUzorxDaKTyCbkoSwJpRIJsd8h1ue] problem 2015-06-13 22:50:05.425658,earliest:2015-06-13 22:50:05.425658
+| -- -- -- -- [izQDvScijAJo0dSv0CG3XepxWvESkYS7] vertical 2015-06-13 22:50:05.425670,earliest:2015-06-13 22:50:05.425670
+| -- -- -- -- -- [Y2wXKFkRRHSK4SxVYyYUvLqf51LbfpX4] video 2015-06-13 22:50:05.425675,earliest:2015-06-13 22:50:05.425675
+| -- -- -- -- [Z4V5JWrGnTtVfYjPL72nSDtxqig2kdnM] vertical 2015-06-13 22:50:05.425697,earliest:2015-06-13 22:50:05.425697
+| -- -- -- -- -- [p4L7pf1Fz4ArXVuVnAGDJ3nbuaP6bAjg] problem 2015-06-13 22:50:05.425702,earliest:2015-06-13 22:50:05.425702
+| -- -- -- -- -- [CAdnXrbBSwW1puIQcd2q0ls6K7PQDCqF] problem 2015-06-13 22:50:05.425707,earliest:2015-06-13 22:50:05.425707
+| -- -- -- -- -- [ZpKpMHBT7cmtt6nWTGVJSBgvFDnNNtZ8] problem 2015-06-13 22:50:05.425712,earliest:2015-06-13 22:50:05.425712
+| -- -- -- -- [UF1QvkBEOwCKORfvLyTZMDFlTVBhljUj] vertical 2015-06-13 22:50:05.425724,earliest:2015-06-13 22:50:05.425724
+| -- -- -- -- -- [yv5KKTcagWndtNKmZhJRahUzOfKoQTXS] video 2015-06-13 22:50:05.425729,earliest:2015-06-13 22:50:05.425729
 | -- -- -- [YrR8yJAnsmytrJIgAYbmSSbeQRLzURVW] sequential 2014-07-07 03:27:34,earliest:2014-07-07 03:27:34
 | -- -- --  >> 2014-07-07 03:27:34 from:server, event:access by :125115
-| -- -- -- -- [An0tn6Byeeinf8Ipr13kC8Uxdv1CEhAO] vertical 2015-06-08 15:45:22.120896,earliest:2015-06-08 15:45:22.120896
-| -- -- -- -- -- [2Ye20CvntOJM0BBBldVQVFbzuCeZepyj] problem 2015-06-08 15:45:22.120901,earliest:2015-06-08 15:45:22.120901
-| -- -- -- -- [qECy5alCwJYsptqSoSkN51nolkFGH1a7] vertical 2015-06-08 15:45:22.120911,earliest:2015-06-08 15:45:22.120911
-| -- -- -- -- -- [6ZRcnnnnLjexLFRu7YxAWYq6iqPzwuM2] problem 2015-06-08 15:45:22.120916,earliest:2015-06-08 15:45:22.120916
-| -- -- -- -- [eENoanla2ofgXSCQzaqYA0okIivDxXhj] vertical 2015-06-08 15:45:22.120926,earliest:2015-06-08 15:45:22.120926
-| -- -- -- -- -- [U9u9ojpwfbATLLPowXPNrH4TGwgmtYDp] problem 2015-06-08 15:45:22.120931,earliest:2015-06-08 15:45:22.120931
-| -- -- -- -- [s2208QLSuw4N1oLLT8fyRuwia8PS9jew] vertical 2015-06-08 15:45:22.120941,earliest:2015-06-08 15:45:22.120941
-| -- -- -- -- -- [0TSuyrnHh68n1FtEC6eflTeQ8jNg0LgQ] problem 2015-06-08 15:45:22.120946,earliest:2015-06-08 15:45:22.120946
-| -- -- -- -- [uCQxzbEWq2tmsDY1RQ6m4UVNZkZ3lP6q] vertical 2015-06-08 15:45:22.120956,earliest:2015-06-08 15:45:22.120956
-| -- -- -- -- -- [PmJjjagcOmqZgqlinq6lqetRjztYmY0i] problem 2015-06-08 15:45:22.120961,earliest:2015-06-08 15:45:22.120961
-| -- -- -- -- [ScW277SWXY2wASZqAUVbVkMdA0OqWwLh] vertical 2015-06-08 15:45:22.120972,earliest:2015-06-08 15:45:22.120972
-| -- -- -- -- -- [0QnQADSKhgfjsdDsnw2l28TXaUnwAfuR] problem 2015-06-08 15:45:22.120976,earliest:2015-06-08 15:45:22.120976
-| -- -- -- -- [wzfcFrWKqOndWa1MDiIahQ9iGoXptlMe] vertical 2015-06-08 15:45:22.120986,earliest:2015-06-08 15:45:22.120986
-| -- -- -- -- -- [oVeHXjFy75KILkgIT8diQuLjs5dPbsV8] problem 2015-06-08 15:45:22.120991,earliest:2015-06-08 15:45:22.120991
-| -- -- -- -- [zje2pMumUIvsJM51n4MpGOUpnhYmA0pb] vertical 2015-06-08 15:45:22.121001,earliest:2015-06-08 15:45:22.121001
-| -- -- -- -- -- [G0WipOIb6lcfBbDIJ5KdKYlEA8WqYCci] problem 2015-06-08 15:45:22.121006,earliest:2015-06-08 15:45:22.121006
-| -- -- [kZ50vL4O15EJ2FIkMBqnKy80mi2xZLQc] chapter 2014-08-25 01:00:00,earliest:2015-06-08 15:45:22.122135
-| -- -- -- [Wb4rM85N1QqiP7yXXU1BS5lxZ4nJbwiz] sequential 2014-08-25 01:00:00,earliest:2015-06-08 15:45:22.122261
-| -- -- -- -- [ARp1SyORnEk4MvGFg5bkr1uzA89xd7gW] vertical 2015-06-08 15:45:22.122270,earliest:2015-06-08 15:45:22.122270
-| -- -- -- -- -- [8gq57wiXaGuZGDtcRKS1raOPiNje0QF6] problem 2015-06-08 15:45:22.122275,earliest:2015-06-08 15:45:22.122275
-| -- -- -- -- [NqzgbhPUTWakNXKilKJBWbCKp1ivg8ha] vertical 2015-06-08 15:45:22.122285,earliest:2015-06-08 15:45:22.122285
-| -- -- -- -- -- [6Z3UF2ErGBUsgRcfiBferEfLfNnmVNQC] problem 2015-06-08 15:45:22.122290,earliest:2015-06-08 15:45:22.122290
-| -- -- -- -- [DcgBVHIjO7LVrTavJbBuhPOPWXTjZtXk] vertical 2015-06-08 15:45:22.122301,earliest:2015-06-08 15:45:22.122301
-| -- -- -- -- -- [5HO2s4F0IRcydKLs3l9noXqagLs9BYTe] problem 2015-06-08 15:45:22.122305,earliest:2015-06-08 15:45:22.122305
-| -- -- -- -- [pxZWnVDqY8pXbsBhG5IMIlyDJRhF34II] vertical 2015-06-08 15:45:22.122316,earliest:2015-06-08 15:45:22.122316
-| -- -- -- -- -- [gY73XZKV5emgaWsuzrTZgP4GaohSCPog] video 2015-06-08 15:45:22.122320,earliest:2015-06-08 15:45:22.122320
-| -- -- -- -- [ASutOoMq3HKokgoOTFnlM7ajlLy7DHDP] vertical 2015-06-08 15:45:22.122331,earliest:2015-06-08 15:45:22.122331
-| -- -- -- -- -- [CHz41ZsyY0L3Hktxs1STXbHsojUQNIdt] video 2015-06-08 15:45:22.122335,earliest:2015-06-08 15:45:22.122335
-| -- -- -- -- [hbMLPIv0dMvTw5qHcad3COOEUkrROHwx] vertical 2015-06-08 15:45:22.122346,earliest:2015-06-08 15:45:22.122346
-| -- -- -- -- -- [0lL9Y9P9aCqvyJqUoo0HAv9XBXf1Cms9] video 2015-06-08 15:45:22.122350,earliest:2015-06-08 15:45:22.122350
-| -- -- -- -- [akf7jPyl4D920j7UJgrbdwLKLskKMthW] vertical 2015-06-08 15:45:22.122361,earliest:2015-06-08 15:45:22.122361
-| -- -- -- -- -- [F0dN4vrPkXIhHx68zUREiE4wZugoiggP] problem 2015-06-08 15:45:22.122366,earliest:2015-06-08 15:45:22.122366
-| -- -- -- -- [8G8yZ7BIJwwhFDG1sBDCFZVtvWOjeoGK] vertical 2015-06-08 15:45:22.122376,earliest:2015-06-08 15:45:22.122376
-| -- -- -- -- -- [r8cnVP2Xyr8XBal0rK067lo1EiL4Qq0C] problem 2015-06-08 15:45:22.122381,earliest:2015-06-08 15:45:22.122381
-| -- -- -- [O0NzJJGqx31xIKhsy43UnI3z6gqliMxC] sequential 2014-08-25 01:00:00,earliest:2015-06-08 15:45:22.122493
-| -- -- -- -- [TLmUPVKkuKNktj3cH7KOjlhvR1v8lBHG] vertical 2015-06-08 15:45:22.122503,earliest:2015-06-08 15:45:22.122503
-| -- -- -- -- -- [6AqQHIpYuz3MzHrSeZkYLxQVcIoF93A0] video 2015-06-08 15:45:22.122507,earliest:2015-06-08 15:45:22.122507
-| -- -- -- -- [nrVLbs4IN316IxaTU4iD8CVwpF3ynVDJ] vertical 2015-06-08 15:45:22.122518,earliest:2015-06-08 15:45:22.122518
-| -- -- -- -- -- [O7fNuaxGyZbu1MqR32zAhGO9Ph6r9b4V] video 2015-06-08 15:45:22.122522,earliest:2015-06-08 15:45:22.122522
-| -- -- -- -- [2pR16Xkj801tHvaixF1aK1d8eGako2qR] vertical 2015-06-08 15:45:22.122533,earliest:2015-06-08 15:45:22.122533
-| -- -- -- -- -- [e2EnAgPjvuz3Glo1FUFhglVnZ8a36Nka] problem 2015-06-08 15:45:22.122538,earliest:2015-06-08 15:45:22.122538
-| -- -- -- -- [GsswghwFZzGrwQ6siO5YqxFKoaosmfG2] vertical 2015-06-08 15:45:22.122548,earliest:2015-06-08 15:45:22.122548
-| -- -- -- -- -- [DTD0WUwRSrGtmjZ1QY3PTAm2GE7zuWMQ] video 2015-06-08 15:45:22.122553,earliest:2015-06-08 15:45:22.122553
-| -- -- -- -- [ppxNCOQuJEeixLpfomMFrGFEbDVDdzi9] vertical 2015-06-08 15:45:22.122563,earliest:2015-06-08 15:45:22.122563
-| -- -- -- -- -- [Vba0eU5aS5UMyJVXu54x9Tza3MqRBPkt] video 2015-06-08 15:45:22.122568,earliest:2015-06-08 15:45:22.122568
-| -- -- -- -- [7udtYRKB22YnRzPEgmxWzhmAcUpqS9KS] vertical 2015-06-08 15:45:22.122578,earliest:2015-06-08 15:45:22.122578
-| -- -- -- -- -- [IDAB4Z4JSmJ4TMMyQBy1nXhPm3e0lGVn] problem 2015-06-08 15:45:22.122583,earliest:2015-06-08 15:45:22.122583
-| -- -- -- -- [PG8ESM7DaAKUYKmRihDNRhQCmNHTIVV8] vertical 2015-06-08 15:45:22.122593,earliest:2015-06-08 15:45:22.122593
-| -- -- -- -- -- [4UnM7HD6O1JTgPxN4FXEZJvAvRiMQUEa] video 2015-06-08 15:45:22.122598,earliest:2015-06-08 15:45:22.122598
-| -- -- -- [XyKwlZ2gdUOYb8JbPaXQtRnp5NnDD5cH] sequential 2014-08-25 01:00:00,earliest:2015-06-08 15:45:22.122710
-| -- -- -- -- [cTtizEs35a8VR42e686RGykgPF0H8G2X] vertical 2015-06-08 15:45:22.122719,earliest:2015-06-08 15:45:22.122719
-| -- -- -- -- -- [tuuLmpR7KrzfIwnHN7XbxMlI7xnsSLG5] problem 2015-06-08 15:45:22.122724,earliest:2015-06-08 15:45:22.122724
-| -- -- -- -- [ecUYCc7NXQZOmFcREUZiXOfywn3SUIvy] vertical 2015-06-08 15:45:22.122734,earliest:2015-06-08 15:45:22.122734
-| -- -- -- -- -- [11yxtOfzKtUDOIiWscvDXltFirjMludb] problem 2015-06-08 15:45:22.122739,earliest:2015-06-08 15:45:22.122739
-| -- -- -- -- [oBIDmeILnT3kLt3DgComz12dThcssd0i] vertical 2015-06-08 15:45:22.122750,earliest:2015-06-08 15:45:22.122750
-| -- -- -- -- -- [I1IwnROkyUNGYjfpQ6bilH7fpSspa3df] problem 2015-06-08 15:45:22.122754,earliest:2015-06-08 15:45:22.122754
-| -- -- -- -- [ttKj5XCCfTAGE2oLl1EF8JUCCCiH1klk] vertical 2015-06-08 15:45:22.122765,earliest:2015-06-08 15:45:22.122765
-| -- -- -- -- -- [MhIRn8hp6YZqcoePPTxmBxoItIvmUGr2] problem 2015-06-08 15:45:22.122769,earliest:2015-06-08 15:45:22.122769
-| -- -- -- -- [wJc0fUdt4mORrZhfzMKdcTFgoXF8sFKe] vertical 2015-06-08 15:45:22.122779,earliest:2015-06-08 15:45:22.122779
-| -- -- -- -- -- [Q9i6UowoZvgkPZC3IZQuEmFYvBfLKdRg] problem 2015-06-08 15:45:22.122784,earliest:2015-06-08 15:45:22.122784
-| -- -- -- -- [0t6eBWrW5oy0EWkhuBBCzlvx0VXKKBlb] vertical 2015-06-08 15:45:22.122794,earliest:2015-06-08 15:45:22.122794
-| -- -- -- -- -- [otuAY8W2nSSZKPz9nUw7soMfY6C3ovbJ] problem 2015-06-08 15:45:22.122799,earliest:2015-06-08 15:45:22.122799
-| -- -- -- -- [BMRwsIp0NZZHxZhnnyS5WENQ3MS5mHaX] vertical 2015-06-08 15:45:22.122810,earliest:2015-06-08 15:45:22.122810
-| -- -- -- -- -- [yZQg9kZ3d0RwgwnnLQtP86HTfizgxmyR] problem 2015-06-08 15:45:22.122814,earliest:2015-06-08 15:45:22.122814
-| -- -- -- [ZCW9hri8yHDOZBCGqV0RYh9YDyUvRUMV] sequential 2014-08-25 01:00:00,earliest:2015-06-08 15:45:22.122978
-| -- -- -- -- [hEsFuVgq1lrWd6nblydiONjsKtGssOfx] vertical 2015-06-08 15:45:22.122995,earliest:2015-06-08 15:45:22.122995
-| -- -- -- -- -- [pLb86r6XkLGobguvSrbXtA2dCmRu8dq1] video 2015-06-08 15:45:22.123003,earliest:2015-06-08 15:45:22.123003
-| -- -- -- -- [Ic4Ycxc2kWk7tKOX0OVGes9LkPM8fP7R] vertical 2015-06-08 15:45:22.123021,earliest:2015-06-08 15:45:22.123021
-| -- -- -- -- -- [6GP0AmzX4EnjVdsWXPFN5LnkVc5FjniU] problem 2015-06-08 15:45:22.123029,earliest:2015-06-08 15:45:22.123029
-| -- -- -- -- [PZjXvtGZ0hVfEkmcJr9wqLQyHMpILiIL] vertical 2015-06-08 15:45:22.123060,earliest:2015-06-08 15:45:22.123060
-| -- -- -- -- -- [D4LRgei64xopHg9nfdTfd62bC4IxcyWZ] video 2015-06-08 15:45:22.123067,earliest:2015-06-08 15:45:22.123067
-| -- -- -- -- [uCFDBXc9WXmxExBtHBzVvFXvTFhrODeg] vertical 2015-06-08 15:45:22.123085,earliest:2015-06-08 15:45:22.123085
-| -- -- -- -- -- [x8diPOaoF3PiTyVBtx1NkUbkrVpBwzqH] problem 2015-06-08 15:45:22.123092,earliest:2015-06-08 15:45:22.123092
-| -- -- -- -- [oLIeaq067PJuktqVRoYQvNJ87RoIm3FS] vertical 2015-06-08 15:45:22.123110,earliest:2015-06-08 15:45:22.123110
-| -- -- -- -- -- [8xpCwzDwT7HEmdEJJUZuRTpF6joomI6f] video 2015-06-08 15:45:22.123118,earliest:2015-06-08 15:45:22.123118
-| -- -- -- -- [7k4xnrwCwHCIwBFFfjci2P6jQjUfvndG] vertical 2015-06-08 15:45:22.123135,earliest:2015-06-08 15:45:22.123135
-| -- -- -- -- -- [TMiWlToLQFmiJsWfLcniZFgoZPPW8h8n] video 2015-06-08 15:45:22.123143,earliest:2015-06-08 15:45:22.123143
-| -- -- -- [lPEWkO81ZW0bn9l0QWDfRijxlEFM4B9U] sequential 2014-08-25 01:00:00,earliest:2015-06-08 15:45:22.123336
-| -- -- -- -- [ff3k5kXIgHHoWTYZmcyc7KAccMc2fB5K] vertical 2015-06-08 15:45:22.123352,earliest:2015-06-08 15:45:22.123352
-| -- -- -- -- -- [fLbGY8MlSnJN5ixFG2R4BO5M7aHssvMU] video 2015-06-08 15:45:22.123360,earliest:2015-06-08 15:45:22.123360
-| -- -- -- -- [dxn01jMtsToDtZslnjagOv6t270YY8LO] vertical 2015-06-08 15:45:22.123378,earliest:2015-06-08 15:45:22.123378
-| -- -- -- -- -- [7mObm3HCK5daygwFH2f8YmxpX0pP5roY] video 2015-06-08 15:45:22.123386,earliest:2015-06-08 15:45:22.123386
-| -- -- -- -- [f7ZK4Qm1CQC3tgxJJwyKhytlgyyEf587] vertical 2015-06-08 15:45:22.123404,earliest:2015-06-08 15:45:22.123404
-| -- -- -- -- -- [5e7xsHDswwMExvhEv12qqoORWK6pEYWa] problem 2015-06-08 15:45:22.123412,earliest:2015-06-08 15:45:22.123412
-| -- -- -- -- [SCzfrP6Rdrmtj6v76HE4JJOgkBoY3sr1] vertical 2015-06-08 15:45:22.123430,earliest:2015-06-08 15:45:22.123430
-| -- -- -- -- -- [3NxUnC6QaXuhZCJUkKKncL73WF8Fqzff] video 2015-06-08 15:45:22.123437,earliest:2015-06-08 15:45:22.123437
-| -- -- -- -- [ImPTM81e9hCujggW4JX43Toch63bff9Y] vertical 2015-06-08 15:45:22.123455,earliest:2015-06-08 15:45:22.123455
-| -- -- -- -- -- [NBSGQgaS68lGptyDffQBe5mlSURyoaRv] problem 2015-06-08 15:45:22.123463,earliest:2015-06-08 15:45:22.123463
-| -- -- -- -- [lBItUcrJaNEdtso86xlP1GsgrsKIe3lz] vertical 2015-06-08 15:45:22.123481,earliest:2015-06-08 15:45:22.123481
-| -- -- -- -- -- [0ko3G0bzA1g0r5RF5aDjwCInqipCKmHC] video 2015-06-08 15:45:22.123489,earliest:2015-06-08 15:45:22.123489
-| -- -- -- -- [CmJOvnd1uaCvGlEjWAZXGTq9PDXr0fFL] vertical 2015-06-08 15:45:22.123507,earliest:2015-06-08 15:45:22.123507
-| -- -- -- -- -- [HVA4AhlVlda3YY6fid86s6wPqqkSycka] problem 2015-06-08 15:45:22.123514,earliest:2015-06-08 15:45:22.123514
-| -- -- [MkQH8B3OTHRT3PjqEBNfmuSge78czxVX] chapter 2014-08-18 01:00:00,earliest:2015-06-08 15:45:22.125081
-| -- -- -- [fhV2nM4CqzKKmmPtEawhTqXaQgwuFPlz] sequential 2014-08-18 01:00:00,earliest:2015-06-08 15:45:22.125156
-| -- -- -- -- [DEjRgCQLpjCAOffe4BUxIU0b53h5amLy] vertical 2015-06-08 15:45:22.125170,earliest:2015-06-08 15:45:22.125170
-| -- -- -- -- -- [mysCIqKkwjZyyW1XT6TT6Zo8vefG9F8o] video 2015-06-08 15:45:22.125176,earliest:2015-06-08 15:45:22.125176
-| -- -- -- -- [WbXoBOS7MOSEaawvaf1BdeY25WBD2Ybg] vertical 2015-06-08 15:45:22.125215,earliest:2015-06-08 15:45:22.125215
-| -- -- -- -- -- [Nb1EDZrRiCr75I41fs6k3baLAYsZc8Qi] problem 2015-06-08 15:45:22.125221,earliest:2015-06-08 15:45:22.125221
-| -- -- -- -- -- [S3nGoXttul2dDTS9AY1dMtdLdy3CiKWK] problem 2015-06-08 15:45:22.125226,earliest:2015-06-08 15:45:22.125226
-| -- -- -- -- -- [6qyEmDnDwwBgRNFyqKLCcAGAAKMHepsT] problem 2015-06-08 15:45:22.125232,earliest:2015-06-08 15:45:22.125232
-| -- -- -- [75ljHSsgcddyPPxHheSZbc5frWlgB3Fg] sequential 2014-08-18 01:00:00,earliest:2015-06-08 15:45:22.125276
-| -- -- -- -- [QvUYrauNiWqH9ugGI79jMjGZMRS3e5Cp] vertical 2015-06-08 15:45:22.125287,earliest:2015-06-08 15:45:22.125287
-| -- -- -- -- -- [nAtcrSsBOIo950M00h46qln07AK6O0K3] problem 2015-06-08 15:45:22.125293,earliest:2015-06-08 15:45:22.125293
-| -- -- -- -- [LxfyyfZuTCSk6oUeEN8oXtGYYZb4F19X] vertical 2015-06-08 15:45:22.125305,earliest:2015-06-08 15:45:22.125305
-| -- -- -- -- -- [C2gJq7JOoOvTjETwW5v2r0l5yqDlMNBA] video 2015-06-08 15:45:22.125310,earliest:2015-06-08 15:45:22.125310
-| -- -- -- [PPhIfvuAiFAUR6UvLSm7do5ScbKKyf1h] sequential 2014-08-18 01:00:00,earliest:2015-06-08 15:45:22.125366
-| -- -- -- -- [UYPgPYc5AIb7pHHx7kiRivf0UuAQQeWo] vertical 2015-06-08 15:45:22.125383,earliest:2015-06-08 15:45:22.125383
-| -- -- -- -- -- [sJj6QNtWPgC7Dpvz5bwbDFxa7LuU3JRD] problem 2015-06-08 15:45:22.125388,earliest:2015-06-08 15:45:22.125388
-| -- -- -- -- -- [pWvTNFxbg30fa3BeAtMT57tDyDGxANRF] problem 2015-06-08 15:45:22.125394,earliest:2015-06-08 15:45:22.125394
-| -- -- -- -- [m7hsxVonH4Mogj9sQwrZWCxeQHVOYYFp] vertical 2015-06-08 15:45:22.125406,earliest:2015-06-08 15:45:22.125406
-| -- -- -- -- -- [AdXHgzRvfwE4nug576jCEaOr4OBuPH8v] video 2015-06-08 15:45:22.125412,earliest:2015-06-08 15:45:22.125412
-| -- -- -- [1G3WQNNCUqRToBEcAGz3dg8Pq6KbMejN] sequential 2014-08-18 01:00:00,earliest:2015-06-08 15:45:22.125515
-| -- -- -- -- [X3mh3Ngth0uah2zIWK1m7jsfTUgvZ3WD] vertical 2015-06-08 15:45:22.125537,earliest:2015-06-08 15:45:22.125537
-| -- -- -- -- -- [i0WcpB9xBNp72CCxjwq1HyqS78cTSNs7] problem 2015-06-08 15:45:22.125543,earliest:2015-06-08 15:45:22.125543
-| -- -- -- -- -- [zfIqYnY9uqCIfKitPLTkZw3ejtCKCfAQ] problem 2015-06-08 15:45:22.125548,earliest:2015-06-08 15:45:22.125548
-| -- -- -- -- -- [zgRJ9ZewbPWq0eeVyCrUyaez52Kjwhtj] problem 2015-06-08 15:45:22.125554,earliest:2015-06-08 15:45:22.125554
-| -- -- -- -- [D7KxMGMB3aFghbshTIdCSGDzF4ZdT7rV] vertical 2015-06-08 15:45:22.125567,earliest:2015-06-08 15:45:22.125567
-| -- -- -- -- -- [HgM2FXs8aF5xEtTDgJ4V195OMSkeg6CO] video 2015-06-08 15:45:22.125572,earliest:2015-06-08 15:45:22.125572
-| -- -- -- -- [ICORTxENU4WxXvNkhSiIyl50fpn3xOzQ] vertical 2015-06-08 15:45:22.125585,earliest:2015-06-08 15:45:22.125585
-| -- -- -- -- -- [6xkPshf5NZcA5MgmjYbxFYbJj2jR7YvK] video 2015-06-08 15:45:22.125590,earliest:2015-06-08 15:45:22.125590
-| -- -- -- -- [zxf4TcHHnr0tGXspwAY8PxdXE8tgyIYP] vertical 2015-06-08 15:45:22.125602,earliest:2015-06-08 15:45:22.125602
-| -- -- -- -- -- [afvooFl3yfvUM8PrbBENXzaBDyFgo4fd] video 2015-06-08 15:45:22.125608,earliest:2015-06-08 15:45:22.125608
-| -- -- -- [XmmvBjkZ1UHUQy3XrTzPhF64G8kMSYW2] sequential 2014-08-18 01:00:00,earliest:2015-06-08 15:45:22.125710
-| -- -- -- -- [HFQtCTShpNqyM2OCV1kRQqDNpqYVwbrZ] vertical 2015-06-08 15:45:22.125722,earliest:2015-06-08 15:45:22.125722
-| -- -- -- -- -- [Lnd8tw8e4fzUWZfglQ1urMEKcSPY8aiP] video 2015-06-08 15:45:22.125727,earliest:2015-06-08 15:45:22.125727
-| -- -- -- -- [eZQxooPr94qPeavgSxA1FxyiAs17pRgN] vertical 2015-06-08 15:45:22.125751,earliest:2015-06-08 15:45:22.125751
-| -- -- -- -- -- [WCk9nXxdhvNd8BE9kbrNjgAq9MUuCcWs] problem 2015-06-08 15:45:22.125757,earliest:2015-06-08 15:45:22.125757
-| -- -- -- -- -- [xwSOcxbOtkuSB6yMiGF0lW1BdcveAJjM] problem 2015-06-08 15:45:22.125762,earliest:2015-06-08 15:45:22.125762
-| -- -- -- -- -- [8qBTuUkNELDhWbECp3ftwSpDv3RtPbtK] problem 2015-06-08 15:45:22.125768,earliest:2015-06-08 15:45:22.125768
-| -- -- -- -- [gNU7S8i7Dm9xBMnGwB9muh4sjnnE0bfM] vertical 2015-06-08 15:45:22.125780,earliest:2015-06-08 15:45:22.125780
-| -- -- -- -- -- [oJkqao4tNiU1CeqEjiEnwJnssG3QD4Wd] video 2015-06-08 15:45:22.125786,earliest:2015-06-08 15:45:22.125786
-| -- -- -- -- [c0qWeJvRb7ksKEqsfzh7d3r6RH6CbTv3] vertical 2015-06-08 15:45:22.125798,earliest:2015-06-08 15:45:22.125798
-| -- -- -- -- -- [FkuBQaZaqxdjlJC1N0r4T8EFLa3adVXD] video 2015-06-08 15:45:22.125804,earliest:2015-06-08 15:45:22.125804
-| -- -- -- [FkuopZvHpxoLRDtP4WAQdRk39HaFhN8q] sequential 2014-08-18 01:00:00,earliest:2015-06-08 15:45:22.125937
-| -- -- -- -- [xIKlcL62I9sXdeNgDQ4kzqq2Hbamzd1h] vertical 2015-06-08 15:45:22.125948,earliest:2015-06-08 15:45:22.125948
-| -- -- -- -- -- [9qIBnoWJqI9ec66VIjri7HKFLRMDi53G] problem 2015-06-08 15:45:22.125953,earliest:2015-06-08 15:45:22.125953
-| -- -- -- -- [lFCorQZj6fC1Kij3P8F5kpCBI2L4OZHY] vertical 2015-06-08 15:45:22.125966,earliest:2015-06-08 15:45:22.125966
-| -- -- -- -- -- [yl0ZsRBB5zRLDJUsmCWRKRrGQ6QasPdp] problem 2015-06-08 15:45:22.125971,earliest:2015-06-08 15:45:22.125971
-| -- -- -- -- [L1eGUopLT04XUIFjuccmvHHFlhhvrJH7] vertical 2015-06-08 15:45:22.125984,earliest:2015-06-08 15:45:22.125984
-| -- -- -- -- -- [m0Mjyiii2ldEC48LuDogKZFMiv8qbsju] problem 2015-06-08 15:45:22.125989,earliest:2015-06-08 15:45:22.125989
-| -- -- -- -- [7kcwJ5hCJWKDrRA07dVyZnoGIaHS6j7o] vertical 2015-06-08 15:45:22.126002,earliest:2015-06-08 15:45:22.126002
-| -- -- -- -- -- [0AtMZgVdpQjPWe46C9pUP3Ib6o2NaiCx] problem 2015-06-08 15:45:22.126007,earliest:2015-06-08 15:45:22.126007
-| -- -- -- -- [TCIFr5y5zrtlxrJUO7R6bbKQOLQqi9CJ] vertical 2015-06-08 15:45:22.126019,earliest:2015-06-08 15:45:22.126019
-| -- -- -- -- -- [o1AkcIn6OszDqdYFTmvA8TCyJJNPYP17] problem 2015-06-08 15:45:22.126025,earliest:2015-06-08 15:45:22.126025
-| -- -- -- -- [UEHvQl52I1lcecZ1zcMeEuu0rwwEE3U7] vertical 2015-06-08 15:45:22.126037,earliest:2015-06-08 15:45:22.126037
-| -- -- -- -- -- [UWU8pDu8vtWqH40KjHHBhR0p6GA1vhYu] problem 2015-06-08 15:45:22.126042,earliest:2015-06-08 15:45:22.126042
-| -- -- -- -- [i7IpR7CrZmnnQFcei9Lj4emsEKpoR1Sm] vertical 2015-06-08 15:45:22.126055,earliest:2015-06-08 15:45:22.126055
-| -- -- -- -- -- [aNEvFZgdZzfSNHl2ZW1B6Viqk5I96dU5] problem 2015-06-08 15:45:22.126060,earliest:2015-06-08 15:45:22.126060
+| -- -- -- -- [An0tn6Byeeinf8Ipr13kC8Uxdv1CEhAO] vertical 2015-06-13 22:50:05.425878,earliest:2015-06-13 22:50:05.425878
+| -- -- -- -- -- [2Ye20CvntOJM0BBBldVQVFbzuCeZepyj] problem 2015-06-13 22:50:05.425883,earliest:2015-06-13 22:50:05.425883
+| -- -- -- -- [qECy5alCwJYsptqSoSkN51nolkFGH1a7] vertical 2015-06-13 22:50:05.425895,earliest:2015-06-13 22:50:05.425895
+| -- -- -- -- -- [6ZRcnnnnLjexLFRu7YxAWYq6iqPzwuM2] problem 2015-06-13 22:50:05.425899,earliest:2015-06-13 22:50:05.425899
+| -- -- -- -- [eENoanla2ofgXSCQzaqYA0okIivDxXhj] vertical 2015-06-13 22:50:05.425910,earliest:2015-06-13 22:50:05.425910
+| -- -- -- -- -- [U9u9ojpwfbATLLPowXPNrH4TGwgmtYDp] problem 2015-06-13 22:50:05.425915,earliest:2015-06-13 22:50:05.425915
+| -- -- -- -- [s2208QLSuw4N1oLLT8fyRuwia8PS9jew] vertical 2015-06-13 22:50:05.425926,earliest:2015-06-13 22:50:05.425926
+| -- -- -- -- -- [0TSuyrnHh68n1FtEC6eflTeQ8jNg0LgQ] problem 2015-06-13 22:50:05.425931,earliest:2015-06-13 22:50:05.425931
+| -- -- -- -- [uCQxzbEWq2tmsDY1RQ6m4UVNZkZ3lP6q] vertical 2015-06-13 22:50:05.425943,earliest:2015-06-13 22:50:05.425943
+| -- -- -- -- -- [PmJjjagcOmqZgqlinq6lqetRjztYmY0i] problem 2015-06-13 22:50:05.425947,earliest:2015-06-13 22:50:05.425947
+| -- -- -- -- [ScW277SWXY2wASZqAUVbVkMdA0OqWwLh] vertical 2015-06-13 22:50:05.425959,earliest:2015-06-13 22:50:05.425959
+| -- -- -- -- -- [0QnQADSKhgfjsdDsnw2l28TXaUnwAfuR] problem 2015-06-13 22:50:05.425964,earliest:2015-06-13 22:50:05.425964
+| -- -- -- -- [wzfcFrWKqOndWa1MDiIahQ9iGoXptlMe] vertical 2015-06-13 22:50:05.425975,earliest:2015-06-13 22:50:05.425975
+| -- -- -- -- -- [oVeHXjFy75KILkgIT8diQuLjs5dPbsV8] problem 2015-06-13 22:50:05.425980,earliest:2015-06-13 22:50:05.425980
+| -- -- -- -- [zje2pMumUIvsJM51n4MpGOUpnhYmA0pb] vertical 2015-06-13 22:50:05.425991,earliest:2015-06-13 22:50:05.425991
+| -- -- -- -- -- [G0WipOIb6lcfBbDIJ5KdKYlEA8WqYCci] problem 2015-06-13 22:50:05.425996,earliest:2015-06-13 22:50:05.425996
+| -- -- [kZ50vL4O15EJ2FIkMBqnKy80mi2xZLQc] chapter 2014-08-25 01:00:00,earliest:2015-06-13 22:50:05.427195
+| -- -- -- [Wb4rM85N1QqiP7yXXU1BS5lxZ4nJbwiz] sequential 2014-08-25 01:00:00,earliest:2015-06-13 22:50:05.427331
+| -- -- -- -- [ARp1SyORnEk4MvGFg5bkr1uzA89xd7gW] vertical 2015-06-13 22:50:05.427342,earliest:2015-06-13 22:50:05.427342
+| -- -- -- -- -- [8gq57wiXaGuZGDtcRKS1raOPiNje0QF6] problem 2015-06-13 22:50:05.427346,earliest:2015-06-13 22:50:05.427346
+| -- -- -- -- [NqzgbhPUTWakNXKilKJBWbCKp1ivg8ha] vertical 2015-06-13 22:50:05.427358,earliest:2015-06-13 22:50:05.427358
+| -- -- -- -- -- [6Z3UF2ErGBUsgRcfiBferEfLfNnmVNQC] problem 2015-06-13 22:50:05.427363,earliest:2015-06-13 22:50:05.427363
+| -- -- -- -- [DcgBVHIjO7LVrTavJbBuhPOPWXTjZtXk] vertical 2015-06-13 22:50:05.427374,earliest:2015-06-13 22:50:05.427374
+| -- -- -- -- -- [5HO2s4F0IRcydKLs3l9noXqagLs9BYTe] problem 2015-06-13 22:50:05.427379,earliest:2015-06-13 22:50:05.427379
+| -- -- -- -- [pxZWnVDqY8pXbsBhG5IMIlyDJRhF34II] vertical 2015-06-13 22:50:05.427391,earliest:2015-06-13 22:50:05.427391
+| -- -- -- -- -- [gY73XZKV5emgaWsuzrTZgP4GaohSCPog] video 2015-06-13 22:50:05.427395,earliest:2015-06-13 22:50:05.427395
+| -- -- -- -- [ASutOoMq3HKokgoOTFnlM7ajlLy7DHDP] vertical 2015-06-13 22:50:05.427407,earliest:2015-06-13 22:50:05.427407
+| -- -- -- -- -- [CHz41ZsyY0L3Hktxs1STXbHsojUQNIdt] video 2015-06-13 22:50:05.427412,earliest:2015-06-13 22:50:05.427412
+| -- -- -- -- [hbMLPIv0dMvTw5qHcad3COOEUkrROHwx] vertical 2015-06-13 22:50:05.427423,earliest:2015-06-13 22:50:05.427423
+| -- -- -- -- -- [0lL9Y9P9aCqvyJqUoo0HAv9XBXf1Cms9] video 2015-06-13 22:50:05.427428,earliest:2015-06-13 22:50:05.427428
+| -- -- -- -- [akf7jPyl4D920j7UJgrbdwLKLskKMthW] vertical 2015-06-13 22:50:05.427440,earliest:2015-06-13 22:50:05.427440
+| -- -- -- -- -- [F0dN4vrPkXIhHx68zUREiE4wZugoiggP] problem 2015-06-13 22:50:05.427445,earliest:2015-06-13 22:50:05.427445
+| -- -- -- -- [8G8yZ7BIJwwhFDG1sBDCFZVtvWOjeoGK] vertical 2015-06-13 22:50:05.427456,earliest:2015-06-13 22:50:05.427456
+| -- -- -- -- -- [r8cnVP2Xyr8XBal0rK067lo1EiL4Qq0C] problem 2015-06-13 22:50:05.427461,earliest:2015-06-13 22:50:05.427461
+| -- -- -- [O0NzJJGqx31xIKhsy43UnI3z6gqliMxC] sequential 2014-08-25 01:00:00,earliest:2015-06-13 22:50:05.427583
+| -- -- -- -- [TLmUPVKkuKNktj3cH7KOjlhvR1v8lBHG] vertical 2015-06-13 22:50:05.427593,earliest:2015-06-13 22:50:05.427593
+| -- -- -- -- -- [6AqQHIpYuz3MzHrSeZkYLxQVcIoF93A0] video 2015-06-13 22:50:05.427598,earliest:2015-06-13 22:50:05.427598
+| -- -- -- -- [nrVLbs4IN316IxaTU4iD8CVwpF3ynVDJ] vertical 2015-06-13 22:50:05.427609,earliest:2015-06-13 22:50:05.427609
+| -- -- -- -- -- [O7fNuaxGyZbu1MqR32zAhGO9Ph6r9b4V] video 2015-06-13 22:50:05.427614,earliest:2015-06-13 22:50:05.427614
+| -- -- -- -- [2pR16Xkj801tHvaixF1aK1d8eGako2qR] vertical 2015-06-13 22:50:05.427626,earliest:2015-06-13 22:50:05.427626
+| -- -- -- -- -- [e2EnAgPjvuz3Glo1FUFhglVnZ8a36Nka] problem 2015-06-13 22:50:05.427631,earliest:2015-06-13 22:50:05.427631
+| -- -- -- -- [GsswghwFZzGrwQ6siO5YqxFKoaosmfG2] vertical 2015-06-13 22:50:05.427642,earliest:2015-06-13 22:50:05.427642
+| -- -- -- -- -- [DTD0WUwRSrGtmjZ1QY3PTAm2GE7zuWMQ] video 2015-06-13 22:50:05.427647,earliest:2015-06-13 22:50:05.427647
+| -- -- -- -- [ppxNCOQuJEeixLpfomMFrGFEbDVDdzi9] vertical 2015-06-13 22:50:05.427659,earliest:2015-06-13 22:50:05.427659
+| -- -- -- -- -- [Vba0eU5aS5UMyJVXu54x9Tza3MqRBPkt] video 2015-06-13 22:50:05.427664,earliest:2015-06-13 22:50:05.427664
+| -- -- -- -- [7udtYRKB22YnRzPEgmxWzhmAcUpqS9KS] vertical 2015-06-13 22:50:05.427675,earliest:2015-06-13 22:50:05.427675
+| -- -- -- -- -- [IDAB4Z4JSmJ4TMMyQBy1nXhPm3e0lGVn] problem 2015-06-13 22:50:05.427680,earliest:2015-06-13 22:50:05.427680
+| -- -- -- -- [PG8ESM7DaAKUYKmRihDNRhQCmNHTIVV8] vertical 2015-06-13 22:50:05.427692,earliest:2015-06-13 22:50:05.427692
+| -- -- -- -- -- [4UnM7HD6O1JTgPxN4FXEZJvAvRiMQUEa] video 2015-06-13 22:50:05.427697,earliest:2015-06-13 22:50:05.427697
+| -- -- -- [XyKwlZ2gdUOYb8JbPaXQtRnp5NnDD5cH] sequential 2014-08-25 01:00:00,earliest:2015-06-13 22:50:05.427827
+| -- -- -- -- [cTtizEs35a8VR42e686RGykgPF0H8G2X] vertical 2015-06-13 22:50:05.427836,earliest:2015-06-13 22:50:05.427836
+| -- -- -- -- -- [tuuLmpR7KrzfIwnHN7XbxMlI7xnsSLG5] problem 2015-06-13 22:50:05.427840,earliest:2015-06-13 22:50:05.427840
+| -- -- -- -- [ecUYCc7NXQZOmFcREUZiXOfywn3SUIvy] vertical 2015-06-13 22:50:05.427850,earliest:2015-06-13 22:50:05.427850
+| -- -- -- -- -- [11yxtOfzKtUDOIiWscvDXltFirjMludb] problem 2015-06-13 22:50:05.427854,earliest:2015-06-13 22:50:05.427854
+| -- -- -- -- [oBIDmeILnT3kLt3DgComz12dThcssd0i] vertical 2015-06-13 22:50:05.427863,earliest:2015-06-13 22:50:05.427863
+| -- -- -- -- -- [I1IwnROkyUNGYjfpQ6bilH7fpSspa3df] problem 2015-06-13 22:50:05.427867,earliest:2015-06-13 22:50:05.427867
+| -- -- -- -- [ttKj5XCCfTAGE2oLl1EF8JUCCCiH1klk] vertical 2015-06-13 22:50:05.427877,earliest:2015-06-13 22:50:05.427877
+| -- -- -- -- -- [MhIRn8hp6YZqcoePPTxmBxoItIvmUGr2] problem 2015-06-13 22:50:05.427881,earliest:2015-06-13 22:50:05.427881
+| -- -- -- -- [wJc0fUdt4mORrZhfzMKdcTFgoXF8sFKe] vertical 2015-06-13 22:50:05.427891,earliest:2015-06-13 22:50:05.427891
+| -- -- -- -- -- [Q9i6UowoZvgkPZC3IZQuEmFYvBfLKdRg] problem 2015-06-13 22:50:05.427894,earliest:2015-06-13 22:50:05.427894
+| -- -- -- -- [0t6eBWrW5oy0EWkhuBBCzlvx0VXKKBlb] vertical 2015-06-13 22:50:05.427904,earliest:2015-06-13 22:50:05.427904
+| -- -- -- -- -- [otuAY8W2nSSZKPz9nUw7soMfY6C3ovbJ] problem 2015-06-13 22:50:05.427908,earliest:2015-06-13 22:50:05.427908
+| -- -- -- -- [BMRwsIp0NZZHxZhnnyS5WENQ3MS5mHaX] vertical 2015-06-13 22:50:05.427918,earliest:2015-06-13 22:50:05.427918
+| -- -- -- -- -- [yZQg9kZ3d0RwgwnnLQtP86HTfizgxmyR] problem 2015-06-13 22:50:05.427922,earliest:2015-06-13 22:50:05.427922
+| -- -- -- [ZCW9hri8yHDOZBCGqV0RYh9YDyUvRUMV] sequential 2014-08-25 01:00:00,earliest:2015-06-13 22:50:05.428011
+| -- -- -- -- [hEsFuVgq1lrWd6nblydiONjsKtGssOfx] vertical 2015-06-13 22:50:05.428019,earliest:2015-06-13 22:50:05.428019
+| -- -- -- -- -- [pLb86r6XkLGobguvSrbXtA2dCmRu8dq1] video 2015-06-13 22:50:05.428023,earliest:2015-06-13 22:50:05.428023
+| -- -- -- -- [Ic4Ycxc2kWk7tKOX0OVGes9LkPM8fP7R] vertical 2015-06-13 22:50:05.428033,earliest:2015-06-13 22:50:05.428033
+| -- -- -- -- -- [6GP0AmzX4EnjVdsWXPFN5LnkVc5FjniU] problem 2015-06-13 22:50:05.428037,earliest:2015-06-13 22:50:05.428037
+| -- -- -- -- [PZjXvtGZ0hVfEkmcJr9wqLQyHMpILiIL] vertical 2015-06-13 22:50:05.428047,earliest:2015-06-13 22:50:05.428047
+| -- -- -- -- -- [D4LRgei64xopHg9nfdTfd62bC4IxcyWZ] video 2015-06-13 22:50:05.428051,earliest:2015-06-13 22:50:05.428051
+| -- -- -- -- [uCFDBXc9WXmxExBtHBzVvFXvTFhrODeg] vertical 2015-06-13 22:50:05.428060,earliest:2015-06-13 22:50:05.428060
+| -- -- -- -- -- [x8diPOaoF3PiTyVBtx1NkUbkrVpBwzqH] problem 2015-06-13 22:50:05.428064,earliest:2015-06-13 22:50:05.428064
+| -- -- -- -- [oLIeaq067PJuktqVRoYQvNJ87RoIm3FS] vertical 2015-06-13 22:50:05.428074,earliest:2015-06-13 22:50:05.428074
+| -- -- -- -- -- [8xpCwzDwT7HEmdEJJUZuRTpF6joomI6f] video 2015-06-13 22:50:05.428078,earliest:2015-06-13 22:50:05.428078
+| -- -- -- -- [7k4xnrwCwHCIwBFFfjci2P6jQjUfvndG] vertical 2015-06-13 22:50:05.428087,earliest:2015-06-13 22:50:05.428087
+| -- -- -- -- -- [TMiWlToLQFmiJsWfLcniZFgoZPPW8h8n] video 2015-06-13 22:50:05.428091,earliest:2015-06-13 22:50:05.428091
+| -- -- -- [lPEWkO81ZW0bn9l0QWDfRijxlEFM4B9U] sequential 2014-08-25 01:00:00,earliest:2015-06-13 22:50:05.428193
+| -- -- -- -- [ff3k5kXIgHHoWTYZmcyc7KAccMc2fB5K] vertical 2015-06-13 22:50:05.428202,earliest:2015-06-13 22:50:05.428202
+| -- -- -- -- -- [fLbGY8MlSnJN5ixFG2R4BO5M7aHssvMU] video 2015-06-13 22:50:05.428206,earliest:2015-06-13 22:50:05.428206
+| -- -- -- -- [dxn01jMtsToDtZslnjagOv6t270YY8LO] vertical 2015-06-13 22:50:05.428215,earliest:2015-06-13 22:50:05.428215
+| -- -- -- -- -- [7mObm3HCK5daygwFH2f8YmxpX0pP5roY] video 2015-06-13 22:50:05.428219,earliest:2015-06-13 22:50:05.428219
+| -- -- -- -- [f7ZK4Qm1CQC3tgxJJwyKhytlgyyEf587] vertical 2015-06-13 22:50:05.428229,earliest:2015-06-13 22:50:05.428229
+| -- -- -- -- -- [5e7xsHDswwMExvhEv12qqoORWK6pEYWa] problem 2015-06-13 22:50:05.428233,earliest:2015-06-13 22:50:05.428233
+| -- -- -- -- [SCzfrP6Rdrmtj6v76HE4JJOgkBoY3sr1] vertical 2015-06-13 22:50:05.428243,earliest:2015-06-13 22:50:05.428243
+| -- -- -- -- -- [3NxUnC6QaXuhZCJUkKKncL73WF8Fqzff] video 2015-06-13 22:50:05.428247,earliest:2015-06-13 22:50:05.428247
+| -- -- -- -- [ImPTM81e9hCujggW4JX43Toch63bff9Y] vertical 2015-06-13 22:50:05.428256,earliest:2015-06-13 22:50:05.428256
+| -- -- -- -- -- [NBSGQgaS68lGptyDffQBe5mlSURyoaRv] problem 2015-06-13 22:50:05.428260,earliest:2015-06-13 22:50:05.428260
+| -- -- -- -- [lBItUcrJaNEdtso86xlP1GsgrsKIe3lz] vertical 2015-06-13 22:50:05.428270,earliest:2015-06-13 22:50:05.428270
+| -- -- -- -- -- [0ko3G0bzA1g0r5RF5aDjwCInqipCKmHC] video 2015-06-13 22:50:05.428274,earliest:2015-06-13 22:50:05.428274
+| -- -- -- -- [CmJOvnd1uaCvGlEjWAZXGTq9PDXr0fFL] vertical 2015-06-13 22:50:05.428284,earliest:2015-06-13 22:50:05.428284
+| -- -- -- -- -- [HVA4AhlVlda3YY6fid86s6wPqqkSycka] problem 2015-06-13 22:50:05.428287,earliest:2015-06-13 22:50:05.428287
+| -- -- [MkQH8B3OTHRT3PjqEBNfmuSge78czxVX] chapter 2014-08-18 01:00:00,earliest:2015-06-13 22:50:05.428997
+| -- -- -- [fhV2nM4CqzKKmmPtEawhTqXaQgwuFPlz] sequential 2014-08-18 01:00:00,earliest:2015-06-13 22:50:05.429041
+| -- -- -- -- [DEjRgCQLpjCAOffe4BUxIU0b53h5amLy] vertical 2015-06-13 22:50:05.429049,earliest:2015-06-13 22:50:05.429049
+| -- -- -- -- -- [mysCIqKkwjZyyW1XT6TT6Zo8vefG9F8o] video 2015-06-13 22:50:05.429052,earliest:2015-06-13 22:50:05.429052
+| -- -- -- -- [WbXoBOS7MOSEaawvaf1BdeY25WBD2Ybg] vertical 2015-06-13 22:50:05.429068,earliest:2015-06-13 22:50:05.429068
+| -- -- -- -- -- [Nb1EDZrRiCr75I41fs6k3baLAYsZc8Qi] problem 2015-06-13 22:50:05.429072,earliest:2015-06-13 22:50:05.429072
+| -- -- -- -- -- [S3nGoXttul2dDTS9AY1dMtdLdy3CiKWK] problem 2015-06-13 22:50:05.429076,earliest:2015-06-13 22:50:05.429076
+| -- -- -- -- -- [6qyEmDnDwwBgRNFyqKLCcAGAAKMHepsT] problem 2015-06-13 22:50:05.429080,earliest:2015-06-13 22:50:05.429080
+| -- -- -- [75ljHSsgcddyPPxHheSZbc5frWlgB3Fg] sequential 2014-08-18 01:00:00,earliest:2015-06-13 22:50:05.429110
+| -- -- -- -- [QvUYrauNiWqH9ugGI79jMjGZMRS3e5Cp] vertical 2015-06-13 22:50:05.429117,earliest:2015-06-13 22:50:05.429117
+| -- -- -- -- -- [nAtcrSsBOIo950M00h46qln07AK6O0K3] problem 2015-06-13 22:50:05.429121,earliest:2015-06-13 22:50:05.429121
+| -- -- -- -- [LxfyyfZuTCSk6oUeEN8oXtGYYZb4F19X] vertical 2015-06-13 22:50:05.429129,earliest:2015-06-13 22:50:05.429129
+| -- -- -- -- -- [C2gJq7JOoOvTjETwW5v2r0l5yqDlMNBA] video 2015-06-13 22:50:05.429133,earliest:2015-06-13 22:50:05.429133
+| -- -- -- [PPhIfvuAiFAUR6UvLSm7do5ScbKKyf1h] sequential 2014-08-18 01:00:00,earliest:2015-06-13 22:50:05.429182
+| -- -- -- -- [UYPgPYc5AIb7pHHx7kiRivf0UuAQQeWo] vertical 2015-06-13 22:50:05.429195,earliest:2015-06-13 22:50:05.429195
+| -- -- -- -- -- [sJj6QNtWPgC7Dpvz5bwbDFxa7LuU3JRD] problem 2015-06-13 22:50:05.429199,earliest:2015-06-13 22:50:05.429199
+| -- -- -- -- -- [pWvTNFxbg30fa3BeAtMT57tDyDGxANRF] problem 2015-06-13 22:50:05.429204,earliest:2015-06-13 22:50:05.429204
+| -- -- -- -- [m7hsxVonH4Mogj9sQwrZWCxeQHVOYYFp] vertical 2015-06-13 22:50:05.429214,earliest:2015-06-13 22:50:05.429214
+| -- -- -- -- -- [AdXHgzRvfwE4nug576jCEaOr4OBuPH8v] video 2015-06-13 22:50:05.429217,earliest:2015-06-13 22:50:05.429217
+| -- -- -- [1G3WQNNCUqRToBEcAGz3dg8Pq6KbMejN] sequential 2014-08-18 01:00:00,earliest:2015-06-13 22:50:05.429310
+| -- -- -- -- [X3mh3Ngth0uah2zIWK1m7jsfTUgvZ3WD] vertical 2015-06-13 22:50:05.429327,earliest:2015-06-13 22:50:05.429327
+| -- -- -- -- -- [i0WcpB9xBNp72CCxjwq1HyqS78cTSNs7] problem 2015-06-13 22:50:05.429331,earliest:2015-06-13 22:50:05.429331
+| -- -- -- -- -- [zfIqYnY9uqCIfKitPLTkZw3ejtCKCfAQ] problem 2015-06-13 22:50:05.429336,earliest:2015-06-13 22:50:05.429336
+| -- -- -- -- -- [zgRJ9ZewbPWq0eeVyCrUyaez52Kjwhtj] problem 2015-06-13 22:50:05.429340,earliest:2015-06-13 22:50:05.429340
+| -- -- -- -- [D7KxMGMB3aFghbshTIdCSGDzF4ZdT7rV] vertical 2015-06-13 22:50:05.429350,earliest:2015-06-13 22:50:05.429350
+| -- -- -- -- -- [HgM2FXs8aF5xEtTDgJ4V195OMSkeg6CO] video 2015-06-13 22:50:05.429354,earliest:2015-06-13 22:50:05.429354
+| -- -- -- -- [ICORTxENU4WxXvNkhSiIyl50fpn3xOzQ] vertical 2015-06-13 22:50:05.429363,earliest:2015-06-13 22:50:05.429363
+| -- -- -- -- -- [6xkPshf5NZcA5MgmjYbxFYbJj2jR7YvK] video 2015-06-13 22:50:05.429367,earliest:2015-06-13 22:50:05.429367
+| -- -- -- -- [zxf4TcHHnr0tGXspwAY8PxdXE8tgyIYP] vertical 2015-06-13 22:50:05.429377,earliest:2015-06-13 22:50:05.429377
+| -- -- -- -- -- [afvooFl3yfvUM8PrbBENXzaBDyFgo4fd] video 2015-06-13 22:50:05.429390,earliest:2015-06-13 22:50:05.429390
+| -- -- -- [XmmvBjkZ1UHUQy3XrTzPhF64G8kMSYW2] sequential 2014-08-18 01:00:00,earliest:2015-06-13 22:50:05.429460
+| -- -- -- -- [HFQtCTShpNqyM2OCV1kRQqDNpqYVwbrZ] vertical 2015-06-13 22:50:05.429468,earliest:2015-06-13 22:50:05.429468
+| -- -- -- -- -- [Lnd8tw8e4fzUWZfglQ1urMEKcSPY8aiP] video 2015-06-13 22:50:05.429471,earliest:2015-06-13 22:50:05.429471
+| -- -- -- -- [eZQxooPr94qPeavgSxA1FxyiAs17pRgN] vertical 2015-06-13 22:50:05.429487,earliest:2015-06-13 22:50:05.429487
+| -- -- -- -- -- [WCk9nXxdhvNd8BE9kbrNjgAq9MUuCcWs] problem 2015-06-13 22:50:05.429491,earliest:2015-06-13 22:50:05.429491
+| -- -- -- -- -- [xwSOcxbOtkuSB6yMiGF0lW1BdcveAJjM] problem 2015-06-13 22:50:05.429495,earliest:2015-06-13 22:50:05.429495
+| -- -- -- -- -- [8qBTuUkNELDhWbECp3ftwSpDv3RtPbtK] problem 2015-06-13 22:50:05.429499,earliest:2015-06-13 22:50:05.429499
+| -- -- -- -- [gNU7S8i7Dm9xBMnGwB9muh4sjnnE0bfM] vertical 2015-06-13 22:50:05.429507,earliest:2015-06-13 22:50:05.429507
+| -- -- -- -- -- [oJkqao4tNiU1CeqEjiEnwJnssG3QD4Wd] video 2015-06-13 22:50:05.429511,earliest:2015-06-13 22:50:05.429511
+| -- -- -- -- [c0qWeJvRb7ksKEqsfzh7d3r6RH6CbTv3] vertical 2015-06-13 22:50:05.429519,earliest:2015-06-13 22:50:05.429519
+| -- -- -- -- -- [FkuBQaZaqxdjlJC1N0r4T8EFLa3adVXD] video 2015-06-13 22:50:05.429523,earliest:2015-06-13 22:50:05.429523
+| -- -- -- [FkuopZvHpxoLRDtP4WAQdRk39HaFhN8q] sequential 2014-08-18 01:00:00,earliest:2015-06-13 22:50:05.429613
+| -- -- -- -- [xIKlcL62I9sXdeNgDQ4kzqq2Hbamzd1h] vertical 2015-06-13 22:50:05.429621,earliest:2015-06-13 22:50:05.429621
+| -- -- -- -- -- [9qIBnoWJqI9ec66VIjri7HKFLRMDi53G] problem 2015-06-13 22:50:05.429625,earliest:2015-06-13 22:50:05.429625
+| -- -- -- -- [lFCorQZj6fC1Kij3P8F5kpCBI2L4OZHY] vertical 2015-06-13 22:50:05.429633,earliest:2015-06-13 22:50:05.429633
+| -- -- -- -- -- [yl0ZsRBB5zRLDJUsmCWRKRrGQ6QasPdp] problem 2015-06-13 22:50:05.429637,earliest:2015-06-13 22:50:05.429637
+| -- -- -- -- [L1eGUopLT04XUIFjuccmvHHFlhhvrJH7] vertical 2015-06-13 22:50:05.429645,earliest:2015-06-13 22:50:05.429645
+| -- -- -- -- -- [m0Mjyiii2ldEC48LuDogKZFMiv8qbsju] problem 2015-06-13 22:50:05.429649,earliest:2015-06-13 22:50:05.429649
+| -- -- -- -- [7kcwJ5hCJWKDrRA07dVyZnoGIaHS6j7o] vertical 2015-06-13 22:50:05.429669,earliest:2015-06-13 22:50:05.429669
+| -- -- -- -- -- [0AtMZgVdpQjPWe46C9pUP3Ib6o2NaiCx] problem 2015-06-13 22:50:05.429673,earliest:2015-06-13 22:50:05.429673
+| -- -- -- -- [TCIFr5y5zrtlxrJUO7R6bbKQOLQqi9CJ] vertical 2015-06-13 22:50:05.429683,earliest:2015-06-13 22:50:05.429683
+| -- -- -- -- -- [o1AkcIn6OszDqdYFTmvA8TCyJJNPYP17] problem 2015-06-13 22:50:05.429686,earliest:2015-06-13 22:50:05.429686
+| -- -- -- -- [UEHvQl52I1lcecZ1zcMeEuu0rwwEE3U7] vertical 2015-06-13 22:50:05.429730,earliest:2015-06-13 22:50:05.429730
+| -- -- -- -- -- [UWU8pDu8vtWqH40KjHHBhR0p6GA1vhYu] problem 2015-06-13 22:50:05.429734,earliest:2015-06-13 22:50:05.429734
+| -- -- -- -- [i7IpR7CrZmnnQFcei9Lj4emsEKpoR1Sm] vertical 2015-06-13 22:50:05.429744,earliest:2015-06-13 22:50:05.429744
+| -- -- -- -- -- [aNEvFZgdZzfSNHl2ZW1B6Viqk5I96dU5] problem 2015-06-13 22:50:05.429748,earliest:2015-06-13 22:50:05.429748
 | -- -- [vSVvqodXMIPxqNYHSo8eBde4z6gvfrdn] chapter 2014-06-29 15:13:29,earliest:2014-06-29 15:13:29
 | -- --  >> 2014-07-08 07:14:19 from:server, event:access by :561
 | -- --  >> 2014-07-08 14:43:34 from:server, event:access by :34995
@@ -31652,8 +31652,8 @@
 | -- -- --  >> 2014-07-07 03:15:50 from:server, event:access by :65705
 | -- -- --  >> 2014-07-07 06:40:43 from:server, event:access by :32083
 | -- -- --  >> 2014-07-08 12:15:41 from:server, event:access by :15095
-| -- -- -- -- [dvJDmiJ7aMsdySMxIWPsWUdy9MWITdJc] vertical 2015-06-08 15:45:22.127863,earliest:2015-06-08 15:45:22.127863
-| -- -- -- -- -- [JwsIPFaG80A7249G75UhNwgZgGnbTu68] problem 2015-06-08 15:45:22.127869,earliest:2015-06-08 15:45:22.127869
+| -- -- -- -- [dvJDmiJ7aMsdySMxIWPsWUdy9MWITdJc] vertical 2015-06-13 22:50:05.430949,earliest:2015-06-13 22:50:05.430949
+| -- -- -- -- -- [JwsIPFaG80A7249G75UhNwgZgGnbTu68] problem 2015-06-13 22:50:05.430953,earliest:2015-06-13 22:50:05.430953
 | -- -- -- -- [UYNcsQ4guxvvQrKiOdgnzYLuWuzHdH9M] vertical 2014-07-07 01:53:16,earliest:2014-07-07 01:53:16
 | -- -- -- -- -- [1KiHtFO0a61133BelhiwS4F2AwsbyK44] video 2014-07-07 01:53:16,earliest:2014-07-07 01:53:16
 | -- -- -- -- --  >> 2014-07-07 03:16:23 from:browser, event:video by :65705
@@ -31674,10 +31674,10 @@
 | -- -- -- -- --  >> 2014-07-07 22:50:52 from:browser, event:video by :26266
 | -- -- -- -- --  >> 2014-07-07 11:48:17 from:browser, event:video by :1406
 | -- -- -- -- --  >> 2014-07-08 16:36:21 from:browser, event:video by :15095
-| -- -- -- -- [hPtJgM11wxyVfLKJoWbdPk88b6jJnZeV] vertical 2015-06-08 15:45:22.127908,earliest:2015-06-08 15:45:22.127908
-| -- -- -- -- -- [9P0xKn4tKTIvemBkckTAPMtqop3rXOGE] problem 2015-06-08 15:45:22.127913,earliest:2015-06-08 15:45:22.127913
-| -- -- -- -- [yo2pTcnqaWw4rk2dl9F0uzBOZUBpz4Wc] vertical 2015-06-08 15:45:22.127926,earliest:2015-06-08 15:45:22.127926
-| -- -- -- -- -- [fj2RUZjUqZ98b6PYtWKGANGiChL5GcWl] problem 2015-06-08 15:45:22.127931,earliest:2015-06-08 15:45:22.127931
+| -- -- -- -- [hPtJgM11wxyVfLKJoWbdPk88b6jJnZeV] vertical 2015-06-13 22:50:05.430980,earliest:2015-06-13 22:50:05.430980
+| -- -- -- -- -- [9P0xKn4tKTIvemBkckTAPMtqop3rXOGE] problem 2015-06-13 22:50:05.430983,earliest:2015-06-13 22:50:05.430983
+| -- -- -- -- [yo2pTcnqaWw4rk2dl9F0uzBOZUBpz4Wc] vertical 2015-06-13 22:50:05.430992,earliest:2015-06-13 22:50:05.430992
+| -- -- -- -- -- [fj2RUZjUqZ98b6PYtWKGANGiChL5GcWl] problem 2015-06-13 22:50:05.430995,earliest:2015-06-13 22:50:05.430995
 | -- -- -- -- [hF5xVF2660gXv6Ob9hACYMe1bDWVCu45] vertical 2014-07-07 01:53:33,earliest:2014-07-07 01:53:33
 | -- -- -- -- -- [oX5TLcR8YN81oQZyQUIRo62Ur2P4P2IP] video 2014-07-07 01:53:33,earliest:2014-07-07 01:53:33
 | -- -- -- -- --  >> 2014-07-07 06:35:15 from:browser, event:video by :32083
@@ -31691,8 +31691,8 @@
 | -- -- -- -- --  >> 2014-07-07 01:53:33 from:browser, event:video by :32083
 | -- -- -- -- --  >> 2014-07-07 08:59:12 from:browser, event:video by :145546
 | -- -- -- -- --  >> 2014-07-07 22:53:08 from:browser, event:video by :26266
-| -- -- -- -- [mTKUFQ22QcCRZhAiJJP1RuNNxIq0fpre] vertical 2015-06-08 15:45:22.127968,earliest:2015-06-08 15:45:22.127968
-| -- -- -- -- -- [6fpIn3XLhMbTTeTuDwCjTENHcFd984cx] problem 2015-06-08 15:45:22.127974,earliest:2015-06-08 15:45:22.127974
+| -- -- -- -- [mTKUFQ22QcCRZhAiJJP1RuNNxIq0fpre] vertical 2015-06-13 22:50:05.431021,earliest:2015-06-13 22:50:05.431021
+| -- -- -- -- -- [6fpIn3XLhMbTTeTuDwCjTENHcFd984cx] problem 2015-06-13 22:50:05.431024,earliest:2015-06-13 22:50:05.431024
 | -- -- -- -- [QLnsDnvARf5c5AGwi6EAw8EH1IW5lYIZ] vertical 2014-07-07 01:53:50,earliest:2014-07-07 01:53:50
 | -- -- -- -- -- [ZoTICRzXgJbthPbpbGrwix4Wdx4UACXF] video 2014-07-07 01:53:50,earliest:2014-07-07 01:53:50
 | -- -- -- -- --  >> 2014-07-07 06:34:48 from:browser, event:video by :32083
@@ -31702,8 +31702,8 @@
 | -- -- -- -- --  >> 2014-07-07 22:54:43 from:browser, event:video by :26266
 | -- -- -- -- --  >> 2014-07-07 01:53:50 from:browser, event:video by :32083
 | -- -- -- -- --  >> 2014-07-07 22:52:05 from:browser, event:video by :26266
-| -- -- -- -- [vI2ANIxtZ2SBc9Uvlqmghfse8hcMD9pi] vertical 2015-06-08 15:45:22.128010,earliest:2015-06-08 15:45:22.128010
-| -- -- -- -- -- [R6afAF4A2WYa4P2YIhlayg0mI8clBnQI] problem 2015-06-08 15:45:22.128016,earliest:2015-06-08 15:45:22.128016
+| -- -- -- -- [vI2ANIxtZ2SBc9Uvlqmghfse8hcMD9pi] vertical 2015-06-13 22:50:05.431049,earliest:2015-06-13 22:50:05.431049
+| -- -- -- -- -- [R6afAF4A2WYa4P2YIhlayg0mI8clBnQI] problem 2015-06-13 22:50:05.431052,earliest:2015-06-13 22:50:05.431052
 | -- -- -- [bzQpx7ZJQh4mIctrrsCH3sllHS2YjrlO] sequential 2014-07-07 01:00:00,earliest:2014-07-07 01:53:49
 | -- -- --  >> 2014-07-07 02:04:07 from:server, event:access by :51
 | -- -- --  >> 2014-07-07 04:58:16 from:server, event:access by :26266
@@ -31751,8 +31751,8 @@
 | -- -- -- -- --  >> 2014-07-07 22:55:59 from:browser, event:video by :26266
 | -- -- -- -- --  >> 2014-07-07 02:05:03 from:browser, event:video by :51
 | -- -- -- -- --  >> 2014-07-08 14:47:34 from:browser, event:video by :34995
-| -- -- -- -- [ZIdc035nnF8NDtkxTFt0yYL7GAv2wqDE] vertical 2015-06-08 15:45:22.128112,earliest:2015-06-08 15:45:22.128112
-| -- -- -- -- -- [ZwfNpBLmF9WiDbDhxmM1sdOnCYzNzOeh] problem 2015-06-08 15:45:22.128117,earliest:2015-06-08 15:45:22.128117
+| -- -- -- -- [ZIdc035nnF8NDtkxTFt0yYL7GAv2wqDE] vertical 2015-06-13 22:50:05.431118,earliest:2015-06-13 22:50:05.431118
+| -- -- -- -- -- [ZwfNpBLmF9WiDbDhxmM1sdOnCYzNzOeh] problem 2015-06-13 22:50:05.431121,earliest:2015-06-13 22:50:05.431121
 | -- -- -- [ahT5LvszxbLJXOnZrml1YJ0qUB4L3YZ9] sequential 2014-07-07 01:00:00,earliest:2014-07-07 01:54:33
 | -- -- --  >> 2014-07-07 22:55:58 from:server, event:access by :26266
 | -- -- --  >> 2014-07-08 12:43:54 from:browser, event:access by :51
@@ -31843,8 +31843,8 @@
 | -- -- -- -- --  >> 2014-07-08 12:43:32 from:browser, event:video by :51
 | -- -- -- -- --  >> 2014-07-07 03:20:03 from:browser, event:video by :51
 | -- -- -- -- --  >> 2014-07-08 12:52:03 from:browser, event:video by :51
-| -- -- -- -- [2jOCrFIxZb7bbkCEUN5ewNc7peBtdAIe] vertical 2015-06-08 15:45:22.128272,earliest:2015-06-08 15:45:22.128272
-| -- -- -- -- -- [BC4VRGEDqZjD3INdcNmucaA5AKDLf9PC] problem 2015-06-08 15:45:22.128278,earliest:2015-06-08 15:45:22.128278
+| -- -- -- -- [2jOCrFIxZb7bbkCEUN5ewNc7peBtdAIe] vertical 2015-06-13 22:50:05.431227,earliest:2015-06-13 22:50:05.431227
+| -- -- -- -- -- [BC4VRGEDqZjD3INdcNmucaA5AKDLf9PC] problem 2015-06-13 22:50:05.431231,earliest:2015-06-13 22:50:05.431231
 | -- -- -- [RaIOEBspvuMPH3bqZpDVPP5RssweLr4g] sequential 2014-07-07 01:00:00,earliest:2014-07-07 01:50:27
 | -- -- --  >> 2014-07-08 14:35:55 from:server, event:access by :34995
 | -- -- --  >> 2014-07-07 02:03:33 from:browser, event:access by :51
@@ -32126,144 +32126,144 @@
 | -- -- --  >> 2014-07-07 06:15:05 from:browser, event:access by :27547
 | -- -- --  >> 2014-07-07 03:17:13 from:browser, event:access by :51
 | -- -- --  >> 2014-07-07 03:31:14 from:server, event:access by :51
-| -- -- -- -- [pOLerbQSFGNw0mdMvVKOzOxnW7R3CLcd] vertical 2015-06-08 15:45:22.129335,earliest:2015-06-08 15:45:22.129335
-| -- -- -- -- -- [QPHxrvVIPTZUMmIPBoTDnUJTEhBCqHx2] problem 2015-06-08 15:45:22.129345,earliest:2015-06-08 15:45:22.129345
-| -- -- -- -- [kA5B5TsmDELKpzDiWJu8TLlo0YcvUhhU] vertical 2015-06-08 15:45:22.129369,earliest:2015-06-08 15:45:22.129369
-| -- -- -- -- -- [wvxeon59qeZNIwfdVJfLhxIwLN8yu9vl] problem 2015-06-08 15:45:22.129379,earliest:2015-06-08 15:45:22.129379
-| -- -- -- -- [ZhRNHczwVi1Espk9eWdn4QdRT7TGFzva] vertical 2015-06-08 15:45:22.129403,earliest:2015-06-08 15:45:22.129403
-| -- -- -- -- -- [MZCpxXzDLR3HEv0xQR2v5O1UajNlQtJz] problem 2015-06-08 15:45:22.129413,earliest:2015-06-08 15:45:22.129413
-| -- -- -- -- [nflj2CK76F8bBLFBi39Ip41YCZywFTyF] vertical 2015-06-08 15:45:22.129437,earliest:2015-06-08 15:45:22.129437
-| -- -- -- -- -- [UVPtnt0s56CrHUCDdXWd6wNncS1cS557] problem 2015-06-08 15:45:22.129448,earliest:2015-06-08 15:45:22.129448
-| -- -- -- -- [6XsNxG3mODzDctx95dm1nHaLsWwGro0O] vertical 2015-06-08 15:45:22.129472,earliest:2015-06-08 15:45:22.129472
-| -- -- -- -- -- [POpUfmmqRvj0UpF5WmMGy0dbMwS7XCE8] problem 2015-06-08 15:45:22.129481,earliest:2015-06-08 15:45:22.129481
-| -- -- -- -- [ntjX5aqewe8muOh5C9mv1DaAMM6X8NIx] vertical 2015-06-08 15:45:22.129506,earliest:2015-06-08 15:45:22.129506
-| -- -- -- -- -- [9HVHqQ3xkHsiBkNA77EOR0yCBKZMMS9z] problem 2015-06-08 15:45:22.129516,earliest:2015-06-08 15:45:22.129516
-| -- -- -- -- [R9pikNTnNPXFYWIyhIVx8t3vhak82N46] vertical 2015-06-08 15:45:22.129540,earliest:2015-06-08 15:45:22.129540
-| -- -- -- -- -- [C9BmuyFpFqQo8GMsRCnyOMczjUoR96aX] problem 2015-06-08 15:45:22.129550,earliest:2015-06-08 15:45:22.129550
-| -- -- -- -- [RpbYVAmTdznBGB6XiwguSWOzqgMtLPmk] vertical 2015-06-08 15:45:22.129574,earliest:2015-06-08 15:45:22.129574
-| -- -- -- -- -- [UAlJ7HUwyQgoXQv0Ps27VXJALZ3Qf8jA] problem 2015-06-08 15:45:22.129584,earliest:2015-06-08 15:45:22.129584
-| -- -- -- -- [WCfYCgjetE476FE7SwlZMpNTwUXBHDfH] vertical 2015-06-08 15:45:22.129606,earliest:2015-06-08 15:45:22.129606
-| -- -- -- -- -- [dGdrH1cTcJSc7Uf9kgQ11DoZvlXOjybn] problem 2015-06-08 15:45:22.129615,earliest:2015-06-08 15:45:22.129615
-| -- -- -- -- [gqLgPDdSUgqqSc5fDoJDRFwWDWvYymtY] vertical 2015-06-08 15:45:22.129635,earliest:2015-06-08 15:45:22.129635
-| -- -- -- -- -- [K87a7K6k2a3LLZhJ6L4YF22VNNRZZWpx] problem 2015-06-08 15:45:22.129645,earliest:2015-06-08 15:45:22.129645
-| -- -- -- -- [XUQpqlP78A6W50VmCvi3Whn7pPaET6AT] vertical 2015-06-08 15:45:22.129665,earliest:2015-06-08 15:45:22.129665
-| -- -- -- -- -- [O8IQZ5E1rxDRhYyMMjWkAfZfoOmrP3DC] problem 2015-06-08 15:45:22.129673,earliest:2015-06-08 15:45:22.129673
-| -- -- [ZRxvkSMca4dgWjJpuzVrHCAuD0sacu9E] chapter 2014-08-05 01:00:00,earliest:2015-06-08 15:45:22.131036
-| -- -- -- [zNzQJxG0fIOVpmUnNE9pqt3AY8hLW7ax] sequential 2014-08-05 01:00:00,earliest:2015-06-08 15:45:22.131101
-| -- -- -- -- [t658orbx96VVth98kBnp73uzaC7gmJyF] vertical 2015-06-08 15:45:22.131111,earliest:2015-06-08 15:45:22.131111
-| -- -- -- -- -- [PGzje33ZTkpUoZ55Ee7DpC6snd4VVW2q] problem 2015-06-08 15:45:22.131115,earliest:2015-06-08 15:45:22.131115
-| -- -- -- -- [OZEZW4BisFQazWhK25pt4iM7AjLzw5qv] vertical 2015-06-08 15:45:22.131126,earliest:2015-06-08 15:45:22.131126
-| -- -- -- -- -- [YgwaAKlMgO04XkWYXIF3CkJBRNYXVni0] video 2015-06-08 15:45:22.131130,earliest:2015-06-08 15:45:22.131130
-| -- -- -- -- [4wPWRO3iEnB8sKeEIiYHyLb9wUXdspRZ] vertical 2015-06-08 15:45:22.131141,earliest:2015-06-08 15:45:22.131141
-| -- -- -- -- -- [gfzCjJHpKj9LEpHSadrxupbleVMwJYH6] problem 2015-06-08 15:45:22.131145,earliest:2015-06-08 15:45:22.131145
-| -- -- -- -- [r5dgapt4JpMa9qsL4BfGHGx7w804Jhhk] vertical 2015-06-08 15:45:22.131156,earliest:2015-06-08 15:45:22.131156
-| -- -- -- -- -- [DLmwgY3493Fi3MAq9ToLtU8ortJtR7LB] video 2015-06-08 15:45:22.131160,earliest:2015-06-08 15:45:22.131160
-| -- -- -- [thptx8PexulavmsKKfyEbJF0X2mNJeaU] sequential 2014-08-05 01:00:00,earliest:2015-06-08 15:45:22.131257
-| -- -- -- -- [K5mWl0zunypVnJI8WjelZ80Si8gSZlvj] vertical 2015-06-08 15:45:22.131266,earliest:2015-06-08 15:45:22.131266
-| -- -- -- -- -- [BZKNBzfUM9P15i6Xx2MCbkEYxCPHp1Rp] video 2015-06-08 15:45:22.131271,earliest:2015-06-08 15:45:22.131271
-| -- -- -- -- [7fqvmyR7jAqfXjmsrDXmex2pDtJvzkj0] vertical 2015-06-08 15:45:22.131281,earliest:2015-06-08 15:45:22.131281
-| -- -- -- -- -- [J8tAaZxNX8qc9F5GCLVfLOWfqiPQ76H8] problem 2015-06-08 15:45:22.131285,earliest:2015-06-08 15:45:22.131285
-| -- -- -- -- [rPjjN4cPLLhX6Q0HlGlnocdZrKGtVD9e] vertical 2015-06-08 15:45:22.131296,earliest:2015-06-08 15:45:22.131296
-| -- -- -- -- -- [NLWJcOFNPYNTA1a4SDDkBrEbVUuHslj3] problem 2015-06-08 15:45:22.131300,earliest:2015-06-08 15:45:22.131300
-| -- -- -- -- [6Uvd7ktKJE9eoN5Yls3vq9rO2i6cJWNG] vertical 2015-06-08 15:45:22.131311,earliest:2015-06-08 15:45:22.131311
-| -- -- -- -- -- [cA5uPJvLPCvPgaufsettoz7Yrxqpls15] video 2015-06-08 15:45:22.131315,earliest:2015-06-08 15:45:22.131315
-| -- -- -- -- [xrypQ9ydVRRC5rPobQcuPs6Ryiz6nNSn] vertical 2015-06-08 15:45:22.131326,earliest:2015-06-08 15:45:22.131326
-| -- -- -- -- -- [BrKZIJhzzFt6eAnTc4nz64rRTA5M7O7k] video 2015-06-08 15:45:22.131330,earliest:2015-06-08 15:45:22.131330
-| -- -- -- -- [WEvxocQ4cw0YRqmaAtIgKqNQxp4oJsMg] vertical 2015-06-08 15:45:22.131341,earliest:2015-06-08 15:45:22.131341
-| -- -- -- -- -- [AQmwA8WUkiiLv7uLLpBL3lgFrqjJNsbR] problem 2015-06-08 15:45:22.131345,earliest:2015-06-08 15:45:22.131345
-| -- -- -- [HDtqkLSDocbQxIbOXQVgOMHj00urMY2m] sequential 2014-08-05 01:00:00,earliest:2015-06-08 15:45:22.131382
-| -- -- -- -- [clcLS3sks28nhy5tAxSZI4r2yGGj4tsu] vertical 2015-06-08 15:45:22.131392,earliest:2015-06-08 15:45:22.131392
-| -- -- -- -- -- [Jhng9CPDvTasVSk8mU2zwbHFIQXokzxX] problem 2015-06-08 15:45:22.131396,earliest:2015-06-08 15:45:22.131396
-| -- -- -- -- [u3afTTCwuspyeIgoXDxSkG5P30yM3WpI] vertical 2015-06-08 15:45:22.131407,earliest:2015-06-08 15:45:22.131407
-| -- -- -- -- -- [iwjON7foN1VLGtJPr8nqlqr9npmvt9NO] video 2015-06-08 15:45:22.131411,earliest:2015-06-08 15:45:22.131411
-| -- -- -- [ZFwa9k3GvM2Umx8UsiCFtTHi9IC42wNk] sequential 2014-08-05 01:00:00,earliest:2015-06-08 15:45:22.131472
-| -- -- -- -- [mxEdBySBB1waSudGcgt5Q66eXmTF8RsY] vertical 2015-06-08 15:45:22.131481,earliest:2015-06-08 15:45:22.131481
-| -- -- -- -- -- [V4PvNJcyuoa071cwYXxslLNZ7zaQWX1y] video 2015-06-08 15:45:22.131486,earliest:2015-06-08 15:45:22.131486
-| -- -- -- -- [rsIPiKQszfqWsGVsUe30aDImsDoK8OEs] vertical 2015-06-08 15:45:22.131496,earliest:2015-06-08 15:45:22.131496
-| -- -- -- -- -- [WL9tKLd2uwHrI2uWCfSsJxwV093EjPsE] video 2015-06-08 15:45:22.131501,earliest:2015-06-08 15:45:22.131501
-| -- -- -- -- [GshRLQwSvMqpMcDw8IVhs7HVD6vZe86A] vertical 2015-06-08 15:45:22.131516,earliest:2015-06-08 15:45:22.131516
-| -- -- -- -- -- [gnD5xOiCM98m0jUl6h5CoZbQjO4ZZ7Q9] problem 2015-06-08 15:45:22.131520,earliest:2015-06-08 15:45:22.131520
-| -- -- -- -- -- [Oc6PvS2WcMPHlNpqn55Ap1HAwKJoWmM9] problem 2015-06-08 15:45:22.131525,earliest:2015-06-08 15:45:22.131525
-| -- -- -- [IuYkBHA9JvdA3bj302i85Fyw8TsR9rOR] sequential 2014-08-05 01:00:00,earliest:2015-06-08 15:45:22.131570
-| -- -- -- -- [gPWhfRlVC8baDXXdneqJfkUydiDDjsLK] vertical 2015-06-08 15:45:22.131580,earliest:2015-06-08 15:45:22.131580
-| -- -- -- -- -- [KSHAPPSF0NFfjYjHtJeBUyz3V6Udg7O9] video 2015-06-08 15:45:22.131584,earliest:2015-06-08 15:45:22.131584
-| -- -- -- -- [DDhiOq5a9pxB8HJi1Vqz1cVPT1CFomtz] vertical 2015-06-08 15:45:22.131599,earliest:2015-06-08 15:45:22.131599
-| -- -- -- -- -- [NkF24BsFikf0LAZRoladrMwEfZOytMqX] problem 2015-06-08 15:45:22.131604,earliest:2015-06-08 15:45:22.131604
-| -- -- -- -- -- [SNG5XKu45MydA6mCRWukjct2OD0AfVsi] problem 2015-06-08 15:45:22.131609,earliest:2015-06-08 15:45:22.131609
-| -- -- -- [hOTJxXmjJHal9xxSpI9zbHTzMZBGjVQb] sequential 2014-08-05 01:00:00,earliest:2015-06-08 15:45:22.131782
-| -- -- -- -- [Ks0oQ3Uzw2myKpU32r1It65h91B63eK7] vertical 2015-06-08 15:45:22.131799,earliest:2015-06-08 15:45:22.131799
-| -- -- -- -- -- [bJrA0phd3QRPbSr8k3NzwQDyoBKz0YQ2] problem 2015-06-08 15:45:22.131803,earliest:2015-06-08 15:45:22.131803
-| -- -- -- -- [VMr1USH9ZeItohYc9GpyvQiz9MfnryVu] vertical 2015-06-08 15:45:22.131814,earliest:2015-06-08 15:45:22.131814
-| -- -- -- -- -- [C0TUk7LmMwsO965Ll1GNyHTj1N8t8ZR0] problem 2015-06-08 15:45:22.131818,earliest:2015-06-08 15:45:22.131818
-| -- -- -- -- [qBfWo27FIiUFREEtmSgxeatyi5BWUzp6] vertical 2015-06-08 15:45:22.131829,earliest:2015-06-08 15:45:22.131829
-| -- -- -- -- -- [r10qmgO1qgmurAsHUs0K1XuoreIigVsk] problem 2015-06-08 15:45:22.131833,earliest:2015-06-08 15:45:22.131833
-| -- -- -- -- [nG34dtZaIaMPyoLSWuAc8EM6dnBARz81] vertical 2015-06-08 15:45:22.131844,earliest:2015-06-08 15:45:22.131844
-| -- -- -- -- -- [FjVnOtWY1jEGvLTgnye0NxjeHC9cmZZo] problem 2015-06-08 15:45:22.131848,earliest:2015-06-08 15:45:22.131848
-| -- -- -- -- [ij35vPl7hRMnMD8ON1bVgZrTfjv7wU2v] vertical 2015-06-08 15:45:22.131858,earliest:2015-06-08 15:45:22.131858
-| -- -- -- -- -- [gu5qPN546N0O0HeTZan9nJ7tEEl5TLps] problem 2015-06-08 15:45:22.131863,earliest:2015-06-08 15:45:22.131863
-| -- -- -- -- [aKIVhGjlSr8bcOz4qY6qKj8CYq3IbXt7] vertical 2015-06-08 15:45:22.131873,earliest:2015-06-08 15:45:22.131873
-| -- -- -- -- -- [57FdEBBPVDJWoVokal2eiQ9xGNVwREHG] problem 2015-06-08 15:45:22.131878,earliest:2015-06-08 15:45:22.131878
-| -- -- -- -- [ZHXV0rcmRB78Z0XbL18hSs0j33cGIxCD] vertical 2015-06-08 15:45:22.131888,earliest:2015-06-08 15:45:22.131888
-| -- -- -- -- -- [NldlnB1nCLFoehPWSHoQ0Z4qnb7gV4Kl] problem 2015-06-08 15:45:22.131893,earliest:2015-06-08 15:45:22.131893
-| -- -- -- -- [rt6gVGDx6PiqiSkrk8tBALglSMSzxPOT] vertical 2015-06-08 15:45:22.131903,earliest:2015-06-08 15:45:22.131903
-| -- -- -- -- -- [njdCBxyXEOc2AxPCqI2CK8NkEMukOpwb] problem 2015-06-08 15:45:22.131907,earliest:2015-06-08 15:45:22.131907
-| -- -- -- -- [fyY39ZfCRVSoKDeL65WiTgIh74yHfzE0] vertical 2015-06-08 15:45:22.131918,earliest:2015-06-08 15:45:22.131918
-| -- -- -- -- -- [8Ml2YMvKIlHT3jEmsZhLNajzvp9lv3Oe] problem 2015-06-08 15:45:22.131922,earliest:2015-06-08 15:45:22.131922
-| -- -- -- -- [9o5MTZJyHNHknKONJwrIg8vORZiSRdDV] vertical 2015-06-08 15:45:22.131933,earliest:2015-06-08 15:45:22.131933
-| -- -- -- -- -- [omNAjuuRaZqPFU5W8KsJqkAP326ckmgI] problem 2015-06-08 15:45:22.131937,earliest:2015-06-08 15:45:22.131937
-| -- -- -- -- [QVL0aDKESjIYoYaRWaDQbjU22VMy82OD] vertical 2015-06-08 15:45:22.131947,earliest:2015-06-08 15:45:22.131947
-| -- -- -- -- -- [UoCru36wrMZox5upSHhD7xcKKPRcZwNk] problem 2015-06-08 15:45:22.131952,earliest:2015-06-08 15:45:22.131952
-| -- -- -- [9AQ8noWOsDL7fK79AiZrb6JAJghTHry3] sequential 2014-08-05 01:00:00,earliest:2015-06-08 15:45:22.132061
-| -- -- -- -- [TBPnCpvn8p12nCTBfB3ApCZ3zBc3JdWt] vertical 2015-06-08 15:45:22.132073,earliest:2015-06-08 15:45:22.132073
-| -- -- -- -- -- [2sGrs9e2wE3Q0tidkTQtoaBtLCpFNkSo] video 2015-06-08 15:45:22.132080,earliest:2015-06-08 15:45:22.132080
-| -- -- -- -- [P8uiFLQXN1zaiOiDamRBaAMWplAO1qJ1] vertical 2015-06-08 15:45:22.132108,earliest:2015-06-08 15:45:22.132108
-| -- -- -- -- -- [dRwPeSWLq66g6AZE4eSAW7Ccoqtrl4dK] problem 2015-06-08 15:45:22.132115,earliest:2015-06-08 15:45:22.132115
-| -- -- -- -- -- [b1lv9oHrjOusLbJC3Bb6Xyi8LkbaGMNh] problem 2015-06-08 15:45:22.132124,earliest:2015-06-08 15:45:22.132124
-| -- -- -- -- [VpqfRisjgGqXtxnyHKxY41R3wYyIdSUK] vertical 2015-06-08 15:45:22.132143,earliest:2015-06-08 15:45:22.132143
-| -- -- -- -- -- [Axsws8ycBJJA6TsbegfReoa0JXt7smeT] video 2015-06-08 15:45:22.132151,earliest:2015-06-08 15:45:22.132151
-| -- -- -- -- [5ElUNegNhYXS9oazhKxPwUSa490yjjhF] vertical 2015-06-08 15:45:22.132171,earliest:2015-06-08 15:45:22.132171
-| -- -- -- -- -- [Tu1nxfKnvgkfgfEojVYQaTzuJEllRYl1] video 2015-06-08 15:45:22.132179,earliest:2015-06-08 15:45:22.132179
-| -- -- -- -- [K0BMQgVyQrXAPIrllwY35cA5QXuvYzWk] vertical 2015-06-08 15:45:22.132217,earliest:2015-06-08 15:45:22.132217
-| -- -- -- -- -- [uJrSHyqjVRuj9gqoVn0xmMOAoiwVTjmI] problem 2015-06-08 15:45:22.132225,earliest:2015-06-08 15:45:22.132225
-| -- -- -- -- -- [ZENXoZnALOvkmCBebsSdHqUQaUS6woaR] problem 2015-06-08 15:45:22.132234,earliest:2015-06-08 15:45:22.132234
-| -- -- -- -- -- [TSYVR8JLOAu1DY7KDCZOzNOJcdwpy1AP] problem 2015-06-08 15:45:22.132243,earliest:2015-06-08 15:45:22.132243
-| -- [V043ilAwsdzxSpDwgZqX44HnsIXltpmT] vertical 2015-06-08 15:45:22.132261,earliest:2015-06-08 15:45:22.132261
-| -- [OGOSsamaykaGiSTYKWyAbNBSIPgelHE6] vertical 2015-06-08 15:45:22.132301,earliest:2015-06-08 15:45:22.132301
-| -- -- [tlFTw9Da83lQB6Pm1QrsM66PEUBrhOcD] problem 2015-06-08 15:45:22.132309,earliest:2015-06-08 15:45:22.132309
-| -- [LMSPHjnvE3wmdXXJ1b7MkiK23tVSrhvA] vertical 2015-06-08 15:45:22.132331,earliest:2015-06-08 15:45:22.132331
-| -- -- [ISp4xoKRmemuAv1iLSMOwKLVH3g4Fjwi] problem 2015-06-08 15:45:22.132339,earliest:2015-06-08 15:45:22.132339
-| -- [RYjpLFSVOSxvz8S7QhDgvQNgQaMENJO6] vertical 2015-06-08 15:45:22.132360,earliest:2015-06-08 15:45:22.132360
-| -- -- [N10f8fDT71TuEGgA95bRhliN3cASI2bo] problem 2015-06-08 15:45:22.132369,earliest:2015-06-08 15:45:22.132369
-| -- [gkmLdWPrLppbTfWSkwJQ8A20SvGXEN9z] vertical 2015-06-08 15:45:22.132390,earliest:2015-06-08 15:45:22.132390
-| -- -- [xgWr7iIV7dFy02Rz6bHpaB34GuiPaI9v] problem 2015-06-08 15:45:22.132398,earliest:2015-06-08 15:45:22.132398
-| -- [7IGCupnB67BozbBxv1KUHxp8LAcWuPHC] vertical 2015-06-08 15:45:22.132419,earliest:2015-06-08 15:45:22.132419
-| -- -- [D1biIOpaCRHDXDPgUh4Z9tIBrsaS24HD] problem 2015-06-08 15:45:22.132427,earliest:2015-06-08 15:45:22.132427
-| -- [GlhlOkUkG4S8iSaqTgz2ftRyStlLFRcB] static_tab 2015-06-08 15:45:22.132438,earliest:2015-06-08 15:45:22.132438
-| -- [QBSjjfH8wJdnLlLLXkX5LQPziLmvUbuF] vertical 2015-06-08 15:45:22.132740,earliest:2015-06-08 15:45:22.132740
-| -- -- [oROt3gthKwV99J2vGY37iPKr9Wk7DFEc] problem 2015-06-08 15:45:22.132748,earliest:2015-06-08 15:45:22.132748
-| -- [5SYMfopKB6PPdwqqJS6KySnhvvTEUycH] vertical 2015-06-08 15:45:22.132770,earliest:2015-06-08 15:45:22.132770
-| -- -- [uREe2MhnydJ1IEcrrrcyOE41h4D4iipl] problem 2015-06-08 15:45:22.132779,earliest:2015-06-08 15:45:22.132779
-| -- [f9P2fxnCx1eYUyndL7xQoVeLqvjEo2L2] vertical 2015-06-08 15:45:22.132816,earliest:2015-06-08 15:45:22.132816
-| -- -- [SL9d9cqqJq6FJPb6GtGLTKZkxzE2jien] video 2015-06-08 15:45:22.132825,earliest:2015-06-08 15:45:22.132825
-| -- [3fcRJtsci2r7Q2HRnCidiemseTs2a6Fq] vertical 2015-06-08 15:45:22.132846,earliest:2015-06-08 15:45:22.132846
-| -- -- [rH8DgUWgai7cXTFtNzBVC0ejksH8q0Rd] problem 2015-06-08 15:45:22.132855,earliest:2015-06-08 15:45:22.132855
-| -- [5BOEXoGIZrdBcZxkEJ8OQAcjRMhIkx7s] vertical 2015-06-08 15:45:22.134225,earliest:2015-06-08 15:45:22.134225
-| -- -- [2ONBIIKf5AQ53jipNOSsuc2clbhOJfDB] problem 2015-06-08 15:45:22.134233,earliest:2015-06-08 15:45:22.134233
-| -- [OJOUvkIzo8uJaz5CIFUdyYjTTJkijCrz] sequential 2015-06-08 15:45:22.134243,earliest:2015-06-08 15:45:22.134243
-| -- [IITqBuMwOkxraohDNuLbrgNvbiJakpoM] about 2015-06-08 15:45:22.134263,earliest:2015-06-08 15:45:22.134263
-| -- [XfejYvjpQc7l03Y2XnMAwr5pa8oQmHPW] vertical 2015-06-08 15:45:22.134402,earliest:2015-06-08 15:45:22.134402
-| -- -- [psj8VxcPAvddzvfzmYNgI62VyWX0Ubo6] problem 2015-06-08 15:45:22.134410,earliest:2015-06-08 15:45:22.134410
-| -- [vLjaE19m0SD45dnPKedLrNCHiRh5mHmq] vertical 2015-06-08 15:45:22.135091,earliest:2015-06-08 15:45:22.135091
-| -- -- [zh53rsjDn8lPxtCcJpx8W0eOoqlTy1yv] problem 2015-06-08 15:45:22.135099,earliest:2015-06-08 15:45:22.135099
-| -- [inhLW2b3d8HiVa8kQfImc93cFHsFr9Fq] vertical 2015-06-08 15:45:22.135109,earliest:2015-06-08 15:45:22.135109
-| -- [2FfllIXar6deQIO7vdb2P4k2hWOD2zNJ] vertical 2015-06-08 15:45:22.135145,earliest:2015-06-08 15:45:22.135145
-| -- -- [ofETRa6qlenQ8aYJJ1Bd8QO70Zpp92GG] problem 2015-06-08 15:45:22.135152,earliest:2015-06-08 15:45:22.135152
-| -- [fsGIzGLP5Tcu1QCU89vV0L81s8NK9HYg] problem 2015-06-08 15:45:22.135162,earliest:2015-06-08 15:45:22.135162
-| -- [COYFLNy8nYvtSe9VwZxBfZDI9LdKTjtg] vertical 2015-06-08 15:45:22.135195,earliest:2015-06-08 15:45:22.135195
-| -- -- [ikyuqWSk7MhSQjJ00kheqq822JyPOJo7] problem 2015-06-08 15:45:22.135203,earliest:2015-06-08 15:45:22.135203
-| -- [GAlrROYZAlgdj6kN2kKuZ9abyDgxjIb6] vertical 2015-06-08 15:45:22.135221,earliest:2015-06-08 15:45:22.135221
-| -- -- [FyAdBOmtpzNdAq36qIAfZnAWETtWm8tZ] problem 2015-06-08 15:45:22.135229,earliest:2015-06-08 15:45:22.135229
-| -- [volTrcT4Jb0yuovF8CTxTYckjAaEKXh5] vertical 2015-06-08 15:45:22.135248,earliest:2015-06-08 15:45:22.135248
-| -- -- [vafNQlxRg8d6znXrHa9Yt0MY4ZCxYqCU] problem 2015-06-08 15:45:22.135255,earliest:2015-06-08 15:45:22.135255
-| -- [uQnnkPdNBIB3FaapKh1IQFVqbveOpgDO] vertical 2015-06-08 15:45:22.135274,earliest:2015-06-08 15:45:22.135274
-| -- -- [TRbeLJHsr10rrAiWPgUfxQ6XmfmSNxtF] problem 2015-06-08 15:45:22.135282,earliest:2015-06-08 15:45:22.135282
+| -- -- -- -- [pOLerbQSFGNw0mdMvVKOzOxnW7R3CLcd] vertical 2015-06-13 22:50:05.431701,earliest:2015-06-13 22:50:05.431701
+| -- -- -- -- -- [QPHxrvVIPTZUMmIPBoTDnUJTEhBCqHx2] problem 2015-06-13 22:50:05.431704,earliest:2015-06-13 22:50:05.431704
+| -- -- -- -- [kA5B5TsmDELKpzDiWJu8TLlo0YcvUhhU] vertical 2015-06-13 22:50:05.431713,earliest:2015-06-13 22:50:05.431713
+| -- -- -- -- -- [wvxeon59qeZNIwfdVJfLhxIwLN8yu9vl] problem 2015-06-13 22:50:05.431716,earliest:2015-06-13 22:50:05.431716
+| -- -- -- -- [ZhRNHczwVi1Espk9eWdn4QdRT7TGFzva] vertical 2015-06-13 22:50:05.431724,earliest:2015-06-13 22:50:05.431724
+| -- -- -- -- -- [MZCpxXzDLR3HEv0xQR2v5O1UajNlQtJz] problem 2015-06-13 22:50:05.431728,earliest:2015-06-13 22:50:05.431728
+| -- -- -- -- [nflj2CK76F8bBLFBi39Ip41YCZywFTyF] vertical 2015-06-13 22:50:05.431737,earliest:2015-06-13 22:50:05.431737
+| -- -- -- -- -- [UVPtnt0s56CrHUCDdXWd6wNncS1cS557] problem 2015-06-13 22:50:05.431740,earliest:2015-06-13 22:50:05.431740
+| -- -- -- -- [6XsNxG3mODzDctx95dm1nHaLsWwGro0O] vertical 2015-06-13 22:50:05.431749,earliest:2015-06-13 22:50:05.431749
+| -- -- -- -- -- [POpUfmmqRvj0UpF5WmMGy0dbMwS7XCE8] problem 2015-06-13 22:50:05.431752,earliest:2015-06-13 22:50:05.431752
+| -- -- -- -- [ntjX5aqewe8muOh5C9mv1DaAMM6X8NIx] vertical 2015-06-13 22:50:05.431760,earliest:2015-06-13 22:50:05.431760
+| -- -- -- -- -- [9HVHqQ3xkHsiBkNA77EOR0yCBKZMMS9z] problem 2015-06-13 22:50:05.431764,earliest:2015-06-13 22:50:05.431764
+| -- -- -- -- [R9pikNTnNPXFYWIyhIVx8t3vhak82N46] vertical 2015-06-13 22:50:05.431775,earliest:2015-06-13 22:50:05.431775
+| -- -- -- -- -- [C9BmuyFpFqQo8GMsRCnyOMczjUoR96aX] problem 2015-06-13 22:50:05.431779,earliest:2015-06-13 22:50:05.431779
+| -- -- -- -- [RpbYVAmTdznBGB6XiwguSWOzqgMtLPmk] vertical 2015-06-13 22:50:05.431787,earliest:2015-06-13 22:50:05.431787
+| -- -- -- -- -- [UAlJ7HUwyQgoXQv0Ps27VXJALZ3Qf8jA] problem 2015-06-13 22:50:05.431790,earliest:2015-06-13 22:50:05.431790
+| -- -- -- -- [WCfYCgjetE476FE7SwlZMpNTwUXBHDfH] vertical 2015-06-13 22:50:05.431799,earliest:2015-06-13 22:50:05.431799
+| -- -- -- -- -- [dGdrH1cTcJSc7Uf9kgQ11DoZvlXOjybn] problem 2015-06-13 22:50:05.431802,earliest:2015-06-13 22:50:05.431802
+| -- -- -- -- [gqLgPDdSUgqqSc5fDoJDRFwWDWvYymtY] vertical 2015-06-13 22:50:05.431811,earliest:2015-06-13 22:50:05.431811
+| -- -- -- -- -- [K87a7K6k2a3LLZhJ6L4YF22VNNRZZWpx] problem 2015-06-13 22:50:05.431815,earliest:2015-06-13 22:50:05.431815
+| -- -- -- -- [XUQpqlP78A6W50VmCvi3Whn7pPaET6AT] vertical 2015-06-13 22:50:05.431823,earliest:2015-06-13 22:50:05.431823
+| -- -- -- -- -- [O8IQZ5E1rxDRhYyMMjWkAfZfoOmrP3DC] problem 2015-06-13 22:50:05.431827,earliest:2015-06-13 22:50:05.431827
+| -- -- [ZRxvkSMca4dgWjJpuzVrHCAuD0sacu9E] chapter 2014-08-05 01:00:00,earliest:2015-06-13 22:50:05.432748
+| -- -- -- [zNzQJxG0fIOVpmUnNE9pqt3AY8hLW7ax] sequential 2014-08-05 01:00:00,earliest:2015-06-13 22:50:05.432801
+| -- -- -- -- [t658orbx96VVth98kBnp73uzaC7gmJyF] vertical 2015-06-13 22:50:05.432809,earliest:2015-06-13 22:50:05.432809
+| -- -- -- -- -- [PGzje33ZTkpUoZ55Ee7DpC6snd4VVW2q] problem 2015-06-13 22:50:05.432812,earliest:2015-06-13 22:50:05.432812
+| -- -- -- -- [OZEZW4BisFQazWhK25pt4iM7AjLzw5qv] vertical 2015-06-13 22:50:05.432821,earliest:2015-06-13 22:50:05.432821
+| -- -- -- -- -- [YgwaAKlMgO04XkWYXIF3CkJBRNYXVni0] video 2015-06-13 22:50:05.432824,earliest:2015-06-13 22:50:05.432824
+| -- -- -- -- [4wPWRO3iEnB8sKeEIiYHyLb9wUXdspRZ] vertical 2015-06-13 22:50:05.432833,earliest:2015-06-13 22:50:05.432833
+| -- -- -- -- -- [gfzCjJHpKj9LEpHSadrxupbleVMwJYH6] problem 2015-06-13 22:50:05.432837,earliest:2015-06-13 22:50:05.432837
+| -- -- -- -- [r5dgapt4JpMa9qsL4BfGHGx7w804Jhhk] vertical 2015-06-13 22:50:05.432845,earliest:2015-06-13 22:50:05.432845
+| -- -- -- -- -- [DLmwgY3493Fi3MAq9ToLtU8ortJtR7LB] video 2015-06-13 22:50:05.432849,earliest:2015-06-13 22:50:05.432849
+| -- -- -- [thptx8PexulavmsKKfyEbJF0X2mNJeaU] sequential 2014-08-05 01:00:00,earliest:2015-06-13 22:50:05.432927
+| -- -- -- -- [K5mWl0zunypVnJI8WjelZ80Si8gSZlvj] vertical 2015-06-13 22:50:05.432934,earliest:2015-06-13 22:50:05.432934
+| -- -- -- -- -- [BZKNBzfUM9P15i6Xx2MCbkEYxCPHp1Rp] video 2015-06-13 22:50:05.432938,earliest:2015-06-13 22:50:05.432938
+| -- -- -- -- [7fqvmyR7jAqfXjmsrDXmex2pDtJvzkj0] vertical 2015-06-13 22:50:05.432946,earliest:2015-06-13 22:50:05.432946
+| -- -- -- -- -- [J8tAaZxNX8qc9F5GCLVfLOWfqiPQ76H8] problem 2015-06-13 22:50:05.432950,earliest:2015-06-13 22:50:05.432950
+| -- -- -- -- [rPjjN4cPLLhX6Q0HlGlnocdZrKGtVD9e] vertical 2015-06-13 22:50:05.432958,earliest:2015-06-13 22:50:05.432958
+| -- -- -- -- -- [NLWJcOFNPYNTA1a4SDDkBrEbVUuHslj3] problem 2015-06-13 22:50:05.432962,earliest:2015-06-13 22:50:05.432962
+| -- -- -- -- [6Uvd7ktKJE9eoN5Yls3vq9rO2i6cJWNG] vertical 2015-06-13 22:50:05.432970,earliest:2015-06-13 22:50:05.432970
+| -- -- -- -- -- [cA5uPJvLPCvPgaufsettoz7Yrxqpls15] video 2015-06-13 22:50:05.432974,earliest:2015-06-13 22:50:05.432974
+| -- -- -- -- [xrypQ9ydVRRC5rPobQcuPs6Ryiz6nNSn] vertical 2015-06-13 22:50:05.432983,earliest:2015-06-13 22:50:05.432983
+| -- -- -- -- -- [BrKZIJhzzFt6eAnTc4nz64rRTA5M7O7k] video 2015-06-13 22:50:05.432986,earliest:2015-06-13 22:50:05.432986
+| -- -- -- -- [WEvxocQ4cw0YRqmaAtIgKqNQxp4oJsMg] vertical 2015-06-13 22:50:05.432994,earliest:2015-06-13 22:50:05.432994
+| -- -- -- -- -- [AQmwA8WUkiiLv7uLLpBL3lgFrqjJNsbR] problem 2015-06-13 22:50:05.432998,earliest:2015-06-13 22:50:05.432998
+| -- -- -- [HDtqkLSDocbQxIbOXQVgOMHj00urMY2m] sequential 2014-08-05 01:00:00,earliest:2015-06-13 22:50:05.433028
+| -- -- -- -- [clcLS3sks28nhy5tAxSZI4r2yGGj4tsu] vertical 2015-06-13 22:50:05.433035,earliest:2015-06-13 22:50:05.433035
+| -- -- -- -- -- [Jhng9CPDvTasVSk8mU2zwbHFIQXokzxX] problem 2015-06-13 22:50:05.433039,earliest:2015-06-13 22:50:05.433039
+| -- -- -- -- [u3afTTCwuspyeIgoXDxSkG5P30yM3WpI] vertical 2015-06-13 22:50:05.433047,earliest:2015-06-13 22:50:05.433047
+| -- -- -- -- -- [iwjON7foN1VLGtJPr8nqlqr9npmvt9NO] video 2015-06-13 22:50:05.433050,earliest:2015-06-13 22:50:05.433050
+| -- -- -- [ZFwa9k3GvM2Umx8UsiCFtTHi9IC42wNk] sequential 2014-08-05 01:00:00,earliest:2015-06-13 22:50:05.433099
+| -- -- -- -- [mxEdBySBB1waSudGcgt5Q66eXmTF8RsY] vertical 2015-06-13 22:50:05.433107,earliest:2015-06-13 22:50:05.433107
+| -- -- -- -- -- [V4PvNJcyuoa071cwYXxslLNZ7zaQWX1y] video 2015-06-13 22:50:05.433110,earliest:2015-06-13 22:50:05.433110
+| -- -- -- -- [rsIPiKQszfqWsGVsUe30aDImsDoK8OEs] vertical 2015-06-13 22:50:05.433119,earliest:2015-06-13 22:50:05.433119
+| -- -- -- -- -- [WL9tKLd2uwHrI2uWCfSsJxwV093EjPsE] video 2015-06-13 22:50:05.433122,earliest:2015-06-13 22:50:05.433122
+| -- -- -- -- [GshRLQwSvMqpMcDw8IVhs7HVD6vZe86A] vertical 2015-06-13 22:50:05.433135,earliest:2015-06-13 22:50:05.433135
+| -- -- -- -- -- [gnD5xOiCM98m0jUl6h5CoZbQjO4ZZ7Q9] problem 2015-06-13 22:50:05.433138,earliest:2015-06-13 22:50:05.433138
+| -- -- -- -- -- [Oc6PvS2WcMPHlNpqn55Ap1HAwKJoWmM9] problem 2015-06-13 22:50:05.433142,earliest:2015-06-13 22:50:05.433142
+| -- -- -- [IuYkBHA9JvdA3bj302i85Fyw8TsR9rOR] sequential 2014-08-05 01:00:00,earliest:2015-06-13 22:50:05.433179
+| -- -- -- -- [gPWhfRlVC8baDXXdneqJfkUydiDDjsLK] vertical 2015-06-13 22:50:05.433187,earliest:2015-06-13 22:50:05.433187
+| -- -- -- -- -- [KSHAPPSF0NFfjYjHtJeBUyz3V6Udg7O9] video 2015-06-13 22:50:05.433190,earliest:2015-06-13 22:50:05.433190
+| -- -- -- -- [DDhiOq5a9pxB8HJi1Vqz1cVPT1CFomtz] vertical 2015-06-13 22:50:05.433202,earliest:2015-06-13 22:50:05.433202
+| -- -- -- -- -- [NkF24BsFikf0LAZRoladrMwEfZOytMqX] problem 2015-06-13 22:50:05.433206,earliest:2015-06-13 22:50:05.433206
+| -- -- -- -- -- [SNG5XKu45MydA6mCRWukjct2OD0AfVsi] problem 2015-06-13 22:50:05.433209,earliest:2015-06-13 22:50:05.433209
+| -- -- -- [hOTJxXmjJHal9xxSpI9zbHTzMZBGjVQb] sequential 2014-08-05 01:00:00,earliest:2015-06-13 22:50:05.433346
+| -- -- -- -- [Ks0oQ3Uzw2myKpU32r1It65h91B63eK7] vertical 2015-06-13 22:50:05.433354,earliest:2015-06-13 22:50:05.433354
+| -- -- -- -- -- [bJrA0phd3QRPbSr8k3NzwQDyoBKz0YQ2] problem 2015-06-13 22:50:05.433357,earliest:2015-06-13 22:50:05.433357
+| -- -- -- -- [VMr1USH9ZeItohYc9GpyvQiz9MfnryVu] vertical 2015-06-13 22:50:05.433366,earliest:2015-06-13 22:50:05.433366
+| -- -- -- -- -- [C0TUk7LmMwsO965Ll1GNyHTj1N8t8ZR0] problem 2015-06-13 22:50:05.433369,earliest:2015-06-13 22:50:05.433369
+| -- -- -- -- [qBfWo27FIiUFREEtmSgxeatyi5BWUzp6] vertical 2015-06-13 22:50:05.433378,earliest:2015-06-13 22:50:05.433378
+| -- -- -- -- -- [r10qmgO1qgmurAsHUs0K1XuoreIigVsk] problem 2015-06-13 22:50:05.433381,earliest:2015-06-13 22:50:05.433381
+| -- -- -- -- [nG34dtZaIaMPyoLSWuAc8EM6dnBARz81] vertical 2015-06-13 22:50:05.433390,earliest:2015-06-13 22:50:05.433390
+| -- -- -- -- -- [FjVnOtWY1jEGvLTgnye0NxjeHC9cmZZo] problem 2015-06-13 22:50:05.433393,earliest:2015-06-13 22:50:05.433393
+| -- -- -- -- [ij35vPl7hRMnMD8ON1bVgZrTfjv7wU2v] vertical 2015-06-13 22:50:05.433402,earliest:2015-06-13 22:50:05.433402
+| -- -- -- -- -- [gu5qPN546N0O0HeTZan9nJ7tEEl5TLps] problem 2015-06-13 22:50:05.433405,earliest:2015-06-13 22:50:05.433405
+| -- -- -- -- [aKIVhGjlSr8bcOz4qY6qKj8CYq3IbXt7] vertical 2015-06-13 22:50:05.433414,earliest:2015-06-13 22:50:05.433414
+| -- -- -- -- -- [57FdEBBPVDJWoVokal2eiQ9xGNVwREHG] problem 2015-06-13 22:50:05.433417,earliest:2015-06-13 22:50:05.433417
+| -- -- -- -- [ZHXV0rcmRB78Z0XbL18hSs0j33cGIxCD] vertical 2015-06-13 22:50:05.433426,earliest:2015-06-13 22:50:05.433426
+| -- -- -- -- -- [NldlnB1nCLFoehPWSHoQ0Z4qnb7gV4Kl] problem 2015-06-13 22:50:05.433429,earliest:2015-06-13 22:50:05.433429
+| -- -- -- -- [rt6gVGDx6PiqiSkrk8tBALglSMSzxPOT] vertical 2015-06-13 22:50:05.433438,earliest:2015-06-13 22:50:05.433438
+| -- -- -- -- -- [njdCBxyXEOc2AxPCqI2CK8NkEMukOpwb] problem 2015-06-13 22:50:05.433441,earliest:2015-06-13 22:50:05.433441
+| -- -- -- -- [fyY39ZfCRVSoKDeL65WiTgIh74yHfzE0] vertical 2015-06-13 22:50:05.433450,earliest:2015-06-13 22:50:05.433450
+| -- -- -- -- -- [8Ml2YMvKIlHT3jEmsZhLNajzvp9lv3Oe] problem 2015-06-13 22:50:05.433453,earliest:2015-06-13 22:50:05.433453
+| -- -- -- -- [9o5MTZJyHNHknKONJwrIg8vORZiSRdDV] vertical 2015-06-13 22:50:05.433462,earliest:2015-06-13 22:50:05.433462
+| -- -- -- -- -- [omNAjuuRaZqPFU5W8KsJqkAP326ckmgI] problem 2015-06-13 22:50:05.433465,earliest:2015-06-13 22:50:05.433465
+| -- -- -- -- [QVL0aDKESjIYoYaRWaDQbjU22VMy82OD] vertical 2015-06-13 22:50:05.433473,earliest:2015-06-13 22:50:05.433473
+| -- -- -- -- -- [UoCru36wrMZox5upSHhD7xcKKPRcZwNk] problem 2015-06-13 22:50:05.433477,earliest:2015-06-13 22:50:05.433477
+| -- -- -- [9AQ8noWOsDL7fK79AiZrb6JAJghTHry3] sequential 2014-08-05 01:00:00,earliest:2015-06-13 22:50:05.433565
+| -- -- -- -- [TBPnCpvn8p12nCTBfB3ApCZ3zBc3JdWt] vertical 2015-06-13 22:50:05.433573,earliest:2015-06-13 22:50:05.433573
+| -- -- -- -- -- [2sGrs9e2wE3Q0tidkTQtoaBtLCpFNkSo] video 2015-06-13 22:50:05.433576,earliest:2015-06-13 22:50:05.433576
+| -- -- -- -- [P8uiFLQXN1zaiOiDamRBaAMWplAO1qJ1] vertical 2015-06-13 22:50:05.433588,earliest:2015-06-13 22:50:05.433588
+| -- -- -- -- -- [dRwPeSWLq66g6AZE4eSAW7Ccoqtrl4dK] problem 2015-06-13 22:50:05.433592,earliest:2015-06-13 22:50:05.433592
+| -- -- -- -- -- [b1lv9oHrjOusLbJC3Bb6Xyi8LkbaGMNh] problem 2015-06-13 22:50:05.433596,earliest:2015-06-13 22:50:05.433596
+| -- -- -- -- [VpqfRisjgGqXtxnyHKxY41R3wYyIdSUK] vertical 2015-06-13 22:50:05.433604,earliest:2015-06-13 22:50:05.433604
+| -- -- -- -- -- [Axsws8ycBJJA6TsbegfReoa0JXt7smeT] video 2015-06-13 22:50:05.433608,earliest:2015-06-13 22:50:05.433608
+| -- -- -- -- [5ElUNegNhYXS9oazhKxPwUSa490yjjhF] vertical 2015-06-13 22:50:05.433616,earliest:2015-06-13 22:50:05.433616
+| -- -- -- -- -- [Tu1nxfKnvgkfgfEojVYQaTzuJEllRYl1] video 2015-06-13 22:50:05.433620,earliest:2015-06-13 22:50:05.433620
+| -- -- -- -- [K0BMQgVyQrXAPIrllwY35cA5QXuvYzWk] vertical 2015-06-13 22:50:05.433636,earliest:2015-06-13 22:50:05.433636
+| -- -- -- -- -- [uJrSHyqjVRuj9gqoVn0xmMOAoiwVTjmI] problem 2015-06-13 22:50:05.433639,earliest:2015-06-13 22:50:05.433639
+| -- -- -- -- -- [ZENXoZnALOvkmCBebsSdHqUQaUS6woaR] problem 2015-06-13 22:50:05.433643,earliest:2015-06-13 22:50:05.433643
+| -- -- -- -- -- [TSYVR8JLOAu1DY7KDCZOzNOJcdwpy1AP] problem 2015-06-13 22:50:05.433647,earliest:2015-06-13 22:50:05.433647
+| -- [V043ilAwsdzxSpDwgZqX44HnsIXltpmT] vertical 2015-06-13 22:50:05.433655,earliest:2015-06-13 22:50:05.433655
+| -- [OGOSsamaykaGiSTYKWyAbNBSIPgelHE6] vertical 2015-06-13 22:50:05.433674,earliest:2015-06-13 22:50:05.433674
+| -- -- [tlFTw9Da83lQB6Pm1QrsM66PEUBrhOcD] problem 2015-06-13 22:50:05.433677,earliest:2015-06-13 22:50:05.433677
+| -- [LMSPHjnvE3wmdXXJ1b7MkiK23tVSrhvA] vertical 2015-06-13 22:50:05.433686,earliest:2015-06-13 22:50:05.433686
+| -- -- [ISp4xoKRmemuAv1iLSMOwKLVH3g4Fjwi] problem 2015-06-13 22:50:05.433690,earliest:2015-06-13 22:50:05.433690
+| -- [RYjpLFSVOSxvz8S7QhDgvQNgQaMENJO6] vertical 2015-06-13 22:50:05.433700,earliest:2015-06-13 22:50:05.433700
+| -- -- [N10f8fDT71TuEGgA95bRhliN3cASI2bo] problem 2015-06-13 22:50:05.433703,earliest:2015-06-13 22:50:05.433703
+| -- [gkmLdWPrLppbTfWSkwJQ8A20SvGXEN9z] vertical 2015-06-13 22:50:05.433713,earliest:2015-06-13 22:50:05.433713
+| -- -- [xgWr7iIV7dFy02Rz6bHpaB34GuiPaI9v] problem 2015-06-13 22:50:05.433716,earliest:2015-06-13 22:50:05.433716
+| -- [7IGCupnB67BozbBxv1KUHxp8LAcWuPHC] vertical 2015-06-13 22:50:05.433725,earliest:2015-06-13 22:50:05.433725
+| -- -- [D1biIOpaCRHDXDPgUh4Z9tIBrsaS24HD] problem 2015-06-13 22:50:05.433729,earliest:2015-06-13 22:50:05.433729
+| -- [GlhlOkUkG4S8iSaqTgz2ftRyStlLFRcB] static_tab 2015-06-13 22:50:05.433734,earliest:2015-06-13 22:50:05.433734
+| -- [QBSjjfH8wJdnLlLLXkX5LQPziLmvUbuF] vertical 2015-06-13 22:50:05.433879,earliest:2015-06-13 22:50:05.433879
+| -- -- [oROt3gthKwV99J2vGY37iPKr9Wk7DFEc] problem 2015-06-13 22:50:05.433882,earliest:2015-06-13 22:50:05.433882
+| -- [5SYMfopKB6PPdwqqJS6KySnhvvTEUycH] vertical 2015-06-13 22:50:05.433892,earliest:2015-06-13 22:50:05.433892
+| -- -- [uREe2MhnydJ1IEcrrrcyOE41h4D4iipl] problem 2015-06-13 22:50:05.433895,earliest:2015-06-13 22:50:05.433895
+| -- [f9P2fxnCx1eYUyndL7xQoVeLqvjEo2L2] vertical 2015-06-13 22:50:05.433911,earliest:2015-06-13 22:50:05.433911
+| -- -- [SL9d9cqqJq6FJPb6GtGLTKZkxzE2jien] video 2015-06-13 22:50:05.433915,earliest:2015-06-13 22:50:05.433915
+| -- [3fcRJtsci2r7Q2HRnCidiemseTs2a6Fq] vertical 2015-06-13 22:50:05.433924,earliest:2015-06-13 22:50:05.433924
+| -- -- [rH8DgUWgai7cXTFtNzBVC0ejksH8q0Rd] problem 2015-06-13 22:50:05.433928,earliest:2015-06-13 22:50:05.433928
+| -- [5BOEXoGIZrdBcZxkEJ8OQAcjRMhIkx7s] vertical 2015-06-13 22:50:05.433937,earliest:2015-06-13 22:50:05.433937
+| -- -- [2ONBIIKf5AQ53jipNOSsuc2clbhOJfDB] problem 2015-06-13 22:50:05.433940,earliest:2015-06-13 22:50:05.433940
+| -- [OJOUvkIzo8uJaz5CIFUdyYjTTJkijCrz] sequential 2015-06-13 22:50:05.433945,earliest:2015-06-13 22:50:05.433945
+| -- [IITqBuMwOkxraohDNuLbrgNvbiJakpoM] about 2015-06-13 22:50:05.433955,earliest:2015-06-13 22:50:05.433955
+| -- [XfejYvjpQc7l03Y2XnMAwr5pa8oQmHPW] vertical 2015-06-13 22:50:05.434029,earliest:2015-06-13 22:50:05.434029
+| -- -- [psj8VxcPAvddzvfzmYNgI62VyWX0Ubo6] problem 2015-06-13 22:50:05.434033,earliest:2015-06-13 22:50:05.434033
+| -- [vLjaE19m0SD45dnPKedLrNCHiRh5mHmq] vertical 2015-06-13 22:50:05.434399,earliest:2015-06-13 22:50:05.434399
+| -- -- [zh53rsjDn8lPxtCcJpx8W0eOoqlTy1yv] problem 2015-06-13 22:50:05.434402,earliest:2015-06-13 22:50:05.434402
+| -- [inhLW2b3d8HiVa8kQfImc93cFHsFr9Fq] vertical 2015-06-13 22:50:05.434408,earliest:2015-06-13 22:50:05.434408
+| -- [2FfllIXar6deQIO7vdb2P4k2hWOD2zNJ] vertical 2015-06-13 22:50:05.434425,earliest:2015-06-13 22:50:05.434425
+| -- -- [ofETRa6qlenQ8aYJJ1Bd8QO70Zpp92GG] problem 2015-06-13 22:50:05.434429,earliest:2015-06-13 22:50:05.434429
+| -- [fsGIzGLP5Tcu1QCU89vV0L81s8NK9HYg] problem 2015-06-13 22:50:05.434434,earliest:2015-06-13 22:50:05.434434
+| -- [COYFLNy8nYvtSe9VwZxBfZDI9LdKTjtg] vertical 2015-06-13 22:50:05.434450,earliest:2015-06-13 22:50:05.434450
+| -- -- [ikyuqWSk7MhSQjJ00kheqq822JyPOJo7] problem 2015-06-13 22:50:05.434454,earliest:2015-06-13 22:50:05.434454
+| -- [GAlrROYZAlgdj6kN2kKuZ9abyDgxjIb6] vertical 2015-06-13 22:50:05.434463,earliest:2015-06-13 22:50:05.434463
+| -- -- [FyAdBOmtpzNdAq36qIAfZnAWETtWm8tZ] problem 2015-06-13 22:50:05.434467,earliest:2015-06-13 22:50:05.434467
+| -- [volTrcT4Jb0yuovF8CTxTYckjAaEKXh5] vertical 2015-06-13 22:50:05.434476,earliest:2015-06-13 22:50:05.434476
+| -- -- [vafNQlxRg8d6znXrHa9Yt0MY4ZCxYqCU] problem 2015-06-13 22:50:05.434480,earliest:2015-06-13 22:50:05.434480
+| -- [uQnnkPdNBIB3FaapKh1IQFVqbveOpgDO] vertical 2015-06-13 22:50:05.434489,earliest:2015-06-13 22:50:05.434489
+| -- -- [TRbeLJHsr10rrAiWPgUfxQ6XmfmSNxtF] problem 2015-06-13 22:50:05.434493,earliest:2015-06-13 22:50:05.434493
