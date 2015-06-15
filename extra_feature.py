@@ -21,14 +21,17 @@ enrollmentIds = enrollment[enrollment.course_id == course_id]
 
 del enrollmentIds['username']
 
-# load classification result
-result = pd.DataFrame(pd.read_csv('./train/truth_train.csv',header = 0))
 
+
+# ------------------------- load classification result -------------------------
+result = pd.DataFrame(pd.read_csv('./train/truth_train.csv',header = 0))
 
 
 # merge enrollment and result to 'matrix', get enrollment_id and their result
 matrix = pd.merge(enrollmentIds,result,how='inner',on='enrollment_id')
 del matrix['course_id']
+
+
 
 
 # ------------------------- get access log of this course -------------------------
@@ -95,7 +98,7 @@ get_timeT = lambda  x : datetime.datetime.strptime(str(x),"%Y-%m-%dT%H:%M:%S")
 timespan['first_time'] = timespan['first_time'].apply(get_timeT)
 timespan['last_time'] = timespan['last_time'].apply(get_timeT)
 timespan['timespan'] = (timespan['last_time'] -  timespan['first_time']) / np.timedelta64(1, 'D')
-print timespan[timespan.enrollment_id == 447]
+
 del timespan['first_time']
 del timespan['last_time']
 
@@ -196,11 +199,38 @@ matrix = pd.merge(matrix,problem_start_in_days,on='enrollment_id',how='left')
 matrix['problem_start_in'].fillna(-1,inplace=True)
 
 
+
+# ------------- adjust the column positions: put result to the last column  ------------------------
+matrix['res'] = matrix['result']
+del matrix['result']
+matrix['result'] = matrix['res']
+del matrix['res']
+
+
 # write matrix to csv
 
 path = './train/features/' + course_id + '.csv'
 matrix.to_csv(path,index = False,index_label= False,header = 1)
 
-# test random forest
+# cross validation on random forest
+
+from sklearn.cross_validation import cross_val_score
+from sklearn.datasets import make_blobs
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import ExtraTreesClassifier
+from sklearn.tree import DecisionTreeClassifier
+
+y = matrix.result
+del matrix['result']
+del matrix['enrollment_id']
+X = matrix
+
+
+
+
+clf = RandomForestClassifier(max_depth=None,min_samples_split=1,random_state=0,n_estimators=500)
+scores = cross_val_score(clf,X,y)
+
+print scores.mean()
 
 

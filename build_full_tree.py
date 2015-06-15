@@ -9,7 +9,10 @@ from full_tree_node import *
 
 
 df0 = pd.DataFrame(pd.read_csv('./object.csv',header = 0))
+
 df = df0[df0.course_id == '5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2']
+
+
 
 courses = {}
 
