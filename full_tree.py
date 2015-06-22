@@ -62,10 +62,12 @@ class FullTree(object):
         for id,child in self.root.get_children().items():
             if child.get_category() == "unknown":
                 parent_seq = self.find_nearest_seq(child.get_start())
-                parent_seq.get_children()[id] = child
-                child.adjust_category()
-                child.set_level(4)
-                del self.root.children[id]
+                if parent_seq is not None:
+                    parent_seq.get_children()[id] = child
+                    child.adjust_category()
+                    child.set_level(4)
+                    del self.root.children[id]
+
 
 
 
@@ -83,13 +85,15 @@ class FullTree(object):
         self.update_seq()
         keys = self.seq.keys()
         keys.sort()
-
         last = None
         nearest = self.root
         for timestamp in keys:
             if timestamp > time:
-                nearest = self.seq[last]
-                break
+                if last is None:
+                    return None
+                else:
+                    nearest = self.seq[last]
+                    break
             last = timestamp
         return nearest
 
@@ -130,11 +134,11 @@ class FullTree(object):
 
         self.add_insula_to_sequentials()
         self.update_video()
-        self.print_video()
+        # self.print_video()
         path = './train/courseDump/' + self.course_id +  '.txt'
 
         self.update_problems()
-        self.print_problems()
+        # self.print_problems()
         self.update_sequentialID()
         self.update_chapterID()
 
@@ -152,13 +156,12 @@ class FullTree(object):
         print "printed to " + path2
 
         modules=pd.DataFrame(columns=['module_id','start','category','sequentialId','chapterId'])
+        get_time = lambda  x : x.find('.')
+
         self.get_module_matrix(modules)
-        print modules
         path3 = './train/fullTree/' + self.course_id + "_moduleIDs.csv"
         modules.to_csv(path3,index=False,index_label=False,header=1,encoding='ascii')
         print "modules are printed to " + str(path3)
-
-
 
     def get_module_matrix(self,matrix):
         self.root.add_modules(matrix)

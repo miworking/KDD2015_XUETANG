@@ -2,9 +2,252 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65125297-e38d-4f96-8d87-4d229f7c3052" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/1pvLqtotBsKv7QSOsLicJDQMHx3lui6d.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/1pvLqtotBsKv7QSOsLicJDQMHx3lui6d.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/1pvLqtotBsKv7QSOsLicJDQMHx3lui6d.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/1pvLqtotBsKv7QSOsLicJDQMHx3lui6d.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/1pvLqtotBsKv7QSOsLicJDQMHx3lui6d.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/1pvLqtotBsKv7QSOsLicJDQMHx3lui6d.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/3VkHkmOtom3jM2wCu94xgzzu1d6Dn7or.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/3VkHkmOtom3jM2wCu94xgzzu1d6Dn7or.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/3VkHkmOtom3jM2wCu94xgzzu1d6Dn7or.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/3VkHkmOtom3jM2wCu94xgzzu1d6Dn7or.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/3VkHkmOtom3jM2wCu94xgzzu1d6Dn7or.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/3VkHkmOtom3jM2wCu94xgzzu1d6Dn7or.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/3cnZpv6ReApmCaZyaQwi2izDZxVRdC01.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/3cnZpv6ReApmCaZyaQwi2izDZxVRdC01.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/3cnZpv6ReApmCaZyaQwi2izDZxVRdC01.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/3cnZpv6ReApmCaZyaQwi2izDZxVRdC01.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/3cnZpv6ReApmCaZyaQwi2izDZxVRdC01.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/3cnZpv6ReApmCaZyaQwi2izDZxVRdC01.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/5Gyp41oLVo7Gg7vF4vpmggWP5MU70QO6.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/5Gyp41oLVo7Gg7vF4vpmggWP5MU70QO6.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/5Gyp41oLVo7Gg7vF4vpmggWP5MU70QO6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/5Gyp41oLVo7Gg7vF4vpmggWP5MU70QO6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/5Gyp41oLVo7Gg7vF4vpmggWP5MU70QO6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/5Gyp41oLVo7Gg7vF4vpmggWP5MU70QO6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/7GRhBDsirIGkRZBtSMEzNTyDr2JQm4xx.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/7GRhBDsirIGkRZBtSMEzNTyDr2JQm4xx.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/7GRhBDsirIGkRZBtSMEzNTyDr2JQm4xx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/7GRhBDsirIGkRZBtSMEzNTyDr2JQm4xx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/7GRhBDsirIGkRZBtSMEzNTyDr2JQm4xx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/7GRhBDsirIGkRZBtSMEzNTyDr2JQm4xx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/81UZtt1JJwBFYMj5u38WNKCSVA4IJSDv.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/81UZtt1JJwBFYMj5u38WNKCSVA4IJSDv.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/81UZtt1JJwBFYMj5u38WNKCSVA4IJSDv.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/81UZtt1JJwBFYMj5u38WNKCSVA4IJSDv.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/81UZtt1JJwBFYMj5u38WNKCSVA4IJSDv.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/81UZtt1JJwBFYMj5u38WNKCSVA4IJSDv.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/9Bd26pfDLvkPINwLnpaGcf0LrLUvY1Mz.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/9Bd26pfDLvkPINwLnpaGcf0LrLUvY1Mz.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/9Bd26pfDLvkPINwLnpaGcf0LrLUvY1Mz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/9Bd26pfDLvkPINwLnpaGcf0LrLUvY1Mz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/9Bd26pfDLvkPINwLnpaGcf0LrLUvY1Mz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/9Bd26pfDLvkPINwLnpaGcf0LrLUvY1Mz.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/9Mq1P5hrrLw6Bh9X4W4ZjisQJDdxjz9x.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/9Mq1P5hrrLw6Bh9X4W4ZjisQJDdxjz9x.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/9Mq1P5hrrLw6Bh9X4W4ZjisQJDdxjz9x.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/9Mq1P5hrrLw6Bh9X4W4ZjisQJDdxjz9x.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/9Mq1P5hrrLw6Bh9X4W4ZjisQJDdxjz9x.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/9Mq1P5hrrLw6Bh9X4W4ZjisQJDdxjz9x.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/9zpXzW9zCfU8KGBWkhlsGH8B8czISH4J.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/9zpXzW9zCfU8KGBWkhlsGH8B8czISH4J.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/9zpXzW9zCfU8KGBWkhlsGH8B8czISH4J.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/9zpXzW9zCfU8KGBWkhlsGH8B8czISH4J.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/9zpXzW9zCfU8KGBWkhlsGH8B8czISH4J.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/9zpXzW9zCfU8KGBWkhlsGH8B8czISH4J.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/A3fsA9Zfv1X2fVEQhTw51lKENdNrEqT3.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/A3fsA9Zfv1X2fVEQhTw51lKENdNrEqT3.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/A3fsA9Zfv1X2fVEQhTw51lKENdNrEqT3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/A3fsA9Zfv1X2fVEQhTw51lKENdNrEqT3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/A3fsA9Zfv1X2fVEQhTw51lKENdNrEqT3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/A3fsA9Zfv1X2fVEQhTw51lKENdNrEqT3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/AXUJZGmZ0xaYSWazu8RQ1G5c76ECT1Kd.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/AXUJZGmZ0xaYSWazu8RQ1G5c76ECT1Kd.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/AXUJZGmZ0xaYSWazu8RQ1G5c76ECT1Kd.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/AXUJZGmZ0xaYSWazu8RQ1G5c76ECT1Kd.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/AXUJZGmZ0xaYSWazu8RQ1G5c76ECT1Kd.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/AXUJZGmZ0xaYSWazu8RQ1G5c76ECT1Kd.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/DABrJ6O4AotFwuAbfo1fuMj40VmMpPGX.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/DABrJ6O4AotFwuAbfo1fuMj40VmMpPGX.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/DABrJ6O4AotFwuAbfo1fuMj40VmMpPGX.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/DABrJ6O4AotFwuAbfo1fuMj40VmMpPGX.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/DABrJ6O4AotFwuAbfo1fuMj40VmMpPGX.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/DABrJ6O4AotFwuAbfo1fuMj40VmMpPGX.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/DPnLzkJJqOOPRJfBxIHbQEERiYHu5ila.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/DPnLzkJJqOOPRJfBxIHbQEERiYHu5ila.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/DPnLzkJJqOOPRJfBxIHbQEERiYHu5ila.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/DPnLzkJJqOOPRJfBxIHbQEERiYHu5ila.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/DPnLzkJJqOOPRJfBxIHbQEERiYHu5ila.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/DPnLzkJJqOOPRJfBxIHbQEERiYHu5ila.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/Er0RFawC4sHagDmmQZcBGBrzamLQcblZ.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/Er0RFawC4sHagDmmQZcBGBrzamLQcblZ.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/Er0RFawC4sHagDmmQZcBGBrzamLQcblZ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/Er0RFawC4sHagDmmQZcBGBrzamLQcblZ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/Er0RFawC4sHagDmmQZcBGBrzamLQcblZ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/Er0RFawC4sHagDmmQZcBGBrzamLQcblZ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/G8EPVSXsOYB5YQWZGiz1aVq5Pgr2GrQu.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/G8EPVSXsOYB5YQWZGiz1aVq5Pgr2GrQu.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/G8EPVSXsOYB5YQWZGiz1aVq5Pgr2GrQu.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/G8EPVSXsOYB5YQWZGiz1aVq5Pgr2GrQu.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/G8EPVSXsOYB5YQWZGiz1aVq5Pgr2GrQu.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/G8EPVSXsOYB5YQWZGiz1aVq5Pgr2GrQu.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/H2lDW05SyKnwntZ6Fora76aPAEswcMa5.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/H2lDW05SyKnwntZ6Fora76aPAEswcMa5.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/H2lDW05SyKnwntZ6Fora76aPAEswcMa5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/H2lDW05SyKnwntZ6Fora76aPAEswcMa5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/H2lDW05SyKnwntZ6Fora76aPAEswcMa5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/H2lDW05SyKnwntZ6Fora76aPAEswcMa5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/HbeAZjZFFQUe90oTP0RRO0PEtRAqU3kK.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/HbeAZjZFFQUe90oTP0RRO0PEtRAqU3kK.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/HbeAZjZFFQUe90oTP0RRO0PEtRAqU3kK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/HbeAZjZFFQUe90oTP0RRO0PEtRAqU3kK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/HbeAZjZFFQUe90oTP0RRO0PEtRAqU3kK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/HbeAZjZFFQUe90oTP0RRO0PEtRAqU3kK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/I7Go4XwWgpjRJM8EZGEnBpkfSmBNOlsO.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/I7Go4XwWgpjRJM8EZGEnBpkfSmBNOlsO.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/I7Go4XwWgpjRJM8EZGEnBpkfSmBNOlsO.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/I7Go4XwWgpjRJM8EZGEnBpkfSmBNOlsO.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/I7Go4XwWgpjRJM8EZGEnBpkfSmBNOlsO.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/I7Go4XwWgpjRJM8EZGEnBpkfSmBNOlsO.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/KHPw0gmg1Ad3V07TqRpyBzA8mRjj7mkt.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/KHPw0gmg1Ad3V07TqRpyBzA8mRjj7mkt.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/KHPw0gmg1Ad3V07TqRpyBzA8mRjj7mkt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/KHPw0gmg1Ad3V07TqRpyBzA8mRjj7mkt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/KHPw0gmg1Ad3V07TqRpyBzA8mRjj7mkt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/KHPw0gmg1Ad3V07TqRpyBzA8mRjj7mkt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/NmbZ3BmS8V4pMg6oxXHWpqqMZCE1jvYt.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/NmbZ3BmS8V4pMg6oxXHWpqqMZCE1jvYt.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/NmbZ3BmS8V4pMg6oxXHWpqqMZCE1jvYt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/NmbZ3BmS8V4pMg6oxXHWpqqMZCE1jvYt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/NmbZ3BmS8V4pMg6oxXHWpqqMZCE1jvYt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/NmbZ3BmS8V4pMg6oxXHWpqqMZCE1jvYt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/RXDvfPUBYFlVdlueBFbLW0mhhAyGEqpt.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/RXDvfPUBYFlVdlueBFbLW0mhhAyGEqpt.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/RXDvfPUBYFlVdlueBFbLW0mhhAyGEqpt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/RXDvfPUBYFlVdlueBFbLW0mhhAyGEqpt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/RXDvfPUBYFlVdlueBFbLW0mhhAyGEqpt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/RXDvfPUBYFlVdlueBFbLW0mhhAyGEqpt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/SpATywNh6bZuzm8s1ceuBUnMUAeoAHHw.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/SpATywNh6bZuzm8s1ceuBUnMUAeoAHHw.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/SpATywNh6bZuzm8s1ceuBUnMUAeoAHHw.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/SpATywNh6bZuzm8s1ceuBUnMUAeoAHHw.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/SpATywNh6bZuzm8s1ceuBUnMUAeoAHHw.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/SpATywNh6bZuzm8s1ceuBUnMUAeoAHHw.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/TAYxxh39I2LZnftBpL0LfF2NxzrCKpkx.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/TAYxxh39I2LZnftBpL0LfF2NxzrCKpkx.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/TAYxxh39I2LZnftBpL0LfF2NxzrCKpkx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/TAYxxh39I2LZnftBpL0LfF2NxzrCKpkx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/TAYxxh39I2LZnftBpL0LfF2NxzrCKpkx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/TAYxxh39I2LZnftBpL0LfF2NxzrCKpkx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/V4tXq15GxHo2gaMpaJLZ3IGEkP949IbE.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/V4tXq15GxHo2gaMpaJLZ3IGEkP949IbE.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/V4tXq15GxHo2gaMpaJLZ3IGEkP949IbE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/V4tXq15GxHo2gaMpaJLZ3IGEkP949IbE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/V4tXq15GxHo2gaMpaJLZ3IGEkP949IbE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/V4tXq15GxHo2gaMpaJLZ3IGEkP949IbE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/WM572q68zD5VW8pcvVTc1RhhFUq3iRFN.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/WM572q68zD5VW8pcvVTc1RhhFUq3iRFN.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/WM572q68zD5VW8pcvVTc1RhhFUq3iRFN.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/WM572q68zD5VW8pcvVTc1RhhFUq3iRFN.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/WM572q68zD5VW8pcvVTc1RhhFUq3iRFN.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/WM572q68zD5VW8pcvVTc1RhhFUq3iRFN.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/Wm3dddHSynJ76EJV6hyLYKGGRL0JF3YK.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/Wm3dddHSynJ76EJV6hyLYKGGRL0JF3YK.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/Wm3dddHSynJ76EJV6hyLYKGGRL0JF3YK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/Wm3dddHSynJ76EJV6hyLYKGGRL0JF3YK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/Wm3dddHSynJ76EJV6hyLYKGGRL0JF3YK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/Wm3dddHSynJ76EJV6hyLYKGGRL0JF3YK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/X78EhlW2JxwO1I6S3U4yZVwkEQpKXLOj.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/X78EhlW2JxwO1I6S3U4yZVwkEQpKXLOj.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/X78EhlW2JxwO1I6S3U4yZVwkEQpKXLOj.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/X78EhlW2JxwO1I6S3U4yZVwkEQpKXLOj.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/X78EhlW2JxwO1I6S3U4yZVwkEQpKXLOj.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/X78EhlW2JxwO1I6S3U4yZVwkEQpKXLOj.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/a2E7NQC7nZB7WHEhKGhKnKvUWtsLAQzh.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/a2E7NQC7nZB7WHEhKGhKnKvUWtsLAQzh.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/a2E7NQC7nZB7WHEhKGhKnKvUWtsLAQzh.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/a2E7NQC7nZB7WHEhKGhKnKvUWtsLAQzh.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/a2E7NQC7nZB7WHEhKGhKnKvUWtsLAQzh.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/a2E7NQC7nZB7WHEhKGhKnKvUWtsLAQzh.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/bWdj2GDclj5ofokWjzoa5jAwMkxCykd6.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/bWdj2GDclj5ofokWjzoa5jAwMkxCykd6.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/bWdj2GDclj5ofokWjzoa5jAwMkxCykd6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/bWdj2GDclj5ofokWjzoa5jAwMkxCykd6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/bWdj2GDclj5ofokWjzoa5jAwMkxCykd6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/bWdj2GDclj5ofokWjzoa5jAwMkxCykd6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/fbPkOYLVPtPgIt0MxizjfFJov3JbHyAi.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/fbPkOYLVPtPgIt0MxizjfFJov3JbHyAi.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/fbPkOYLVPtPgIt0MxizjfFJov3JbHyAi.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/fbPkOYLVPtPgIt0MxizjfFJov3JbHyAi.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/fbPkOYLVPtPgIt0MxizjfFJov3JbHyAi.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/fbPkOYLVPtPgIt0MxizjfFJov3JbHyAi.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/gvEwgd64UX4t3K7ftZwXiMkFuxFUAqQE.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/gvEwgd64UX4t3K7ftZwXiMkFuxFUAqQE.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/gvEwgd64UX4t3K7ftZwXiMkFuxFUAqQE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/gvEwgd64UX4t3K7ftZwXiMkFuxFUAqQE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/gvEwgd64UX4t3K7ftZwXiMkFuxFUAqQE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/gvEwgd64UX4t3K7ftZwXiMkFuxFUAqQE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/mTmmr5zd8l4wXhwiULwjSmSbi9ktcFmV.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/mTmmr5zd8l4wXhwiULwjSmSbi9ktcFmV.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/mTmmr5zd8l4wXhwiULwjSmSbi9ktcFmV.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/mTmmr5zd8l4wXhwiULwjSmSbi9ktcFmV.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/mTmmr5zd8l4wXhwiULwjSmSbi9ktcFmV.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/mTmmr5zd8l4wXhwiULwjSmSbi9ktcFmV.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/nSfGxfEtzw5G72fVbfaowxsV46Pg1xIc.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/nSfGxfEtzw5G72fVbfaowxsV46Pg1xIc.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/nSfGxfEtzw5G72fVbfaowxsV46Pg1xIc.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/nSfGxfEtzw5G72fVbfaowxsV46Pg1xIc.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/nSfGxfEtzw5G72fVbfaowxsV46Pg1xIc.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/nSfGxfEtzw5G72fVbfaowxsV46Pg1xIc.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/predict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/q6A6QG7qMpyNcznyT2XaIxnfNGkZRxXl.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/q6A6QG7qMpyNcznyT2XaIxnfNGkZRxXl.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/q6A6QG7qMpyNcznyT2XaIxnfNGkZRxXl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/q6A6QG7qMpyNcznyT2XaIxnfNGkZRxXl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/q6A6QG7qMpyNcznyT2XaIxnfNGkZRxXl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/q6A6QG7qMpyNcznyT2XaIxnfNGkZRxXl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/shM3Yy9vxHn2aqjSYfQXOcwGo0hWh3MI.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/shM3Yy9vxHn2aqjSYfQXOcwGo0hWh3MI.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/shM3Yy9vxHn2aqjSYfQXOcwGo0hWh3MI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/shM3Yy9vxHn2aqjSYfQXOcwGo0hWh3MI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/shM3Yy9vxHn2aqjSYfQXOcwGo0hWh3MI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/shM3Yy9vxHn2aqjSYfQXOcwGo0hWh3MI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/tXbz2ZYaRyb2ZsWUBPoYzAmisOhHQrYl.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/tXbz2ZYaRyb2ZsWUBPoYzAmisOhHQrYl.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/tXbz2ZYaRyb2ZsWUBPoYzAmisOhHQrYl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/tXbz2ZYaRyb2ZsWUBPoYzAmisOhHQrYl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/tXbz2ZYaRyb2ZsWUBPoYzAmisOhHQrYl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/tXbz2ZYaRyb2ZsWUBPoYzAmisOhHQrYl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/xMd9DzNyUCTLRPVbwWVzf4vq06oqrTT1.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/xMd9DzNyUCTLRPVbwWVzf4vq06oqrTT1.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/xMd9DzNyUCTLRPVbwWVzf4vq06oqrTT1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/xMd9DzNyUCTLRPVbwWVzf4vq06oqrTT1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/xMd9DzNyUCTLRPVbwWVzf4vq06oqrTT1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/xMd9DzNyUCTLRPVbwWVzf4vq06oqrTT1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/ykoe1cCWK134BJmfbNoPEenJOIWdtQOZ.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/randomForest/ykoe1cCWK134BJmfbNoPEenJOIWdtQOZ.result" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump copy/ykoe1cCWK134BJmfbNoPEenJOIWdtQOZ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/courseDump/ykoe1cCWK134BJmfbNoPEenJOIWdtQOZ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree copy/ykoe1cCWK134BJmfbNoPEenJOIWdtQOZ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/train/fullTree/ykoe1cCWK134BJmfbNoPEenJOIWdtQOZ.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/train/fullTree/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2_moduleIDs.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/train/fullTree/testencoding.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/train/log/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2_all.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/train/log/_5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/train/log/bWdj2GDclj5ofokWjzoa5jAwMkxCykd6.pk" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/train/log/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt" afterPath="$PROJECT_DIR$/train/fullTree copy/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/courseDump/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt" afterPath="$PROJECT_DIR$/train/courseDump/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train/fullTree/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt" afterPath="$PROJECT_DIR$/train/fullTree/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build_full_tree.py" afterPath="$PROJECT_DIR$/build_full_tree.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extra_feature.py" afterPath="$PROJECT_DIR$/extra_feature.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/full_tree.py" afterPath="$PROJECT_DIR$/full_tree.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kdd.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -18,16 +261,18 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/kdd$test.coverage" NAME="test Coverage Results" MODIFIED="1434335117846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kdd$build_full_tree.coverage" NAME="build_full_tree Coverage Results" MODIFIED="1434250181012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kdd$test.coverage" NAME="test Coverage Results" MODIFIED="1434752998270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kdd$build_full_tree.coverage" NAME="build_full_tree Coverage Results" MODIFIED="1434756009741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kdd$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1434755080340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kdd$extra_matrix.coverage" NAME="extra_matrix Coverage Results" MODIFIED="1434249842546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kdd$separate_log.coverage" NAME="separate_course Coverage Results" MODIFIED="1433614395035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kdd$build_tree.coverage" NAME="build_tree Coverage Results" MODIFIED="1433627192181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kdd$predict.coverage" NAME="predict Coverage Results" MODIFIED="1434770003119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kdd$build_course_tree.coverage" NAME="build_course_tree Coverage Results" MODIFIED="1433705836860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kdd$build_enrollment_tree.coverage" NAME="build_enrollment_tree Coverage Results" MODIFIED="1433644466738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kdd$Unnamed.coverage" NAME="build_enrollment Coverage Results" MODIFIED="1433606210289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kdd$extra_feature.coverage" NAME="extra_feature Coverage Results" MODIFIED="1434336734763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kdd$build_full_course_tree.coverage" NAME="build_full_course_tree Coverage Results" MODIFIED="1433629877717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kdd$extra_feature.coverage" NAME="extra_feature Coverage Results" MODIFIED="1434764765586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -38,22 +283,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build_full_tree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build_full_tree.py">
+      <file leaf-file-name="predict.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/predict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15151516">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build_course_tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build_course_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="34" />
-              <folding />
+            <state vertical-scroll-proportion="0.8264463">
+              <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,11 +347,13 @@
         <option value="$PROJECT_DIR$/full_tree_node.py" />
         <option value="$PROJECT_DIR$/train/fullTree/test.csv" />
         <option value="$PROJECT_DIR$/train/fullTree/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2_moduleIDs.csv" />
-        <option value="$PROJECT_DIR$/full_tree.py" />
         <option value="$PROJECT_DIR$/extra_matrix.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/extra_feature.py" />
+        <option value="$PROJECT_DIR$/full_tree.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
         <option value="$PROJECT_DIR$/build_full_tree.py" />
+        <option value="$PROJECT_DIR$/extra_feature.py" />
+        <option value="$PROJECT_DIR$/predict.py" />
       </list>
     </option>
   </component>
@@ -186,6 +425,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -204,41 +444,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kdd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kdd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="train" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kdd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kdd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="train" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,7 +465,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.extra_feature">
+  <component name="RunManager" selected="Python.predict">
     <configuration default="false" name="build_full_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,24 +502,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="build_course_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="kdd" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_course_tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="extra_feature" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,7 +520,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="extra_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -344,7 +533,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="kdd" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extra_matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="kdd" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -540,17 +747,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.build_full_tree" />
       <item index="1" class="java.lang.String" itemvalue="Python.test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.build_course_tree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.extra_feature" />
-      <item index="4" class="java.lang.String" itemvalue="Python.extra_matrix" />
+      <item index="2" class="java.lang.String" itemvalue="Python.extra_feature" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.predict" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.extra_feature" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.predict" />
+        <item index="1" class="java.lang.String" itemvalue="Python.extra_feature" />
         <item index="2" class="java.lang.String" itemvalue="Python.build_full_tree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.extra_matrix" />
-        <item index="4" class="java.lang.String" itemvalue="Python.build_course_tree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -585,20 +792,20 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2247191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18488254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32629558" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.416826" sideWeight="0.49233913" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42994243" sideWeight="0.48825333" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.71785027" sideWeight="0.50766087" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.52963674" sideWeight="0.5117467" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32821497" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32821497" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32821497" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -617,9 +824,9 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3544433" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32629558" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4069098" sideWeight="0.49233913" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4069098" sideWeight="0.49233913" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -640,18 +847,21 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/full_tree.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/train/course/1pvLqtotBsKv7QSOsLicJDQMHx3lui6d.csv">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/extra_feature.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="38" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="38" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -818,23 +1028,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train/log/_5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6547619">
-          <caret line="310" column="36" selection-start-line="310" selection-start-column="36" selection-end-line="310" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/courseDump/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41338584">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/train/log_train.csv">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state />
@@ -854,55 +1047,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train/log/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18650794">
-          <caret line="449" column="33" selection-start-line="449" selection-start-column="33" selection-end-line="449" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/access_log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19928825">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.05905512">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/pandas/io/parsers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33096084">
-          <caret line="1955" column="0" selection-start-line="1955" selection-start-column="0" selection-end-line="1955" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/fullTree/testencoding.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/full_tree_node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20892495">
-          <caret line="161" column="25" selection-start-line="161" selection-start-column="25" selection-end-line="161" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/fullTree/test.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21352313">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -926,16 +1074,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train/fullTree/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2_moduleIDs.csv">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46232876">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/course_tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52024925">
@@ -954,7 +1092,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25510204">
           <caret line="1576" column="26" selection-start-line="1576" selection-start-column="26" selection-end-line="1576" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -962,34 +1099,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27859238">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/fullTree/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.txt">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4692483">
-          <caret line="26578" column="60" selection-start-line="26578" selection-start-column="60" selection-end-line="26578" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/full_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4181818">
-          <caret line="144" column="17" selection-start-line="144" selection-start-column="17" selection-end-line="144" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/pandas/core/generic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41764706">
-          <caret line="303" column="0" selection-start-line="303" selection-start-column="0" selection-end-line="303" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -997,7 +1106,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="3.202166">
           <caret line="583" column="0" selection-start-line="583" selection-start-column="0" selection-end-line="583" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1008,38 +1116,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="45.2897">
           <caret line="1407" column="6" selection-start-line="1407" selection-start-column="6" selection-end-line="1407" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train/features/5X6FeZozNMgE2VRi3MJYjkkFK8SETtu2.csv">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48387095">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extra_feature.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22863248">
-          <caret line="223" column="15" selection-start-line="223" selection-start-column="15" selection-end-line="223" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26868686">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1050,7 +1126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.45064378">
           <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,23 +1136,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13667426">
           <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build_course_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.27272728">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3326572">
+          <caret line="480" column="0" selection-start-line="480" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6458333">
+          <caret line="2085" column="48" selection-start-line="2085" selection-start-column="48" selection-end-line="2085" selection-end-column="48" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/pandas/core/format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6231884">
+          <caret line="221" column="35" selection-start-line="221" selection-start-column="35" selection-end-line="221" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/full_tree_node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07910751">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/access_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.060851928">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/full_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.1971831">
+          <caret line="131" column="8" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36619717">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52816904">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build_full_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15151516">
+        <state vertical-scroll-proportion="0.5809859">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_feature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26056337">
+          <caret line="238" column="18" selection-start-line="238" selection-start-column="18" selection-end-line="238" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8264463">
+          <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
